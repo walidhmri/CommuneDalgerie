@@ -1,0 +1,398 @@
+[
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-RP",
+        "code_postal": "30000",
+        "nom_exact": "ROUTE DE GHARDAIA - OUARGLA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HASSI-MESSAOUD",
+        "code_postal": "30001",
+        "nom_exact": "ROUTE ROUABEH MESSAOUD"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TOUGGOURT",
+        "code_postal": "30002",
+        "nom_exact": "RUE LIBERTE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TEMACINE",
+        "code_postal": "30003",
+        "nom_exact": "BOULVARD MED BOUDIAF"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "AIN-SAHRA",
+        "code_postal": "30004",
+        "nom_exact": "RUE TERMINUS"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "BLIDET-AMOR",
+        "code_postal": "30005",
+        "nom_exact": "BOULVARD EMIR AEK"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-HADJIRA",
+        "code_postal": "30006",
+        "nom_exact": "RUE MED CHAABANI EL HADJIRA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HASSI-MESSAOUD-EMIR-AEK",
+        "code_postal": "30007",
+        "nom_exact": "CITE BOUAMAMA HMD"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HASSI-MESSAOUD-AMIROUCHE",
+        "code_postal": "30008",
+        "nom_exact": "CITE 1800 LOGTS HMD"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "MEGGARINE",
+        "code_postal": "30009",
+        "nom_exact": "BOULVARD CENTRE VILLE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TOUGGOURT NEZLA",
+        "code_postal": "30010",
+        "nom_exact": "RUE ABANE RAMADANE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-1ER MAI",
+        "code_postal": "30011",
+        "nom_exact": "AVENUE SI EL HAOUAS OUARGLA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-BEN-M'HIDI",
+        "code_postal": "30012",
+        "nom_exact": "RUE ATTAOUT KADOUR OUARGLA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "ROUISSAT",
+        "code_postal": "30013",
+        "nom_exact": "RUE CHAHID BENSALEM"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "SAID-OTBA",
+        "code_postal": "30014",
+        "nom_exact": "ROUTE NATIONALE N°49"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TAIBET",
+        "code_postal": "30015",
+        "nom_exact": "CITE 05 JUILLET"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TOUGGOURT TEBESBEST",
+        "code_postal": "30016",
+        "nom_exact": "RUE BAGHDAD"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TOUGGOURT-EMIR-AEK",
+        "code_postal": "30017",
+        "nom_exact": "RUE AHMED DJARI"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "ZAOUIA-SIDI-LABED",
+        "code_postal": "30018",
+        "nom_exact": "RUE OUED RIGH"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "AIN-BEIDA",
+        "code_postal": "30019",
+        "nom_exact": "ROUTE NATIONALE N°206"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "BENACEUR",
+        "code_postal": "30020",
+        "nom_exact": "ROUTE NATIONALE N° 16"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "CHOTT",
+        "code_postal": "30021",
+        "nom_exact": "RUE COMMUNAL"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "CITE EN-NASR-MARS 62",
+        "code_postal": "30022",
+        "nom_exact": "RUE 19 MARS 1962"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-ALIA",
+        "code_postal": "30023",
+        "nom_exact": "CITE EL ALIA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-BHOUR",
+        "code_postal": "30024",
+        "nom_exact": "RUE AMIROUCHE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-BORMA",
+        "code_postal": "30025",
+        "nom_exact": "ROUTE NATIONAL N°53"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-BOUR",
+        "code_postal": "30026",
+        "nom_exact": "CITE EL BOUR"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HAOUD-EL-HAMRA",
+        "code_postal": "30027",
+        "nom_exact": "BASE ZONE HAOUD EL HAMRA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "IRARA",
+        "code_postal": "30028",
+        "nom_exact": "BASE AGLOMERATION"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "M'NAGUEUR",
+        "code_postal": "30029",
+        "nom_exact": "APC M'NAGEUR"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "MOGGAR",
+        "code_postal": "30030",
+        "nom_exact": "CITE MOGGAR"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "N'GOUSSA",
+        "code_postal": "30031",
+        "nom_exact": "N'GOUSSA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-GHARBOUZ",
+        "code_postal": "30032",
+        "nom_exact": "RUE DJEBALI"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-SIDI-BOUGHOUFALA",
+        "code_postal": "30033",
+        "nom_exact": "RUE BEN BOULAID"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "SIDI-AMRANE",
+        "code_postal": "30034",
+        "nom_exact": "CITE SIDI AMRANE MEKHADMA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "SIDI-KHOUILED",
+        "code_postal": "30035",
+        "nom_exact": "RUE 05 JUILLET"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "SIDI-MADHI",
+        "code_postal": "30036",
+        "nom_exact": "CITE SIDI MADHI"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "SIDI-SLIMANE",
+        "code_postal": "30037",
+        "nom_exact": "ROUTE PRINCIPALE SIDI SLIMANE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "SOKRA",
+        "code_postal": "30038",
+        "nom_exact": "CITE MASDJED EL ATIK"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "5 JUILLET ZAOUIA EL-ABIDIA",
+        "code_postal": "30039",
+        "nom_exact": "RUE 05 JUILLET"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "AIN-MOUSSA",
+        "code_postal": "30040",
+        "nom_exact": "CITE AIN MOUSSA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "BAMENDIL",
+        "code_postal": "30041",
+        "nom_exact": "RUE 20 AOUT"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "BOUAMEUR",
+        "code_postal": "30042",
+        "nom_exact": "RUE BOUROUBA DAHMANE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "CHEGGA",
+        "code_postal": "30043",
+        "nom_exact": "RUE KADRI AHMED"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "DLILIAI",
+        "code_postal": "30044",
+        "nom_exact": "DLILIAI CENTRE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-HADEB",
+        "code_postal": "30045",
+        "nom_exact": "ROUTE NATIONALE NÂ° 213"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-HARIHIRA",
+        "code_postal": "30046",
+        "nom_exact": "CITE EL-HARHIRA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-KHOUBNA",
+        "code_postal": "30047",
+        "nom_exact": "ROUTE NATIONALE NÂ°16"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "EL-KSOUR",
+        "code_postal": "30048",
+        "nom_exact": "RUE CHATEAU D'EAU"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "FRANE",
+        "code_postal": "30049",
+        "nom_exact": "CITE FRANE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "GHAMRA",
+        "code_postal": "30050",
+        "nom_exact": "RUE CENTRE DE CULTURE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "GOUG",
+        "code_postal": "30051",
+        "nom_exact": "BOULVARD ECOLE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HASSI-BEN-ABDELLAH",
+        "code_postal": "30052",
+        "nom_exact": "RUE HAOUARI BOUMEDIENE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "LAGRAF",
+        "code_postal": "30053",
+        "nom_exact": "RUE SI ELHAOUAS"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "MOUIH-BEN-ALI",
+        "code_postal": "30054",
+        "nom_exact": "ROUTE NATIONALE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "RACHEDI",
+        "code_postal": "30055",
+        "nom_exact": "CITE RACHEDI"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TAIBINE",
+        "code_postal": "30056",
+        "nom_exact": "RUE BEDJERA BELKACEM"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HASSI-MESSAOUD-TOUMIAT",
+        "code_postal": "30057",
+        "nom_exact": "CITE 136 LOGTS HMD"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "TEBESBEST HAY AYAD",
+        "code_postal": "30058",
+        "nom_exact": "RUE AHMED ABCHI EL MOSTAKBEL"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "MEKHADMA",
+        "code_postal": "30059",
+        "nom_exact": "CITE 460 LGTS MEKHADMA OUARGLA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "HAI-EL-MOUSTAKBEL",
+        "code_postal": "30060",
+        "nom_exact": "ROUTE NATIONALE N 05"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-EL-WAHAT",
+        "code_postal": "30061",
+        "nom_exact": "AVENUE EMIR AEK"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-GARE-ROUTIERE",
+        "code_postal": "30062",
+        "nom_exact": "OUARGLA GARE ROUTIERE"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-UNIVERSITE",
+        "code_postal": "30063",
+        "nom_exact": "UNIVERSITE KASDI MERBAH OUARGLA"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-4E R.M",
+        "code_postal": "",
+        "nom_exact": "ROUTE NATIONALE NÂ°206"
+    },
+    {
+        "wilaya": "OUARGLA",
+        "nom": "OUARGLA-DRAS 4",
+        "code_postal": "",
+        "nom_exact": "OEUVRES SOCIALE DRAS 4"
+    }
+]

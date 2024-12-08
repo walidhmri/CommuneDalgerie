@@ -1,0 +1,584 @@
+[
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-RP",
+        "code_postal": "7000",
+        "nom_exact": "BOULEVARD EMIR AEK BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-STAR-MELOUK",
+        "code_postal": "7001",
+        "nom_exact": "RUE ZAATCHA BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "OULED-DJELLAL",
+        "code_postal": "7002",
+        "nom_exact": "RUE DE L'INDEPENDANCE OULED DJELLAL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "TOLGA",
+        "code_postal": "7003",
+        "nom_exact": "AV 5 JUILLET TOLGA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-KHALED",
+        "code_postal": "7004",
+        "nom_exact": "CITE PTT SIDI KHALED"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-OKBA",
+        "code_postal": "7005",
+        "nom_exact": "ROUTE AIN NAGA SIDI OKBA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-BAB-DARB",
+        "code_postal": "7006",
+        "nom_exact": "RUE KHRACHI BRAHIM BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "DOUCEN",
+        "code_postal": "7007",
+        "nom_exact": "RUE EL AMARI KHALIFA DOUCEN"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-KANTARA",
+        "code_postal": "7008",
+        "nom_exact": "RUE 5 JUILLET EL KANTARA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "LICHANA",
+        "code_postal": "7009",
+        "nom_exact": "RUE 1ER NOV 54 LICHANA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "M'CHOUNECH",
+        "code_postal": "7010",
+        "nom_exact": "RUE MEOURI M'CHOUNECHE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "OURLAL",
+        "code_postal": "7011",
+        "nom_exact": "RUE CHAIBA ABDEL MADJID OURLAL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "ZERIBET-EL-OUED",
+        "code_postal": "7012",
+        "nom_exact": "RUE NATIONNALE NÂ° 83 ZERIBET EL OUED"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "AIN-ZAATOUT",
+        "code_postal": "7013",
+        "nom_exact": "RUE 10 JUILLET 57 AIN ZAATOUT"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-BENI-MORAH",
+        "code_postal": "7014",
+        "nom_exact": "HAI BELAIATH BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-CITE-EL-AMAL",
+        "code_postal": "7015",
+        "nom_exact": "CITE 726 LOGTS BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-EL-ALIA",
+        "code_postal": "7016",
+        "nom_exact": "RUE FRERES OUANOUGHI EL ALIA BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-EL-ALIA-NOUR",
+        "code_postal": "7017",
+        "nom_exact": "RUE FERAH MELOUD EL ALIA BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-LEBCHECHE",
+        "code_postal": "7018",
+        "nom_exact": "HAI LEBCHECHE BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-SIDI-GHEZAL",
+        "code_postal": "7019",
+        "nom_exact": "HAI SIDI GHEZEL BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-UNIVERSITE",
+        "code_postal": "7020",
+        "nom_exact": "UNIVERSITE KHAIDER MED  BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BORDJ-BENAZZOUZ",
+        "code_postal": "7021",
+        "nom_exact": "RUE ALI HAIF  BORDJ BEN AZZOUZ"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BOUCHAGROUNE",
+        "code_postal": "7022",
+        "nom_exact": "RUE EMIR AEK BOUCHAGROUNE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BRANIS",
+        "code_postal": "7023",
+        "nom_exact": "RUE 19 JUIN BRANIS"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "CHETMA",
+        "code_postal": "7024",
+        "nom_exact": "RUE AMRANE MOHAMED CHETMA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "DJEMOURAH",
+        "code_postal": "7025",
+        "nom_exact": "RUE 1ER NOV DJEMMORAH"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-FEIDH",
+        "code_postal": "7026",
+        "nom_exact": "HAI EL JADIDE EL FEIDH"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-GHROUS",
+        "code_postal": "7027",
+        "nom_exact": "RUE SOUERET EL TAYB EL GHROUS"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-HAOUCH",
+        "code_postal": "7028",
+        "nom_exact": "HAI EL MOUDJAHIDINE EL HAOUCH"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-KANTARA-LES-GORGES",
+        "code_postal": "7029",
+        "nom_exact": "ROUTE DE BATNA EL KANTARA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-OUTAYA",
+        "code_postal": "7030",
+        "nom_exact": "RUE BOUDJEMAA MIHOUB EL OUTAYA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "FOUGHALA",
+        "code_postal": "7031",
+        "nom_exact": "RUE SELLAMINE AISSA FOUGHALA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "KHANGAT-SIDI-NADJI-EL-BORDJ",
+        "code_postal": "7032",
+        "nom_exact": "RUE NATIONNALE NÂ° 83  KHANGAT-SIDI-NADJI-EL-BORDJ"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "LIOUA",
+        "code_postal": "7033",
+        "nom_exact": "RUE SAHEL SEDIK LIOUA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "MEKHADMA",
+        "code_postal": "7034",
+        "nom_exact": "RUE DES COUSINS ZAGHEZ  MEKHADMA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "OUMACHE",
+        "code_postal": "7035",
+        "nom_exact": "CITE BELKHOUKH OUMACHE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-KHALED-DRISSI-MED",
+        "code_postal": "7036",
+        "nom_exact": "CITE DRISSI MOHAMED SIDI KHALED"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "AIN-EL-KERMA",
+        "code_postal": "7037",
+        "nom_exact": "AIN-EL-KERMA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "AIN-GHEZAL",
+        "code_postal": "7038",
+        "nom_exact": "AIN-GHEZAL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "AIN-NAGA",
+        "code_postal": "7039",
+        "nom_exact": "AIN-NAGA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "ARICH-HAMOULA",
+        "code_postal": "7040",
+        "nom_exact": "ARICH-HAMOULA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BADES",
+        "code_postal": "7041",
+        "nom_exact": "BADES"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BANIANE",
+        "code_postal": "7042",
+        "nom_exact": "BANIANE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BEGHILA",
+        "code_postal": "7043",
+        "nom_exact": "BEGHILA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BESBES",
+        "code_postal": "7044",
+        "nom_exact": "BESBES"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BIR-NAAM",
+        "code_postal": "7045",
+        "nom_exact": "BIR-NAAM"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BOUCHAGROUNE-C-AMIROUCHE",
+        "code_postal": "7046",
+        "nom_exact": "CITE AMIROUCHE  BOUCHAGROUNE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "CHAIBA",
+        "code_postal": "7047",
+        "nom_exact": "RUE HOUARI BOUMEDIEN CHAIBA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "DIFEL",
+        "code_postal": "7048",
+        "nom_exact": "DIFEL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "DRISS-AMOR",
+        "code_postal": "7049",
+        "nom_exact": "ROUTE NATIONAL NÂ°03"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "DROH",
+        "code_postal": "7050",
+        "nom_exact": "ROUTE D'ARRIS  DROH"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-AMRI",
+        "code_postal": "7051",
+        "nom_exact": "EL-AMRI"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-HORAYA",
+        "code_postal": "7052",
+        "nom_exact": "EL-HORAYA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-KANTARA 1ER NOV,",
+        "code_postal": "7053",
+        "nom_exact": "CITE 200 LOGEMENT EL KANTARA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-OUALADJA",
+        "code_postal": "7054",
+        "nom_exact": "EL-OUALADJA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "FARFAR",
+        "code_postal": "7055",
+        "nom_exact": "FARFAR"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "FELIACHE",
+        "code_postal": "7056",
+        "nom_exact": "FELIACHE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "FERFAD-ALI",
+        "code_postal": "7057",
+        "nom_exact": "CITE OUEST OULED DJELLAL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "GHARTHA",
+        "code_postal": "7058",
+        "nom_exact": "GHARTHA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "GUEDILA",
+        "code_postal": "7059",
+        "nom_exact": "ROUTE DJEMOURAH GUEDILA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "GUETTOUCHI-LAKHDAR",
+        "code_postal": "7060",
+        "nom_exact": "HAI EL BLIDA M'CHOUNECHE"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "HASSI-CIDA",
+        "code_postal": "7061",
+        "nom_exact": "HASSI-CIDA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "HASSI-SMARA",
+        "code_postal": "7062",
+        "nom_exact": "HASSI-SMARA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "KHAFOURA",
+        "code_postal": "7063",
+        "nom_exact": "KHAFOURA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "LEGSAIAT",
+        "code_postal": "7064",
+        "nom_exact": "LEGSAIAT"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "LES-FRERES-HARZELLI",
+        "code_postal": "7065",
+        "nom_exact": "LES-FRERES-HARZELLI"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "MEGLOUB",
+        "code_postal": "7066",
+        "nom_exact": "MEGLOUB"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "MEZIRAA",
+        "code_postal": "7067",
+        "nom_exact": "MEZIRAA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "M'LILI",
+        "code_postal": "7068",
+        "nom_exact": "VILLAGE AGRICOLE M'LLILI"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "N'FIDHET-RAGMA",
+        "code_postal": "7069",
+        "nom_exact": "N'FIDHET-RAGMA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "OULED-DJELLAL-1ER MAI",
+        "code_postal": "7070",
+        "nom_exact": "RUE SLIMANI MOHAMED OULED DJELLAL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "RAS-DJEDER",
+        "code_postal": "7071",
+        "nom_exact": "RAS-DJEDER"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "RAS-EL-MIAAD",
+        "code_postal": "7072",
+        "nom_exact": "RAS-EL-MIAAD"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "ROUIDJEL",
+        "code_postal": "7073",
+        "nom_exact": "ROUIDJEL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SAADA",
+        "code_postal": "7074",
+        "nom_exact": "SAADA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SEHIRA",
+        "code_postal": "7075",
+        "nom_exact": "SEHIRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SERIANA",
+        "code_postal": "7076",
+        "nom_exact": "SERIANA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-KHELLIL",
+        "code_postal": "7077",
+        "nom_exact": "SIDI-KHELLIL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-MASMOUDI",
+        "code_postal": "7078",
+        "nom_exact": "SIDI-MASMOUDI"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-MOHAMED-MOUSSA",
+        "code_postal": "7079",
+        "nom_exact": "SIDI-MOHAMED-MOUSSA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BENTHIOUS (TARFAYET EL NOS)",
+        "code_postal": "7080",
+        "nom_exact": "RUE REZIGAT AMOR  OURLAL"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "TIZI",
+        "code_postal": "7081",
+        "nom_exact": "RUE DADA AMAR AIN ZAATOUT"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "TOLGA-EMIR-AEK",
+        "code_postal": "7082",
+        "nom_exact": "RUE EMIR AEK TOLGA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "ZAATCHA-BEN-BOULAID",
+        "code_postal": "7083",
+        "nom_exact": "ZAATCHA-BEN-BOULAID"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "ZERIBET-EL-OUED 1ER NOV.",
+        "code_postal": "7084",
+        "nom_exact": "CITE COMMUNALE  ZERIBET EL OUED"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "ZERIBET-HAMED",
+        "code_postal": "7085",
+        "nom_exact": "ZERIBET-HAMED"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-ABDERRAHMANE-GACEM",
+        "code_postal": "7086",
+        "nom_exact": "CITE ADMINISTRATIVE EL ALIA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "EL-BAYADH",
+        "code_postal": "7087",
+        "nom_exact": "EL-BAYADH"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-GARE-ROUTIERE",
+        "code_postal": "7088",
+        "nom_exact": "GARE ROUTIERE SOGRAL BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-AIR",
+        "code_postal": "7089",
+        "nom_exact": "CASERNE CFTS BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-KORRA",
+        "code_postal": "7090",
+        "nom_exact": "CASERNE ETAP  BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-BASE",
+        "code_postal": "7091",
+        "nom_exact": "CASERNE   BISKRA"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BISKRA-HAY-EL-MOUDJAHIDINE",
+        "code_postal": "7092",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "OULED-SEID",
+        "code_postal": "7093",
+        "nom_exact": "OULED-SEID"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "BENI-SOUIK",
+        "code_postal": "7094",
+        "nom_exact": "BENI-SOUIK"
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "MOBAR-MOHAMED",
+        "code_postal": "7095",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "BISKRA",
+        "nom": "SIDI-OKBA-CHEIKH-TAYEB-EL-OKBI",
+        "code_postal": "",
+        "nom_exact": "SIDI-OKBA"
+    }
+]

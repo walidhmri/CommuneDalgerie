@@ -1,0 +1,494 @@
+[
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-RP",
+        "code_postal": "14000",
+        "nom_exact": "BOULEVARD DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "FRENDA",
+        "code_postal": "14001",
+        "nom_exact": "CITE POLICIERE FRENDA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KSAR-CHELLALA",
+        "code_postal": "14002",
+        "nom_exact": "CITE BELLE VUE CHELLALA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SOUGUEUR",
+        "code_postal": "14003",
+        "nom_exact": "BOULEVARD SI ABDELGHANI"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MAHDIA",
+        "code_postal": "14004",
+        "nom_exact": "RUE MOSTAPHA BENBOULAID"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "RAHOUIA",
+        "code_postal": "14005",
+        "nom_exact": "RUE CAPITAINE BOUCIF"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-Cnel-BOUKHARI-MUSTAPHA",
+        "code_postal": "14006",
+        "nom_exact": "CITE BELLE VUE TIARET"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-DEHEB",
+        "code_postal": "14007",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-EL-HADID",
+        "code_postal": "14008",
+        "nom_exact": "BOULEVARD DES MARTYRS"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-KERMES",
+        "code_postal": "14009",
+        "nom_exact": "RUE CAPITAINE BOUCIF"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "DAHMOUNI",
+        "code_postal": "14010",
+        "nom_exact": "RUE DE LA VOCTOIRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KSAR-CHELLALA-EL-WIAM",
+        "code_postal": "14011",
+        "nom_exact": "ROUTE DE TIARET"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MECHRAA-SFA",
+        "code_postal": "14012",
+        "nom_exact": "RUE  DU 05 JUILLET"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MEDRISSA",
+        "code_postal": "14013",
+        "nom_exact": "RUE MANSOUR MED"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "OUED-LILI",
+        "code_postal": "14014",
+        "nom_exact": "RUE DE L'INDEPENDANCE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TAKHMARET",
+        "code_postal": "14015",
+        "nom_exact": "BOULEVARD DES MARTYRS"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-BENAMARA-DJILLALI",
+        "code_postal": "14016",
+        "nom_exact": "BD BOUABDELLI BOUABDELLAH"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-DZARIT",
+        "code_postal": "14017",
+        "nom_exact": "CITE ZIROUD YOUCEF"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "COLONEL BOUGARA",
+        "code_postal": "14018",
+        "nom_exact": "CITE LA REVOLUTION"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "GUERTOUFA",
+        "code_postal": "14019",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "HAMADIA",
+        "code_postal": "14020",
+        "nom_exact": "ROUTE DE TISSEMESILT"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KERMAN",
+        "code_postal": "14021",
+        "nom_exact": "CITE KARMAN"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MEDROUSSA",
+        "code_postal": "14023",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MEGHILA",
+        "code_postal": "14024",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MELLAKOU",
+        "code_postal": "14025",
+        "nom_exact": "RUE OMRISSI BELKACEM"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "RECHAIGA",
+        "code_postal": "14026",
+        "nom_exact": "RUE DES MARCHES"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SI-ABDELGHANI",
+        "code_postal": "14027",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SIDI-ABDERRAHMANE",
+        "code_postal": "14028",
+        "nom_exact": "RUE BERIA MOHAMED"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SIDI-HOSNI",
+        "code_postal": "14029",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SI-HAOUES",
+        "code_postal": "14030",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-BOUHENNI",
+        "code_postal": "14031",
+        "nom_exact": "RUE CHADLI HABIB"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-CITE-CHAIB-MOHAMED",
+        "code_postal": "14032",
+        "nom_exact": "CITE CHAIB MED"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-MED-BOUDIAF",
+        "code_postal": "14033",
+        "nom_exact": "CITE DES 282 LOGEMENTS PREFA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-TAHRI-BOUABDELLAH",
+        "code_postal": "14034",
+        "nom_exact": "RUE HALLOUZ ABED PROLONGE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-UNIVERSITE",
+        "code_postal": "14035",
+        "nom_exact": "CITE DES 500 LOGEMENTS"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-ZAAROURA",
+        "code_postal": "14036",
+        "nom_exact": "HAI EL MANAR"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TOUSNINA",
+        "code_postal": "14037",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "Z'MALET-EL-EMIR-AEK",
+        "code_postal": "14038",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-BEIDA",
+        "code_postal": "14039",
+        "nom_exact": "AIN BEIDA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-BOUCHEKIF",
+        "code_postal": "14040",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-MERIEM",
+        "code_postal": "14041",
+        "nom_exact": "RUE BENAICHA AHMED"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-RADJAH",
+        "code_postal": "14042",
+        "nom_exact": "AIN RADJAH"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-SEBAIN",
+        "code_postal": "14043",
+        "nom_exact": "RUE DES MARTYRS"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-SI-MESBAH",
+        "code_postal": "14044",
+        "nom_exact": "VILLAGE AGRICOLE RTE DE SOUGUEUR"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "BOUNOUAL",
+        "code_postal": "14045",
+        "nom_exact": "ROUTE DE MASCARA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "CHEHAIMA",
+        "code_postal": "14046",
+        "nom_exact": "RUE HOUARI BOUMEDIENE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "DAYET-TERFES",
+        "code_postal": "14047",
+        "nom_exact": "VILLAGE AGRICOLE ."
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "DJILLALI-BEN-AMAR",
+        "code_postal": "14048",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "FAIDJA",
+        "code_postal": "14049",
+        "nom_exact": "RUE  A A  COTE DE LA GENDARMERIE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "FRENDA-EMIR-ABDELKADER",
+        "code_postal": "14050",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "FRITISSA",
+        "code_postal": "14051",
+        "nom_exact": "ROUTE DE SERGUINE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KERROUM-AMAR",
+        "code_postal": "14052",
+        "nom_exact": "HAI EL JAMIL"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KHARROUBA",
+        "code_postal": "14053",
+        "nom_exact": "VILLAGE AGRICOLE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KHERBET-OULED-BOUZIANE",
+        "code_postal": "14054",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MADNA",
+        "code_postal": "14055",
+        "nom_exact": "RUE MOHMAED BOUDIAF"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MAHDIA-EMIR-ABDELKADER",
+        "code_postal": "14056",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "EL-MELAAB",
+        "code_postal": "14057",
+        "nom_exact": "ROUTE DE MASCARA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "NADORAH",
+        "code_postal": "14058",
+        "nom_exact": "HAI MOULAYET HABIB"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "NADOR-M'NAOUER",
+        "code_postal": "14059",
+        "nom_exact": "VILLAGE AGRICOLE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "NAIMA",
+        "code_postal": "14060",
+        "nom_exact": "RUE CHEBIL ABDELKADER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "ROSFA",
+        "code_postal": "14061",
+        "nom_exact": "VILLAGE ROSFA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SEBT",
+        "code_postal": "14062",
+        "nom_exact": "CITE CENTRALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SERGUINE",
+        "code_postal": "14063",
+        "nom_exact": "COMMUNE DE SERGUINE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SIDI-ALI-MELLAL",
+        "code_postal": "14064",
+        "nom_exact": "CITE DES 20 LOGEMENTS"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SIDI-BAKHTI",
+        "code_postal": "14065",
+        "nom_exact": "RUE SBAA MEZIANE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SOUGUEUR CITE SAFA-ABDELKADER",
+        "code_postal": "14066",
+        "nom_exact": "CITE SAFA ABDELKADER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "SOUGUEUR-AMIROUCHE",
+        "code_postal": "14067",
+        "nom_exact": "RUE LALLA FATMA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TAGDEMPT",
+        "code_postal": "14068",
+        "nom_exact": "RUE PRINCIPALE  A COTE A.P.C"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TAZAKA",
+        "code_postal": "14069",
+        "nom_exact": "ROUTE DE SAIDA"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TEMDA",
+        "code_postal": "14070",
+        "nom_exact": "CITE MENAOUEUR ABDELKADER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIDDA",
+        "code_postal": "14071",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "FRENDA-IBN-KHALDOUN",
+        "code_postal": "14072",
+        "nom_exact": "RUE CAPITAINE BOUCIF"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "KAID-AHMED",
+        "code_postal": "14073",
+        "nom_exact": "AADL ROUTE D'ALGER"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "HAMADIA-EL-HIDHAB",
+        "code_postal": "14074",
+        "nom_exact": "RUE BOUNAAMA DJILLALI"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-SIDI-KHALED",
+        "code_postal": "14075",
+        "nom_exact": "CITE MARIE CURIE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-IBN-KHALDOUN",
+        "code_postal": "14076",
+        "nom_exact": "CENTRE UNIVERSITAIRE TIARET"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-CAMPUS",
+        "code_postal": "14077",
+        "nom_exact": "CENTRE UNIVERSITAIRE TIARET"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-KHALIL-HABIB",
+        "code_postal": "14078",
+        "nom_exact": "CENTRE UNIVERSITAIRE TIARET"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TORRICHE",
+        "code_postal": "14079",
+        "nom_exact": "TORRICHE"
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "AIN-KERMES-05-JUILLET-1962",
+        "code_postal": "14080",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "MEDRISSA-ENNADJAH",
+        "code_postal": "14081",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TIARET",
+        "nom": "TIARET-CHERIF-DJAGHRI",
+        "code_postal": "",
+        "nom_exact": "SECTEUR MILITAIRE"
+    }
+]

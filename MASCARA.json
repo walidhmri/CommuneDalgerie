@@ -1,0 +1,578 @@
+[
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-RP",
+        "code_postal": "29000",
+        "nom_exact": "RUE FRIMAHDI MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIG",
+        "code_postal": "29001",
+        "nom_exact": "06 RUE ZIROUT YOUCEF SIG"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MOHAMMADIA",
+        "code_postal": "29002",
+        "nom_exact": "PLACE DU MARCHE COUVERT MOHAMMADIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MOHAMMADIA-HABRA",
+        "code_postal": "29003",
+        "nom_exact": "CITE DES 124 LOTS MOHAMMADIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "TIGHENNIF",
+        "code_postal": "29004",
+        "nom_exact": "RUE EMIR ABDALKADER TIGHENNIF"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "BOU-HANIFIA",
+        "code_postal": "29005",
+        "nom_exact": "RUE DE LA REPUBLIQUE BOUHANIFIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "GHRISS",
+        "code_postal": "29006",
+        "nom_exact": "RUE GHEZZOUAR GHRISS"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-BAB-ALI",
+        "code_postal": "29007",
+        "nom_exact": "RUE CEIKH BOURAS BAB ALI MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-EMIR-ABDELKADER",
+        "code_postal": "29008",
+        "nom_exact": "RUE MENAOUER DJEBAR MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-RACHIDIA",
+        "code_postal": "29009",
+        "nom_exact": "RUE KEDIDER ABDELKADER BAB ALI"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIG-LES-OLIVIERS",
+        "code_postal": "29010",
+        "nom_exact": "RUE ABDENOUR MOSTAPHA SIG"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AIN-FEKAN",
+        "code_postal": "29011",
+        "nom_exact": "RUE DE L'INDEPENDANCE AIN FEKAN"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-BORDJ",
+        "code_postal": "29012",
+        "nom_exact": "RUE DES MARTYRS EL BORDJ"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-HACHEM",
+        "code_postal": "29013",
+        "nom_exact": "RUE EMIR ABDALKADER EL HACHEM"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "HACINE",
+        "code_postal": "29014",
+        "nom_exact": "HACINE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MAOUSSA",
+        "code_postal": "29015",
+        "nom_exact": "RUE FARHAOUI AHMED MAOUSSA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "OUED-EL-ABTAL",
+        "code_postal": "29016",
+        "nom_exact": "RUE KHELLIL KHELLIL OUED EL ABTAL"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "OUED-TARIA",
+        "code_postal": "29017",
+        "nom_exact": "RUE DE L'INDEPENDANCE OUED TARIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "TIZI",
+        "code_postal": "29018",
+        "nom_exact": "RUE NASREDDINE TIZI"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "ZAHANA",
+        "code_postal": "29019",
+        "nom_exact": "PLACE DU 05 JUILLET 1962"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AIN-FARES",
+        "code_postal": "29020",
+        "nom_exact": "RUE REMAL ABDELKADER AIN FARES"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AOUF",
+        "code_postal": "29021",
+        "nom_exact": "RUE LARBI BENMEHIDI  AOUF"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "BOU-HENNI",
+        "code_postal": "29022",
+        "nom_exact": "RUE DU 1ER NOVEMBRE 1954 BOUHENNI"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-GHOMRI",
+        "code_postal": "29023",
+        "nom_exact": "RUE DE LA MOSQUEE EL GHOMRI"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "FROHA",
+        "code_postal": "29024",
+        "nom_exact": "PLACE EN-NASR FROHA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "KHALOUIA",
+        "code_postal": "29025",
+        "nom_exact": "RUE DU 1ER NOVEMBRE 1954 KHALOUIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MATEMORE",
+        "code_postal": "29026",
+        "nom_exact": "RUE EMIR ABDELKADER MATEMORE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MOCTA-DOUZ",
+        "code_postal": "29027",
+        "nom_exact": "RUE EMIR ABDEKKADER MOCTA DOUZ"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MOHAMMADIA-BENI-CHOUGRANE",
+        "code_postal": "29028",
+        "nom_exact": "CITE DES FRERES BENANI MOHAMMADIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "OGGAZ",
+        "code_postal": "29029",
+        "nom_exact": "RUE DE L'INDEPENDANCE OGGAZ"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-KADA",
+        "code_postal": "29030",
+        "nom_exact": "RUE DES MARTYRS SIDI KADA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "TIGHENNIF-SIDI-HAMOU",
+        "code_postal": "29031",
+        "nom_exact": "RUE SIDI HAMOU TIGHENNIF"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AIN-BOURAS",
+        "code_postal": "29032",
+        "nom_exact": "AIN BOURAS"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AIN-FARAH",
+        "code_postal": "29033",
+        "nom_exact": "AIN FARAH"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AIN-FRASS",
+        "code_postal": "29034",
+        "nom_exact": "AIN FRASS"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AIN-MANSOUR",
+        "code_postal": "29035",
+        "nom_exact": "AIN MANSOUR"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "ALAIMIA",
+        "code_postal": "29036",
+        "nom_exact": "ALAIMIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "BENCHENINE",
+        "code_postal": "29037",
+        "nom_exact": "BENCHENINE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "BENIAN",
+        "code_postal": "29038",
+        "nom_exact": "BENIAN"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "CHORFA",
+        "code_postal": "29039",
+        "nom_exact": "CHORFA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "DJENIEN-MESKINE",
+        "code_postal": "29040",
+        "nom_exact": "DJENIENE MESKINE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-GAADA",
+        "code_postal": "29041",
+        "nom_exact": "EL GAADA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-GUEITHNA",
+        "code_postal": "29042",
+        "nom_exact": "EL GUEITHNA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-KEURT",
+        "code_postal": "29043",
+        "nom_exact": "RUE DU 1ER NOVEMBRE 1954 EL KEURT"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-MENAOUER",
+        "code_postal": "29044",
+        "nom_exact": "EL MENAOUER"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "FERGOUG",
+        "code_postal": "29045",
+        "nom_exact": "FERGOUG"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "FERRAGUIG",
+        "code_postal": "29046",
+        "nom_exact": "FERRAGUIG"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "GHARROUS",
+        "code_postal": "29047",
+        "nom_exact": "GHARROUS"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "GRAIA",
+        "code_postal": "29048",
+        "nom_exact": "GRAIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "GRARA",
+        "code_postal": "29049",
+        "nom_exact": "GRARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "GUERDJOUM",
+        "code_postal": "29050",
+        "nom_exact": "GUERDJOUM"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "HASSI-OUDJERNA",
+        "code_postal": "29051",
+        "nom_exact": "HASSI OUDJERNA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "KHESSIBIA",
+        "code_postal": "29052",
+        "nom_exact": "KHESSIBIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "KHROUF",
+        "code_postal": "29053",
+        "nom_exact": "KHROUF"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MACTAA-MENAOUER",
+        "code_postal": "29054",
+        "nom_exact": "MACTAA M'NAOUER"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MAKDA",
+        "code_postal": "29055",
+        "nom_exact": "MAKDA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MAMOUNIA",
+        "code_postal": "29056",
+        "nom_exact": "MAMOUNIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "ZELAMTA",
+        "code_postal": "29057",
+        "nom_exact": "ZELAMTA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "NESMOTH",
+        "code_postal": "29058",
+        "nom_exact": "NESMOTH"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "OULED-KHAMSA",
+        "code_postal": "29059",
+        "nom_exact": "OULED KHAMSA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "RAS-EL-AIN-AMIROUCHE",
+        "code_postal": "29060",
+        "nom_exact": "RAS EL AIN AMIROUCHE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SAHAOURIA",
+        "code_postal": "29061",
+        "nom_exact": "SAHAOURIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SEDJERARA",
+        "code_postal": "29062",
+        "nom_exact": "SEDJERARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SEHAILIA",
+        "code_postal": "29063",
+        "nom_exact": "SEHAILIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SELATNA",
+        "code_postal": "29064",
+        "nom_exact": "RUE BENSAHNOUN MECHERKI SELATNA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-ABDELDJEBAR",
+        "code_postal": "29065",
+        "nom_exact": "SIDI ABDELDJEBAR"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-ABDELMOUMENE",
+        "code_postal": "29066",
+        "nom_exact": "SIDI ABDELMOUMEN"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-BENZERGA",
+        "code_postal": "29067",
+        "nom_exact": "SIDI BENZERGA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SAF-SAF",
+        "code_postal": "29068",
+        "nom_exact": "SAF SAF"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-BOUSSAID",
+        "code_postal": "29069",
+        "nom_exact": "SIDI BOUSSAID"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-SLIMANE",
+        "code_postal": "29070",
+        "nom_exact": "SIDI SLIMANE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SMALA-SIDI-MAHIEDINE",
+        "code_postal": "29071",
+        "nom_exact": "SMALA SIDI MAHIEDDINE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SOUIHIA",
+        "code_postal": "29072",
+        "nom_exact": "SOUIHIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "TEMAZNIA",
+        "code_postal": "29073",
+        "nom_exact": "TEMAZNIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "YALOU",
+        "code_postal": "29074",
+        "nom_exact": "YALOU"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "ZAGHLOUL",
+        "code_postal": "29075",
+        "nom_exact": "ZAGHLOUL"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "ZELLAGA",
+        "code_postal": "29076",
+        "nom_exact": "ZELLAGA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "BEKHAITIA",
+        "code_postal": "29077",
+        "nom_exact": "BEKHAITIA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIDI-M'BAREK",
+        "code_postal": "29078",
+        "nom_exact": "SIDI M'BAREK"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AHL-EL-AID",
+        "code_postal": "29079",
+        "nom_exact": "AHL EL AID"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-EMIR-KHALED",
+        "code_postal": "29080",
+        "nom_exact": "RUE CHEIKH EL KHALDI MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-EL-QUODS",
+        "code_postal": "29081",
+        "nom_exact": "CITE EL QUODS MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AHL-EL-OUANANE",
+        "code_postal": "29082",
+        "nom_exact": "AHL EL OUANANE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "EL-MALEH",
+        "code_postal": "29083",
+        "nom_exact": "EL MALEH"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "SIG-1ER NOVEMBRE",
+        "code_postal": "29084",
+        "nom_exact": "RUE COLONEL LOTFI SIG"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-SIDI-SAID",
+        "code_postal": "29085",
+        "nom_exact": "CITE 275 LOGTS MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "GHRISS-DARDARA",
+        "code_postal": "29086",
+        "nom_exact": "CITE DES 64 LOGTS GHRISS"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "OUED-TARIA-1ER NOVEMBRE",
+        "code_postal": "29087",
+        "nom_exact": "LA LOCALITE D'OUED TARIA,MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-UNIVERSITE",
+        "code_postal": "29088",
+        "nom_exact": "MASCARA UNIVERSITE SIDI SID"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-CITE-ADMINISTRATIVE",
+        "code_postal": "29089",
+        "nom_exact": "MASCARA CITE ADMINISTRATIVE"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "OULED-BALI",
+        "code_postal": "29090",
+        "nom_exact": "LOCALITE DE OULED BALI"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "AHNAIDJA",
+        "code_postal": "29091",
+        "nom_exact": "LA LOCALITE DE AHNAIDJA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MASCARA-01-NOVEMBRE-1954",
+        "code_postal": "29092",
+        "nom_exact": "CITE DES 936 LOGEMENTS, MASCARA"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "TIGHENNIF-BENDIKHA-LARBI",
+        "code_postal": "29093",
+        "nom_exact": "CHEF LIEU DAÃRA DE TIGHENNIF"
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "TIGHENNIF-AGEB-AHMED",
+        "code_postal": "29094",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "MASCARA",
+        "nom": "MOHAMMADIA-SIDHA-ABDELKADER",
+        "code_postal": "29095",
+        "nom_exact": ""
+    }
+]

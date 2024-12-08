@@ -1,0 +1,410 @@
+[
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-DEFLA-BOUSOUF-ABDELHAFIDH-RP",
+        "code_postal": "44000",
+        "nom_exact": "RUE 24 FEVRIER"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "KHEMIS-MILIANA",
+        "code_postal": "44001",
+        "nom_exact": "RUE TAHRAOUI BENMIRA"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "EL-ATTAF",
+        "code_postal": "44002",
+        "nom_exact": "RUE DE L'INDEPENDANCE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "MILIANA",
+        "code_postal": "44003",
+        "nom_exact": "RUE SAINT PAUL"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BOU-MEDFAA",
+        "code_postal": "44004",
+        "nom_exact": "RUE EMIR-AEK"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "DJENDEL",
+        "code_postal": "44005",
+        "nom_exact": "RUE 20 AOUT"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "EL-ABADIA",
+        "code_postal": "44006",
+        "nom_exact": "RUE DJILLALI BOUAMAMA"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-DEFLA-MARTYRS",
+        "code_postal": "44007",
+        "nom_exact": "RUE EMI-KHALED"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "ARIB",
+        "code_postal": "44008",
+        "nom_exact": "RUE GHENIMA MED"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "DJELIDA",
+        "code_postal": "44009",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "EL-AMRA",
+        "code_postal": "44010",
+        "nom_exact": "RUE AHMED MEDDEGHRI"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "EL-ATTAF-8 MAI 1945",
+        "code_postal": "44011",
+        "nom_exact": "RUE 08 MAI 45"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "KHEMIS-MILIANA-DARDARA",
+        "code_postal": "44012",
+        "nom_exact": "HAY DARDARA"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "KHEMIS-MILIANA-ESSALEM",
+        "code_postal": "44013",
+        "nom_exact": "HAY  ESSALEM"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "KHEMIS-MILIANA-SOUAMAA",
+        "code_postal": "44014",
+        "nom_exact": "HAY SOUAMAA"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "KHEMIS-MILIANA-SOUFFAY",
+        "code_postal": "44015",
+        "nom_exact": "HAY SOUFFAY"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "MILIANA-KORKAH",
+        "code_postal": "44016",
+        "nom_exact": "HAY KORKAH"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "ROUINA",
+        "code_postal": "44017",
+        "nom_exact": "RUE DES MARTYRS"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-LECHIAKH",
+        "code_postal": "44018",
+        "nom_exact": "RUE 05 JUILLET"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-SULTAN",
+        "code_postal": "44019",
+        "nom_exact": "AIN SULTANE CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-TORKI",
+        "code_postal": "44020",
+        "nom_exact": "RUE 26 AVRIL"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BORDJ-EMIR-KHALED",
+        "code_postal": "44021",
+        "nom_exact": "RUE MED LASFAR"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "EL-HASSANIA",
+        "code_postal": "44022",
+        "nom_exact": "RUE MED BELAYEB"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "HAMMAM-RIGHA",
+        "code_postal": "44023",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OUED-CHORFA",
+        "code_postal": "44024",
+        "nom_exact": "RUE DES POSTES ET TELECOMS"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OULED-MOUSSA-TERCHI",
+        "code_postal": "44025",
+        "nom_exact": "RUE CHEKIKEN BEN AHMED"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "SIDI-BOUABIDA",
+        "code_postal": "44026",
+        "nom_exact": "RUE IBN-BADISS"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "SIDI-LAKHDAR",
+        "code_postal": "44027",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "TACHETA-ZOUGGARA",
+        "code_postal": "44028",
+        "nom_exact": "RUE DE LA MOSQUEE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "TARIK-IBN-ZIAD",
+        "code_postal": "44029",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "TIBERKANINE",
+        "code_postal": "44030",
+        "nom_exact": "TIBERKANINE CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "ZEDDINE",
+        "code_postal": "44031",
+        "nom_exact": "RUE 19 MARS"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-BOUYAHIA",
+        "code_postal": "44032",
+        "nom_exact": "AIN BENYAHIA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-DEFLA-MAZOUNI",
+        "code_postal": "44033",
+        "nom_exact": "HAY MAZOUNI"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-DEM",
+        "code_postal": "44034",
+        "nom_exact": "AIN-DEM CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AIN-EL-BENIAN",
+        "code_postal": "44035",
+        "nom_exact": "AIN BENIANE CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "AMOURAH",
+        "code_postal": "44036",
+        "nom_exact": "AMOURAH CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BABA-DRISS-AOUAIDIA",
+        "code_postal": "44037",
+        "nom_exact": "BABA-DRISS CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BELAAS",
+        "code_postal": "44038",
+        "nom_exact": "BELAAS CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BEL-ABBES",
+        "code_postal": "44039",
+        "nom_exact": "BEL ABBES CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BEN-ALLEL",
+        "code_postal": "44040",
+        "nom_exact": "BEN-ALLEL  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BETHAIA",
+        "code_postal": "44041",
+        "nom_exact": "BATHIA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BIR-BOUCHE",
+        "code_postal": "44042",
+        "nom_exact": "BIRBOUCHE CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BIR-OULED-KHALIFA",
+        "code_postal": "44043",
+        "nom_exact": "BIR OULED KHELIFA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "BOURACHED",
+        "code_postal": "44044",
+        "nom_exact": "ESSEBTE CENTRE BOURACHED"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "CHEIKH-BENYAHIA",
+        "code_postal": "44045",
+        "nom_exact": "CHIEKH BENYAHIA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "DJEBABRA",
+        "code_postal": "44046",
+        "nom_exact": "DJEBABRA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "DJEMAA-OULED-CHEIKH",
+        "code_postal": "44047",
+        "nom_exact": "DJEMAA  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "HOCEINIA",
+        "code_postal": "44048",
+        "nom_exact": "HOCEINIA  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "MATMATA",
+        "code_postal": "44049",
+        "nom_exact": "MATMATA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "MEKHATRIA-KLITINE-MOHAMED",
+        "code_postal": "44050",
+        "nom_exact": "MEKHATRIA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "MOULAY-ABDELKADER",
+        "code_postal": "44051",
+        "nom_exact": "MOULAY AEK  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OUED-DJEMAA",
+        "code_postal": "44052",
+        "nom_exact": "OUED DJEMAA  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OUED-ZEBBOUDJ",
+        "code_postal": "44053",
+        "nom_exact": "OUED ZEBBOUDJ CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OULED-BELGACEM",
+        "code_postal": "44054",
+        "nom_exact": "OULED BELGACEM CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "SAIDIA",
+        "code_postal": "44055",
+        "nom_exact": "SAIDI  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "SIDI-HAMOU",
+        "code_postal": "44056",
+        "nom_exact": "SIDI-HAMOU  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "SIDI-SAAD",
+        "code_postal": "44057",
+        "nom_exact": "SIDI-SAAD  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "SOUK-LETHNINE",
+        "code_postal": "44058",
+        "nom_exact": "SOUK-LETHNINE CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "ZOUGGALA",
+        "code_postal": "44059",
+        "nom_exact": "ZOUGGALA  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "FEGHAILIA",
+        "code_postal": "44060",
+        "nom_exact": "FEGHAILIA  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "MOKARI-DAHMANE",
+        "code_postal": "44061",
+        "nom_exact": "EPLF HAY  NADJEM"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OULED-BESSA",
+        "code_postal": "44062",
+        "nom_exact": "OULED-BESSA  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OULED-SI-AHMED",
+        "code_postal": "44063",
+        "nom_exact": "OULED-SI-AHMED  CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "OUED-BEDDA",
+        "code_postal": "44064",
+        "nom_exact": "OUED-BEDDA CENTRE"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "KHEMIS-MILIANA-UNIVERSITE",
+        "code_postal": "44065",
+        "nom_exact": "UNIVERSITE KHEMIS-MILIANA"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "DJELIDA-SADEK-BEN-ABDELLAH-BELKACEM",
+        "code_postal": "44066",
+        "nom_exact": "rue 01 novembre,commune de Djelida"
+    },
+    {
+        "wilaya": "AIN+DEFLA",
+        "nom": "DERABLA",
+        "code_postal": "44067",
+        "nom_exact": "DERABLA"
+    }
+]

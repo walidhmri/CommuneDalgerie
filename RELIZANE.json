@@ -1,0 +1,482 @@
+[
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-RP",
+        "code_postal": "48000",
+        "nom_exact": "BD MED KHEMISTI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OUED-RHIOU",
+        "code_postal": "48001",
+        "nom_exact": "BD DES MARTYRES"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "MAZOUNA",
+        "code_postal": "48002",
+        "nom_exact": "CTE 5 JUILLET 1962"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-M'HAMED-BEN-ALI",
+        "code_postal": "48003",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AMMI-MOUSSA",
+        "code_postal": "48004",
+        "nom_exact": "RUE LIEUTENANT S/AHMED"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "JDIOUIA",
+        "code_postal": "48005",
+        "nom_exact": "BD ALLAM  A/RAHMANE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "L'HILLIL",
+        "code_postal": "48006",
+        "nom_exact": "RUE BENFRIHA  M'NAOUER"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-LAHMAR",
+        "code_postal": "48007",
+        "nom_exact": "CITE DES 42 LOGTS"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "ZEMMOURA",
+        "code_postal": "48008",
+        "nom_exact": "BD CLONEL LOTFI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-MATMAR",
+        "code_postal": "48009",
+        "nom_exact": "BD SALHI BENACHIR"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "MAZOUNA-EL-MAAZIZ",
+        "code_postal": "48010",
+        "nom_exact": "RUE SIDI HAMMOU"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "MEDIOUNA",
+        "code_postal": "48011",
+        "nom_exact": "RUE AZZI  SAYEH"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "MENDES",
+        "code_postal": "48012",
+        "nom_exact": "RUE BENGUERDI  MISOUM"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OUARIZANE",
+        "code_postal": "48013",
+        "nom_exact": "RUE LARBI BEN M'HIDI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OUED-RHIOU-BOUDALIA",
+        "code_postal": "48014",
+        "nom_exact": "CTE BOUDALIA HASSANI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AIN-TARIK",
+        "code_postal": "48015",
+        "nom_exact": "BD MED KHEMISTI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-GUETTAR",
+        "code_postal": "48016",
+        "nom_exact": "RUE BENAOUDA  MED"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-H'MADNA",
+        "code_postal": "48017",
+        "nom_exact": "BD MED KHEMISTI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "KALAA",
+        "code_postal": "48018",
+        "nom_exact": "RUE DE L'IDEPONDENCE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "KHECHAI-BEN-AISSA",
+        "code_postal": "48019",
+        "nom_exact": "BD BOUZID SAID"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "LAHLEF",
+        "code_postal": "48020",
+        "nom_exact": "ROUTE AMMI MOUSSA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OUED-EL-DJEMAA",
+        "code_postal": "48021",
+        "nom_exact": "RUE BENKHELIFA  HABIB"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OUED-ES-SALAM",
+        "code_postal": "48022",
+        "nom_exact": "RUE  BOUAMOUD BEKKEDDA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OULED-MEZIANE",
+        "code_postal": "48023",
+        "nom_exact": "CITE THATA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RAMKA",
+        "code_postal": "48024",
+        "nom_exact": "CITE  20 AOUT"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-AISSAT-IDIR",
+        "code_postal": "48025",
+        "nom_exact": "CITE AISSAT IDIR"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-BENAOUDA-BESSAADI",
+        "code_postal": "48026",
+        "nom_exact": "CITE EL INTISSAR"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-BERREZGA",
+        "code_postal": "48027",
+        "nom_exact": "CITE BERREZGA AEK"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-ADDA",
+        "code_postal": "48028",
+        "nom_exact": "RUE FREFRES BENDIACHI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-KHETTAB",
+        "code_postal": "48029",
+        "nom_exact": "RUE EMIR  AEK"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-M'HAMED-BEN-AOUDA",
+        "code_postal": "48030",
+        "nom_exact": "BD HOUARI BOUMEDIENE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AHL-ABED",
+        "code_postal": "48031",
+        "nom_exact": "AHL-ABED"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AIN-MATBOUL",
+        "code_postal": "48032",
+        "nom_exact": "AIN-MATBOUL"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AIN-RAHMA",
+        "code_postal": "48033",
+        "nom_exact": "AIN-RAHMA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AKERMA",
+        "code_postal": "48034",
+        "nom_exact": "DOUAR EL KEDAICHIA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "AMMAMRA",
+        "code_postal": "48035",
+        "nom_exact": "KARIAT EL AMMAMRA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BELHACEL-BOUZEGZA",
+        "code_postal": "48036",
+        "nom_exact": "BD 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENDAOUD",
+        "code_postal": "48037",
+        "nom_exact": "BENDAOUD"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENI-CHEIKH",
+        "code_postal": "48038",
+        "nom_exact": "BENI-CHEIKH"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENI-DERGOUN",
+        "code_postal": "48039",
+        "nom_exact": "BENI-DERGOUN"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENI-YASSAAD",
+        "code_postal": "48040",
+        "nom_exact": "DOUAR BENI-YASSAAD"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENI-ZENTHIS",
+        "code_postal": "48041",
+        "nom_exact": "CTE KAZZAR"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENZIANE",
+        "code_postal": "48042",
+        "nom_exact": "BENZIANE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BOUGHIDEN",
+        "code_postal": "48043",
+        "nom_exact": "BOUGHIDEN"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "DAR-BEN-ABDELLAH",
+        "code_postal": "48044",
+        "nom_exact": "DAR-BEN-ABDELLAH"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-AOUEDJ",
+        "code_postal": "48045",
+        "nom_exact": "EL OUDJ"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-HASSI",
+        "code_postal": "48046",
+        "nom_exact": "CTA FTATCHA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-H'MADNA-BOUROKBA",
+        "code_postal": "48047",
+        "nom_exact": "RUE DU STADE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "EL-OULDJA",
+        "code_postal": "48048",
+        "nom_exact": "VILLAGE AGRICOLE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "GRAINIA",
+        "code_postal": "48049",
+        "nom_exact": "GRAINIA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "HAD-CHEKALLA",
+        "code_postal": "48050",
+        "nom_exact": "HAD-CHEKALLA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "HAMRI",
+        "code_postal": "48051",
+        "nom_exact": "RUE  NAIMI  HABIB"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "KENENDA",
+        "code_postal": "48052",
+        "nom_exact": "KENENDA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "KHACHAB-ZAGHLOUL",
+        "code_postal": "48053",
+        "nom_exact": "KHACHAB  ZAGHLOUL"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "KHARMACHA",
+        "code_postal": "48054",
+        "nom_exact": "KHARMACHA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "MARIOUA",
+        "code_postal": "48055",
+        "nom_exact": "MARIOUA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "MERDJA-SIDI-ABED",
+        "code_postal": "48056",
+        "nom_exact": "MERDJA-SIDI-ABED"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OUED-RHIOU-SNMG",
+        "code_postal": "48057",
+        "nom_exact": "CTE CHEBIRA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OULED-BOUALI",
+        "code_postal": "48058",
+        "nom_exact": "OULED-BOUALI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OULED-BOURIAH",
+        "code_postal": "48059",
+        "nom_exact": "OULED-BOURIAH"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OULED-GANA",
+        "code_postal": "48060",
+        "nom_exact": "VILLAGE AGRICOLE O/GANA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OULED-SIDI-MIHOUB",
+        "code_postal": "48061",
+        "nom_exact": "OULED-SIDI-MIHOUB"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "OULED-SOUID",
+        "code_postal": "48062",
+        "nom_exact": "DOUAR OULED-SOUID"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SEMMAR",
+        "code_postal": "48063",
+        "nom_exact": "SEMMAR"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-BOUABDELLAH",
+        "code_postal": "48064",
+        "nom_exact": "SIDI-BOUABDELLAH"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-LAZREG",
+        "code_postal": "48065",
+        "nom_exact": "HAI EL KARMOUD"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-MILIANI",
+        "code_postal": "48066",
+        "nom_exact": "SIDI-MILIANI"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SIDI-SAADA",
+        "code_postal": "48067",
+        "nom_exact": "RUE DU  KALAA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "SOUK-EL-HAD",
+        "code_postal": "48068",
+        "nom_exact": "CITE OULED AHMED"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "TAMDA",
+        "code_postal": "48070",
+        "nom_exact": "CITE LA FONTAINE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "TAMDJET",
+        "code_postal": "48071",
+        "nom_exact": "TAMDJET"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "TLIOUANET",
+        "code_postal": "48072",
+        "nom_exact": "TLIOUANET"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "ZENAINIA",
+        "code_postal": "48073",
+        "nom_exact": "DOUAR ZENAINIA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "BENADDA-ZAGHELOUL",
+        "code_postal": "48074",
+        "nom_exact": "CITE 340LOGTS BORMADIA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-11 DECEMBRE 1960",
+        "code_postal": "48075",
+        "nom_exact": "HAI EL NASR CITE 600 LOGTS"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-BOUBEKEUR",
+        "code_postal": "48076",
+        "nom_exact": "RUE SIDI M'HAMED BENAOUDA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-UNIVERSITE",
+        "code_postal": "48077",
+        "nom_exact": "CTE UNIVERSITAIRE BORMADIA"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-GARE-ROUTIERE",
+        "code_postal": "48078",
+        "nom_exact": "GARE ROUTIERE"
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "RELIZANE-BEN-ALI-TENFIR-BADRA",
+        "code_postal": "48079",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "RELIZANE",
+        "nom": "JDIOUIA-SOUKHAL-ABDELKADER",
+        "code_postal": "48080",
+        "nom_exact": ""
+    }
+]

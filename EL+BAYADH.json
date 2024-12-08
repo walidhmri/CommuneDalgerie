@@ -1,0 +1,260 @@
+[
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-RP",
+        "code_postal": "32000",
+        "nom_exact": "ROUTE D'AFLOU"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BOUGTOB",
+        "code_postal": "32001",
+        "nom_exact": "RUE MILOUDI BACHAR"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BREZINA",
+        "code_postal": "32002",
+        "nom_exact": "PLACE 19 JUIN"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-ABIODH-SIDI-CHEIKH",
+        "code_postal": "32003",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-TOUMI-MOHAMED",
+        "code_postal": "32004",
+        "nom_exact": "PLACE DE TRIPOLI"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "ARBAOUAT",
+        "code_postal": "32005",
+        "nom_exact": "RUE DES MARTYRS"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BOUALEM",
+        "code_postal": "32006",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-ABIODH-SIDI-CHEIKH-BELMABROUK",
+        "code_postal": "32007",
+        "nom_exact": "RUE DIDOUCHE MOURAD"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-AIT-AMIRI",
+        "code_postal": "32008",
+        "nom_exact": "HAI EL-LAOUZE"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-HAMIDI-BOULENOUAR",
+        "code_postal": "32009",
+        "nom_exact": "RUE 1ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-HASNAOUI-SAID",
+        "code_postal": "32010",
+        "nom_exact": "RUE DES FIDAHS"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-KHEITHER",
+        "code_postal": "32011",
+        "nom_exact": "RUE CHEIKH MED"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "HOSSEIN-IBN-ALI",
+        "code_postal": "32012",
+        "nom_exact": "SID EL HADJ BAHOUS"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "KEF-EL-AHMAR",
+        "code_postal": "32013",
+        "nom_exact": "ROUTE NATIONALE NÂ°06"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BOUSSEMGHOUN",
+        "code_postal": "32014",
+        "nom_exact": "RUE 1ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "CHELLALA-DAHRANIA",
+        "code_postal": "32015",
+        "nom_exact": "RUE BELIA LEHBIB"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-KADICHOU-MOHAMED",
+        "code_postal": "32016",
+        "nom_exact": "QUARTIER OULED YAHIA"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "GHASSOUL",
+        "code_postal": "32017",
+        "nom_exact": "PLACE SADELI MED"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "ROGASSA",
+        "code_postal": "32018",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "AIN-EL-ORAK",
+        "code_postal": "32019",
+        "nom_exact": "AIN EL ORAK"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "ARBA-FOUGANI",
+        "code_postal": "32020",
+        "nom_exact": "ARBAT FOUGANI"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BORDJ-EL-MAY",
+        "code_postal": "32021",
+        "nom_exact": "BORDJ EL MAY"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "CHEGUIG",
+        "code_postal": "32022",
+        "nom_exact": "RUE MOKADEM NAIMI"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "CHELLALA-EL-GUEBLIA",
+        "code_postal": "32023",
+        "nom_exact": "CHELLALA GUEBLIA"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "DEGHIMA",
+        "code_postal": "32024",
+        "nom_exact": "DEGHIMA"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BNOUD",
+        "code_postal": "32025",
+        "nom_exact": "BNOUD"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-MEHARA",
+        "code_postal": "32026",
+        "nom_exact": "EL M'HARRA"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "KRAKDA",
+        "code_postal": "32027",
+        "nom_exact": "KRAKDA"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "MOSBAH",
+        "code_postal": "32028",
+        "nom_exact": "MOSBAH"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "SIDI-AMAR",
+        "code_postal": "32029",
+        "nom_exact": "SIDI AMAR"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "SIDI-KHELIFA",
+        "code_postal": "32030",
+        "nom_exact": "SIDI KHELIFA"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "SIDI-SLIMANE",
+        "code_postal": "32031",
+        "nom_exact": "SIDI SLIMANE"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "SIDI-TIFOUR",
+        "code_postal": "32032",
+        "nom_exact": "SIDI TIFOUR"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "STITTEN",
+        "code_postal": "32033",
+        "nom_exact": "STITTEN"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "TOUSMOULINE",
+        "code_postal": "32034",
+        "nom_exact": "TOUSMOULINE"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-GARE-ROUTIERE",
+        "code_postal": "32035",
+        "nom_exact": "GARE-ROUTIERE EL-BAYADH"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-UNIVERSITE",
+        "code_postal": "32036",
+        "nom_exact": "CENTRE UNIVERSITAIRE NOUR BACHIER EL BAYADH"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-BAYADH-MED-LAMARI",
+        "code_postal": "32037",
+        "nom_exact": "EL-BAYADH CASERNE (TRANS)"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-ABIODH-SIDI-CHEIKH-GARE-ROUTIERE",
+        "code_postal": "32038",
+        "nom_exact": "GARE-ROUTIERE EL-ABIODH-SIDI-CHEIKH"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BOUGTOB-HAI-NASR",
+        "code_postal": "32039",
+        "nom_exact": "HAI-NASR"
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-ABIODH-SIDI-CHEIKH-DJOUDI-BAHOUS",
+        "code_postal": "32040",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "BOUGTOB-ABDELLI-CHEIKH",
+        "code_postal": "32041",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "EL+BAYADH",
+        "nom": "EL-ABIODH-SIDI-CHEIKH-BEN-AISSA-TALIA",
+        "code_postal": "32042",
+        "nom_exact": ""
+    }
+]

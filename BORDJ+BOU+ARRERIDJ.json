@@ -1,0 +1,470 @@
+[
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ-RP",
+        "code_postal": "34000",
+        "nom_exact": "CITE 01 NOVEMBRE BBA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "RAS-EL-OUED",
+        "code_postal": "34001",
+        "nom_exact": "RUE SALH BEY RAS EL OUED"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ-BEN-BADIS",
+        "code_postal": "34002",
+        "nom_exact": "1044 LOGT BBA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ-MOKRANI",
+        "code_postal": "34003",
+        "nom_exact": "RUE COLONEL AMIROUCHE BORDJ BOU ARRERIDJ"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-GHEDIR",
+        "code_postal": "34004",
+        "nom_exact": "AVENUE AHMED BEN DRIMIA BORDJ GHEDIR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-ZEMMOURA",
+        "code_postal": "34005",
+        "nom_exact": "CITE ESSATOUR BORDJ ZEMMOURA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-ACHIR",
+        "code_postal": "34006",
+        "nom_exact": "AVENUE LA LIBERTE EL ACHIR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "KHELLIL",
+        "code_postal": "34007",
+        "nom_exact": "KHELLIL"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "MANSOURA",
+        "code_postal": "34008",
+        "nom_exact": "MANSOURA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "MEDJANA",
+        "code_postal": "34009",
+        "nom_exact": "RUE WALI ABDELLAH MEDJANA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AIN-TAGHROUT",
+        "code_postal": "34010",
+        "nom_exact": "RUE ZIANI NOUI AIN TAGHROUT"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BIR-KASDALI",
+        "code_postal": "34011",
+        "nom_exact": "RUE AMIR ABDELKADER BIR KASD ALI"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ 24 FEVRIER",
+        "code_postal": "34012",
+        "nom_exact": "CITE 24 FEVRIER BORDJ BOU ARRERIDJ"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ-ES-SAADA",
+        "code_postal": "34013",
+        "nom_exact": "CITE 12 HECTARS BORDJ-BOU-ARRERIDJ"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "CHERCHAR",
+        "code_postal": "34014",
+        "nom_exact": "CHERCHAR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "COLLA",
+        "code_postal": "34015",
+        "nom_exact": "COLLA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "DJAAFRA",
+        "code_postal": "34016",
+        "nom_exact": "DJAAFRA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-HAMMADIA",
+        "code_postal": "34017",
+        "nom_exact": "HOUMARI BAABOUCHE CENTRE VILLE EL HAMMADIA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-MAIN",
+        "code_postal": "34018",
+        "nom_exact": "EL-MAIN"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-MEHIR",
+        "code_postal": "34019",
+        "nom_exact": "EL-MEHIR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "SIDI-EMBAREK",
+        "code_postal": "34020",
+        "nom_exact": "SIDI-EMBAREK"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TENIET-EN-NASR",
+        "code_postal": "34021",
+        "nom_exact": "TENIET-EN-NASR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TIXTER",
+        "code_postal": "34022",
+        "nom_exact": "TIXTER"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AIN-SOLTANE",
+        "code_postal": "34023",
+        "nom_exact": "AIN-SOLTANE"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "B.B.ARRERIDJ-CITE-MOUKAFIHINE",
+        "code_postal": "34024",
+        "nom_exact": "VILLAGE SUD BORDJ-BOU-ARRERIDJ"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BEL-IMOUR",
+        "code_postal": "34025",
+        "nom_exact": "BELIMOUR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BENI-LAALEM",
+        "code_postal": "34026",
+        "nom_exact": "BENI-LAALEM"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BIR-AISSA",
+        "code_postal": "34027",
+        "nom_exact": "BIR-AISSA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "CHEFAA",
+        "code_postal": "34028",
+        "nom_exact": "CHEFAA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-ACH",
+        "code_postal": "34029",
+        "nom_exact": "EL-ACH"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-ANNASSER",
+        "code_postal": "34030",
+        "nom_exact": "EL-ANNASSER"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "GHILASSA",
+        "code_postal": "34031",
+        "nom_exact": "GHILASSA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-BRAHAM",
+        "code_postal": "34032",
+        "nom_exact": "OULED-BRAHAM"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-DAHMANE",
+        "code_postal": "34033",
+        "nom_exact": "OULED-DAHMANE"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-RACHED",
+        "code_postal": "34034",
+        "nom_exact": "OULED-RACHED"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "RABTA",
+        "code_postal": "34035",
+        "nom_exact": "RABTA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AIN-KAHLA",
+        "code_postal": "34036",
+        "nom_exact": "AIN-KAHLA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AIN-TASSERA",
+        "code_postal": "34037",
+        "nom_exact": "AIN-TASSERA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AYADA",
+        "code_postal": "34038",
+        "nom_exact": "AYADA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BENDAOUD",
+        "code_postal": "34039",
+        "nom_exact": "BENDAOUD"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BIR-HAMOUDI",
+        "code_postal": "34040",
+        "nom_exact": "BIR-HAMOUDI"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BIR-SNAB",
+        "code_postal": "34041",
+        "nom_exact": "BIR-SNAB"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BOUKABA",
+        "code_postal": "34042",
+        "nom_exact": "BOUKABA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BOULHAF",
+        "code_postal": "34043",
+        "nom_exact": "BOULHAF"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "CHENIA-BEN-HENAYA-SAAD",
+        "code_postal": "34044",
+        "nom_exact": "CHENIA-BEN-HENAYA-SAAD"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-HAMRA",
+        "code_postal": "34045",
+        "nom_exact": "EL-HAMRA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "GUEMOUR",
+        "code_postal": "34046",
+        "nom_exact": "GUEMOUR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "HARAZA",
+        "code_postal": "34047",
+        "nom_exact": "HARAZA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "KSOUR-01-NOVEMBRE-1954",
+        "code_postal": "34048",
+        "nom_exact": "KSOUR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OUED-LAKHDAR",
+        "code_postal": "34050",
+        "nom_exact": "OUED-LAKHDAR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-MAHDI",
+        "code_postal": "34051",
+        "nom_exact": "OULED-MAHDI"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-SIDI-BRAHIM",
+        "code_postal": "34052",
+        "nom_exact": "OULED-SIDI-BRAHIM"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-ZAID",
+        "code_postal": "34053",
+        "nom_exact": "OULED-ZAID"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "RAS-EL-AIN",
+        "code_postal": "34054",
+        "nom_exact": "RAS-EL-AIN"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "R'MAIL",
+        "code_postal": "34055",
+        "nom_exact": "R'MAIL"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "SEDRATA",
+        "code_postal": "34056",
+        "nom_exact": "SEDRATA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "SELATNA",
+        "code_postal": "34057",
+        "nom_exact": "SELATNA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "SIDI-IDIR",
+        "code_postal": "34058",
+        "nom_exact": "SIDI-IDIR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TAGLAIT",
+        "code_postal": "34059",
+        "nom_exact": "TAGLAIT"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TASSAMEURT",
+        "code_postal": "34060",
+        "nom_exact": "TASSAMEURT"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TEFFREG",
+        "code_postal": "34061",
+        "nom_exact": "TEFFREG"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TIZI-KACHOUCHENE",
+        "code_postal": "34062",
+        "nom_exact": "TIZI-KACHOUCHENE"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "ZENOUNA",
+        "code_postal": "34063",
+        "nom_exact": "ZENOUNA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ 20 AOUT",
+        "code_postal": "34064",
+        "nom_exact": "CITE 20 AOUT BORDJ BOU ARRERIDJ"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "RAS EL OUED 19 MARS",
+        "code_postal": "34065",
+        "nom_exact": "RAS EL OUED"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "EL-HAMMA-08-MAI-1945",
+        "code_postal": "34066",
+        "nom_exact": "EL-HAMMA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ ZEMOURA 1 ER NOVEMBRE",
+        "code_postal": "34067",
+        "nom_exact": "BORDJ ZEMMOURA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-MEBAREK",
+        "code_postal": "34068",
+        "nom_exact": "OULED EMBAREK"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ-UNIVERSITE",
+        "code_postal": "34069",
+        "nom_exact": "CITE UNIVERSITAIRE EL ANNASSER"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "LECHBOUR",
+        "code_postal": "34070",
+        "nom_exact": "LECHBOUR"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OULED-HAMZA",
+        "code_postal": "34071",
+        "nom_exact": "OULED-HAMZA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "TIZI-AHCENE",
+        "code_postal": "34072",
+        "nom_exact": "TIZI-AHCENE"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AIN-NOUG",
+        "code_postal": "34073",
+        "nom_exact": "AIN-NOUG"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "AIN-DEFLA",
+        "code_postal": "34074",
+        "nom_exact": "AIN-DEFLA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "BORDJ-BOU-ARRERIDJ-CITE-DES-54 MARTYRS",
+        "code_postal": "",
+        "nom_exact": "CITE 500 LOGTS"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "MACHRAA",
+        "code_postal": "",
+        "nom_exact": "MACHRAA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "RAS-EL-OUED-CITE-TOUMELA",
+        "code_postal": "",
+        "nom_exact": "RAS-EL-OUED-CITE-TOUMELA"
+    },
+    {
+        "wilaya": "BORDJ+BOU+ARRERIDJ",
+        "nom": "OUCHENEN-SEGHIRA",
+        "code_postal": "",
+        "nom_exact": "OUCHENEN-SEGHIRA"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-RP",
+        "code_postal": "46000",
+        "nom_exact": "RUE CHOUIREF SALAH"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "BENI-SAF",
+        "code_postal": "46001",
+        "nom_exact": "RUE DE LA REPUBLIQUE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-AKID-ABBES",
+        "code_postal": "46002",
+        "nom_exact": "NOUVELLE VILLE AKID OTHMANE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-AKID-OTHMANE",
+        "code_postal": "46003",
+        "nom_exact": "BD MED BOUDIAF"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "BENI-SAF EST",
+        "code_postal": "46004",
+        "nom_exact": "BENI SAF LA ZHUN"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HAMMAM-BOU-HADJAR",
+        "code_postal": "46005",
+        "nom_exact": "RUE 1ER MAI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-AMRIA",
+        "code_postal": "46006",
+        "nom_exact": "ROUTE D'ORAN"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-MALAH",
+        "code_postal": "46007",
+        "nom_exact": "BD MED KHEMISTI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-KIHAL",
+        "code_postal": "46008",
+        "nom_exact": "RUE AMARI BENAMAR"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-LARBAA",
+        "code_postal": "46009",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TOLBA",
+        "code_postal": "46010",
+        "nom_exact": "RUE BOUCHEKIF BOUMAZA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "CHAABAT-EL-LEHAM",
+        "code_postal": "46011",
+        "nom_exact": "RUE SEKRANE HOUARI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HASSI-EL-GHELLA",
+        "code_postal": "46012",
+        "nom_exact": "ROUTE D'ORAN"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SIDI-BEN-ADDA",
+        "code_postal": "46013",
+        "nom_exact": "RUE MEDDAH BENAHMED"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SOUK-EL-TENINE",
+        "code_postal": "46014",
+        "nom_exact": "RUE AHMED BENCHAIB MOUSSA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "TERGA",
+        "code_postal": "46015",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AGHLAL",
+        "code_postal": "46016",
+        "nom_exact": "RUE TALHA ,COMMUNE DE AGHLAL"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AOUBELLIL",
+        "code_postal": "46017",
+        "nom_exact": "RUE LIEUTENANT  ZITOUNI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "BENI-SAF-BOUHMIDI",
+        "code_postal": "46018",
+        "nom_exact": "CITE BOUHMIDI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "BENI-SAF-NAHDA",
+        "code_postal": "46019",
+        "nom_exact": "CITE NAHDA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "CHENTOUF",
+        "code_postal": "46020",
+        "nom_exact": "CITE 1ER NOVEMBRE,CHENTOUF"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HASSASNA",
+        "code_postal": "46021",
+        "nom_exact": "RUE SI OMAR"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OUED-BERKECHE",
+        "code_postal": "46022",
+        "nom_exact": "ROUTE DE SIDI BELABBES"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OUED-SEBBAH",
+        "code_postal": "46023",
+        "nom_exact": "RUE 20 AOUT 1955"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SIDI-OURIACHE",
+        "code_postal": "46024",
+        "nom_exact": "SIDI OURIACHE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SIDI-SAFI",
+        "code_postal": "46025",
+        "nom_exact": "RUE BENAICHA SAFI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "TAMZOURA",
+        "code_postal": "46026",
+        "nom_exact": "RUE MED KHEMISTI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-ALEM",
+        "code_postal": "46027",
+        "nom_exact": "AIN-ALEM"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-BEIDA",
+        "code_postal": "46028",
+        "nom_exact": "AIN-BEIDA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-ISDIEL",
+        "code_postal": "46029",
+        "nom_exact": "AIN-ISDIEL"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-LARBAA-SAFI",
+        "code_postal": "46030",
+        "nom_exact": "AIN-LARBAA-SAFI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AISSAOUI-BOUZIANE",
+        "code_postal": "46031",
+        "nom_exact": "AISSAOUI-BOUZIANE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AURES-EL-MEIDA",
+        "code_postal": "46032",
+        "nom_exact": "AURES-EL-MEIDA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "BOUZEDJAR-PLAGE",
+        "code_postal": "46033",
+        "nom_exact": "BOUZEDJAR-PLAGE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-MESSADA-NASR",
+        "code_postal": "46035",
+        "nom_exact": "EL-MESSADA-NASR"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-MESSAID",
+        "code_postal": "46036",
+        "nom_exact": "EL-MESSAID"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EMIR-ABDELKADER",
+        "code_postal": "46037",
+        "nom_exact": "EMIR-ABDELKADER"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "GHERRAS-BAROUDI",
+        "code_postal": "46038",
+        "nom_exact": "GHERRAS-BAROUDI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HADJAIRIA",
+        "code_postal": "46039",
+        "nom_exact": "HADJAIRIA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HAMAINA",
+        "code_postal": "46040",
+        "nom_exact": "HAMAINA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "MOHAMED-KHEMISTI",
+        "code_postal": "46041",
+        "nom_exact": "CITE HOUARI BOUMEDIENE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "M'SELA-DJURDJURA",
+        "code_postal": "46042",
+        "nom_exact": "VSA M'SELLA DJURDJURA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OULED-BOUDJEMAA",
+        "code_postal": "46043",
+        "nom_exact": "OULED-BOUDJEMAA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OULED-DJBARA",
+        "code_postal": "46044",
+        "nom_exact": "OULED-DJBARA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OULED-KIHAL",
+        "code_postal": "46045",
+        "nom_exact": "OULED-KIHAL"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OULED-TAOUI",
+        "code_postal": "46046",
+        "nom_exact": "OULED-TAOUI"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "RECHGOUN",
+        "code_postal": "46047",
+        "nom_exact": "RECHGOUN"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "ROUAIBA",
+        "code_postal": "46048",
+        "nom_exact": "ROUAIBA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SAIDA",
+        "code_postal": "46049",
+        "nom_exact": "SAIDA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SIDI-BOUMEDIENE",
+        "code_postal": "46051",
+        "nom_exact": "SIDI-BOUMEDIENE"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SIDI-SAID",
+        "code_postal": "46052",
+        "nom_exact": "CITE SIDI SAID - EL MALEH"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "TEDMAYA",
+        "code_postal": "46053",
+        "nom_exact": "TEDMAYA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-HOUAOURA-MEDIOUNI-HOUARI",
+        "code_postal": "46055",
+        "nom_exact": "EL-HOUAOURA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-DJAALAB-ABDELKADER",
+        "code_postal": "46056",
+        "nom_exact": "CITE MOHAMED BOUDIAF 320 LOGTS,AIN TEMOUCHENT"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-GARE-ROUTIERE",
+        "code_postal": "46057",
+        "nom_exact": "HAI ZITOUNE,GARE ROUTIERE,AIN TEMOUCHENT"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-AMRIA-TAIBI-KOUIDER",
+        "code_postal": "46058",
+        "nom_exact": "CITE NAHDA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-CENTRE-UNIVERSITAIRE",
+        "code_postal": "46059",
+        "nom_exact": "CENTRE UNIVERSITAIRE BOUCHAIB"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-BOUYAHIA-MOHAMED",
+        "code_postal": "46060",
+        "nom_exact": "CITE COLONEL MERBAH"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-LARBAA-BOUCHARAB-MILOUD",
+        "code_postal": "46061",
+        "nom_exact": "CITE KHOUALEF ZOUBIR"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "OULHACA-BELHADJ-TAHAR-KADA",
+        "code_postal": "46062",
+        "nom_exact": "Hedahda commune de Oulhaca"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-MOULAY-MUSTAPHA",
+        "code_postal": "46063",
+        "nom_exact": "HAI MOLAY MUSTAPHA"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-TEMOUCHENT-SIDI-SAID",
+        "code_postal": "46064",
+        "nom_exact": "RUE MAACHOU MOHAMED"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HAMMAM-BOU-HADJAR-KERMAS-AMEUR",
+        "code_postal": "46065",
+        "nom_exact": "CTE BERAHOU KADA PRES DU SIEGE DE LA DAIRA,AIN TEMOUCHENT"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "HAMMAM-BOU-HADJAR-BENSAOULA-BOUHADJAR",
+        "code_postal": "46066",
+        "nom_exact": "Cité de Rahal Belabna prés de la gare routiere"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "EL-MALEH-BEN-DERDOUR-MOHAMED",
+        "code_postal": "46067",
+        "nom_exact": "Rue Larbi Ben Mehidi route de Terga,el Malah"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "AIN-KIHAL-BEN-CHAMA-BADAOUI",
+        "code_postal": "46068",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "CHATT-EL-HILAL",
+        "code_postal": "",
+        "nom_exact": "PLAGE CHATT EL HILAL"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "SASSEL-PLAGE",
+        "code_postal": "",
+        "nom_exact": "PLAGE SASSEL"
+    },
+    {
+        "wilaya": "AIN+TEMOUCHENT",
+        "nom": "TERGA-PLAGE",
+        "code_postal": "",
+        "nom_exact": "1ERE PLAGE DE TERGA"
+    }
+]

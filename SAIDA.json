@@ -1,0 +1,314 @@
+[
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-RP",
+        "code_postal": "20000",
+        "nom_exact": "CITE REVOLUTION SAIDA 20000"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "AIN-EL-HADJAR",
+        "code_postal": "20001",
+        "nom_exact": "CITE DES MARETYRE AIN HADJAR 20001"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "BALLOUL",
+        "code_postal": "20002",
+        "nom_exact": "RUE DES MARTYRES OUELD BRAHIM 20002"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "EL-HASSASNA",
+        "code_postal": "20003",
+        "nom_exact": "RUE DE L'INDEPENDENCE EL HASSASNA  20003"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "REBAHIA",
+        "code_postal": "20004",
+        "nom_exact": "RUE AMIR ABDELKADER REBAHIA 20004"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-BOUKHORS",
+        "code_postal": "20005",
+        "nom_exact": "Cite Belhadi benyamina 20005"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-EN-NASR",
+        "code_postal": "20006",
+        "nom_exact": "cite ENNASR Saida 20006"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI-BOUBEKEUR",
+        "code_postal": "20007",
+        "nom_exact": "CITE FILAH TAYEB SIDI BOUBEKEUR 20007"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "YOUB",
+        "code_postal": "20008",
+        "nom_exact": "RUE SOUMMAM YOUB 20008"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "AIN-SEKHOUNA",
+        "code_postal": "20009",
+        "nom_exact": "CITE DE LA POSTE AIN SEKHOUNA 20009"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "BOUKHORS",
+        "code_postal": "20010",
+        "nom_exact": "Cite Boukhors saida 20010"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "HAMMAM-RABBI",
+        "code_postal": "20011",
+        "nom_exact": "HAMMAM RABI VILLAGE 20011"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "KHALFALLAH",
+        "code_postal": "20012",
+        "nom_exact": "KHALFALLAH VILLAGE 20012"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "MAAMORA",
+        "code_postal": "20013",
+        "nom_exact": "RUE 1ER NOVEMBRE MAAMORA 20013"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "MOULAY-LARBI",
+        "code_postal": "20014",
+        "nom_exact": "RUE 1ER NOVEMBRE MOULAY LARBI  20014"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-CDT-MEJDOUB",
+        "code_postal": "20015",
+        "nom_exact": "Cite CDT MEJDOUB SAIDA 20015"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-CITE-ERIADH",
+        "code_postal": "20016",
+        "nom_exact": "Cite Erriadh Saida 20016"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-DAOUDI",
+        "code_postal": "20017",
+        "nom_exact": "Cite daoudi moussa Saida 20017"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-KHATER",
+        "code_postal": "20018",
+        "nom_exact": "Cite Khater Abdelkader Saida 20018"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI-AMAR",
+        "code_postal": "20019",
+        "nom_exact": "SIDI AMAR VILLAGE 20019"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "AIN-TEGHAT",
+        "code_postal": "20020",
+        "nom_exact": "DOUAR AIN TEGHAT 20020"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "CHERKI-SIDI-AISSA",
+        "code_postal": "20021",
+        "nom_exact": "DOUAR SIDI AISSA 20021"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "DHAIET-ZRAGUET",
+        "code_postal": "20022",
+        "nom_exact": "DOUAR ZRAGUET 20022"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "FIDJEL",
+        "code_postal": "20023",
+        "nom_exact": "FIDJEL VILLAGE  20023"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "HASSI-EL-ABED",
+        "code_postal": "20024",
+        "nom_exact": "HASSI EL ABED VILLAGE 20024"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "HOUNET",
+        "code_postal": "20025",
+        "nom_exact": "HOUNET VILLAGE 20025"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "KHELIFA-MAATA",
+        "code_postal": "20026",
+        "nom_exact": "DOUAR KHELIFA MAATA 20026"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "KHOURICHFA",
+        "code_postal": "20027",
+        "nom_exact": "KHOURICHFA VILLAGE 20027"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "LOUKDA-AIN-ZERGA",
+        "code_postal": "20028",
+        "nom_exact": "DOUAR AIN ZERGA 20028"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "MIMOUNA-AIN-SULTAN",
+        "code_postal": "20029",
+        "nom_exact": "RUE DALIL KHAYRET MOHAMED AIN SULTANE 20029"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "MOULAY-TOUHAMI",
+        "code_postal": "20030",
+        "nom_exact": "MOULAY TOUHAMI VILLAGE 20030"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "OUED-BERBOUR",
+        "code_postal": "20031",
+        "nom_exact": "OUED BERBOUR VILLAGE 20031"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI-MAAMAR",
+        "code_postal": "20032",
+        "nom_exact": "SIDI MAAMAR VILLAGE 20032"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI-M'BAREK",
+        "code_postal": "20033",
+        "nom_exact": "DOUAR SIDI M'BAREK 20033"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "TAMESNA",
+        "code_postal": "20034",
+        "nom_exact": "TAMESNA VILLAGE 20034"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "TIRCINE",
+        "code_postal": "20035",
+        "nom_exact": "RUE MOKADEM AHMED 20035"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "TOUTA",
+        "code_postal": "20036",
+        "nom_exact": "DOUAR TOUTA  20036"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "AIN-EL-BEIDHA",
+        "code_postal": "20037",
+        "nom_exact": "DOUAR AIN EL BEIDHA 20037"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI YOUCEF",
+        "code_postal": "20038",
+        "nom_exact": "DOUAR SIDI YOUCEF 20038"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SFID",
+        "code_postal": "20039",
+        "nom_exact": "DOUAR SFID  20039"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI AHMED",
+        "code_postal": "20040",
+        "nom_exact": "DOUAR SIDI AHMED 20040"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "EL-MADENE-OUED-FALETTE",
+        "code_postal": "20041",
+        "nom_exact": "DOUAR OULED FALETTE 20041"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-SOUMMAM",
+        "code_postal": "20042",
+        "nom_exact": "CITE SOUMMAM SAIDA 20042"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA 8 MAI 1945",
+        "code_postal": "20043",
+        "nom_exact": "CITE 05 JUILLET SAIDA 20043"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-UNIVERSITE",
+        "code_postal": "20044",
+        "nom_exact": "UNIVERSITE DR MOULAY TAHAR  20044"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "YOUB-1ER NOVEMBRE",
+        "code_postal": "20045",
+        "nom_exact": "CITE SAHRAOUI ABDELKADER 20045"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "MORGHAD",
+        "code_postal": "20046",
+        "nom_exact": "DOUAR MORGHAD 20046"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "TIMETLAS",
+        "code_postal": "20047",
+        "nom_exact": "DOUAR TIMETLAS 20047"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "OUM-DOUD",
+        "code_postal": "20048",
+        "nom_exact": "DOUAR OUM-DOUD 20048"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SIDI-BOUBEKEUR-GARE-ROUTIERE",
+        "code_postal": "20049",
+        "nom_exact": "SIDI BOUBEKEUR GARE - SIDI BOUBEKEUR 20049"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "SAIDA-GARE-ROUTIERE",
+        "code_postal": "20050",
+        "nom_exact": "CITE SALEM 2 SAIDA 20050"
+    },
+    {
+        "wilaya": "SAIDA",
+        "nom": "BALLOUL-GARE-ROUTIERE",
+        "code_postal": "20051",
+        "nom_exact": "BALLOUL-GARE-ROUTIERE"
+    }
+]

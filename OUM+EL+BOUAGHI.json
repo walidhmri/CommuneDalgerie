@@ -1,0 +1,404 @@
+[
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-RP",
+        "code_postal": "4000",
+        "nom_exact": "BD HOUARI BOUMEDIENE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BEIDA",
+        "code_postal": "4001",
+        "nom_exact": "BD MOHAMED KHEMISTI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-M'LILA",
+        "code_postal": "4002",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-H-BOUMEDIENE",
+        "code_postal": "4003",
+        "nom_exact": "NOUVELLE VILLE MAKOMADAS"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "MESKIANA",
+        "code_postal": "4004",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-FAKROUN",
+        "code_postal": "4005",
+        "nom_exact": "RUE RADJAI AMMAR"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-KERCHA",
+        "code_postal": "4006",
+        "nom_exact": "RUE DRAGA MAOUCHE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BEIDA-LAAZABI",
+        "code_postal": "4007",
+        "nom_exact": "CITE  LAZABI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "DHALAA",
+        "code_postal": "4008",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-AN-NASR",
+        "code_postal": "4009",
+        "nom_exact": "CITE AN NASR"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SOUK-NAAMANE",
+        "code_postal": "4010",
+        "nom_exact": "RUE BEN BOULAID"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SIGUS",
+        "code_postal": "4011",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "HENCHIR-TOUMGHANI",
+        "code_postal": "4012",
+        "nom_exact": "RUE DE L'INDEPENDANCE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "F'KIRINA",
+        "code_postal": "4013",
+        "nom_exact": "ROUTE NATIONALE NÂ°10"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-M'LILA-GOUADJLIA",
+        "code_postal": "4014",
+        "nom_exact": "ROUTE NATIONALE NÂ°10"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BERRICHE",
+        "code_postal": "4015",
+        "nom_exact": "CITE BOUDIAF"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-FAKROUN-SATHA",
+        "code_postal": "4016",
+        "nom_exact": "CITE SATHA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-M'LILA-BEN-M'HIDI",
+        "code_postal": "4017",
+        "nom_exact": "RUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "KSAR-SBAHI",
+        "code_postal": "4018",
+        "nom_exact": "CITE EL BOUSTANE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OULED-HAMLA",
+        "code_postal": "4019",
+        "nom_exact": "RUE NATIONALE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BABOUCHE",
+        "code_postal": "4020",
+        "nom_exact": "ROUTE DE BATNA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BIR-CHOUHADA",
+        "code_postal": "4021",
+        "nom_exact": "RUE DU 1ER NOVEMBRE 54"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BERRIRICHE",
+        "code_postal": "4022",
+        "nom_exact": "BERRIRICHE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-ZITOUN",
+        "code_postal": "4023",
+        "nom_exact": "AIN ZITOUN"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-FERHAT",
+        "code_postal": "4024",
+        "nom_exact": "AIN  FERHAT"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BIR-AMAR",
+        "code_postal": "4025",
+        "nom_exact": "BIR AMAR"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BEHAIR-CHERGUI",
+        "code_postal": "4026",
+        "nom_exact": "BEHAIR   CHERGUI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BIR-ROGAA",
+        "code_postal": "4027",
+        "nom_exact": "BIR ROGAA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "TOUZELINE",
+        "code_postal": "4028",
+        "nom_exact": "TOUZELINE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SIDI-R'GHISS-M'ZI",
+        "code_postal": "4029",
+        "nom_exact": "SIDI REGHISS"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BIR-KHECHBA",
+        "code_postal": "4030",
+        "nom_exact": "BIR KHECHBA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "HARMELIA",
+        "code_postal": "4032",
+        "nom_exact": "HARMELIA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SOUALHIA",
+        "code_postal": "4033",
+        "nom_exact": "CITE SOUALHIA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BIR-TANDJA",
+        "code_postal": "4034",
+        "nom_exact": "BIR TANDJA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "TAXAS",
+        "code_postal": "4035",
+        "nom_exact": "TAXAS"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OULED-ZAID",
+        "code_postal": "4037",
+        "nom_exact": "OULED  ZAID"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OULED-NACEUR",
+        "code_postal": "4038",
+        "nom_exact": "OULED NACEUR"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "HENCHIR-LAATACHE",
+        "code_postal": "4039",
+        "nom_exact": "HENCHIR  LAATACHE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "EL-DJAZIA",
+        "code_postal": "4040",
+        "nom_exact": "EL DJAZIA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OULED-GACEM",
+        "code_postal": "4041",
+        "nom_exact": "OULED  GACEM"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BOUGHERARA-FEDJOUDJ",
+        "code_postal": "4042",
+        "nom_exact": "BOUGHERARA LEFDJOUDJ"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-EL-BORDJ",
+        "code_postal": "4043",
+        "nom_exact": "AIN EL BORDJ"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "EL-BELLALA",
+        "code_postal": "4044",
+        "nom_exact": "EL BELLALA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "RAHIA",
+        "code_postal": "4045",
+        "nom_exact": "RUE DE L'ALN"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "BIR-OUNES",
+        "code_postal": "4046",
+        "nom_exact": "BIR OUANAS"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "HENCHIR-DOUAMES",
+        "code_postal": "4047",
+        "nom_exact": "HENCHIR  DOUAMES"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BEIDA 1ER NOVEMBRE",
+        "code_postal": "4048",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-AIR",
+        "code_postal": "4049",
+        "nom_exact": "BASE AERIENNE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-18 FEVRIER",
+        "code_postal": "4050",
+        "nom_exact": "RUE MERAIHI SAID"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BENAYAD",
+        "code_postal": "4051",
+        "nom_exact": "AIN BENAYAD"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "GARAA-SAIDA",
+        "code_postal": "4052",
+        "nom_exact": "GARAA SAIDA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SILA",
+        "code_postal": "4053",
+        "nom_exact": "SILA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-BEN-BOULAID",
+        "code_postal": "4054",
+        "nom_exact": "COITE BEN BOULAID"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-TERRE",
+        "code_postal": "4055",
+        "nom_exact": "CASERNE CIST 555"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "OUM-EL-BOUAGHI-UNIVERSITE",
+        "code_postal": "4056",
+        "nom_exact": "UNIVERSITE LARBI BEN M'HIDI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BEIDA-SAIDI-DJEMOI",
+        "code_postal": "4057",
+        "nom_exact": "CITE SAIDI DJEMOI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "MESKIANA-BELFETNI-DAOUDI",
+        "code_postal": "4058",
+        "nom_exact": "RUE BELFETNI DAOUDI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-M'LILA-DARAK",
+        "code_postal": "4059",
+        "nom_exact": "ECOLE NATIONALE  DE LA GENDARMERIE"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "EL-AMIRIA-EL-AMEL",
+        "code_postal": "4060",
+        "nom_exact": "EL AMIRIA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-M'LILA-05-JUILLET",
+        "code_postal": "4061",
+        "nom_exact": "CITE AIN M'LILA 05 JUILLET,OUM EL BOUAGHI"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BEIDA-20-AOUT",
+        "code_postal": "4062",
+        "nom_exact": "CITE ASKRI CHERIF SITUEE AU SUD EST DE LA VILLE D'AIN BEIDA"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-KERCHA-ESSALAM",
+        "code_postal": "4063",
+        "nom_exact": "AIN-KERCHA-ESSALAM"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-FAKROUN-BEKKOUCHE-AISSA",
+        "code_postal": "4064",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-BEIDA-EL-KAHINA",
+        "code_postal": "4065",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SIGUS-20-AOUT-1955",
+        "code_postal": "4066",
+        "nom_exact": "SIGUS-20-AOUT-1955"
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "SOUK-NAAMANE-HOUARI-BOUMEDIENNE",
+        "code_postal": "4067",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "OUM+EL+BOUAGHI",
+        "nom": "AIN-FAKROUN-AFAK 2",
+        "code_postal": "4068",
+        "nom_exact": "AIN-FAKROUN-AFAK 2"
+    }
+]

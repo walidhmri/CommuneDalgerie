@@ -1,0 +1,350 @@
+[
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-RP",
+        "code_postal": "40000",
+        "nom_exact": "CITE SONATIBA KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KAIS",
+        "code_postal": "40001",
+        "nom_exact": "CITE DRARDJA SLIMANE KAIS"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-AN-NASR",
+        "code_postal": "40002",
+        "nom_exact": "RUE DE PALESTINE KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-EL-HOURIA",
+        "code_postal": "40003",
+        "nom_exact": "CITE SAADA KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-EL-KAHINA",
+        "code_postal": "40004",
+        "nom_exact": "RUE DE BABAR AUPRES  DE LA NOUVELLE APC KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "AIN-TOUILA",
+        "code_postal": "40005",
+        "nom_exact": "AIN TOUILA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BABAR",
+        "code_postal": "40006",
+        "nom_exact": "BABAR"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BOUHMAMA",
+        "code_postal": "40007",
+        "nom_exact": "BOUHMAMA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "CHECHAR",
+        "code_postal": "40008",
+        "nom_exact": "CHECHAR"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KAIS-EL-AMEL",
+        "code_postal": "40009",
+        "nom_exact": "CITE 544 LOGEMENT KAIS"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-BEN-BOULAID",
+        "code_postal": "40010",
+        "nom_exact": "CITE BEN BOULAID, RUE DE ZOUI - KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TAOUZIENT",
+        "code_postal": "40011",
+        "nom_exact": "TAOUZIENT"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TAZOUGART",
+        "code_postal": "40012",
+        "nom_exact": "TAZOUGUERT"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "ZOUI",
+        "code_postal": "40013",
+        "nom_exact": "ZOUI"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BAGHAI",
+        "code_postal": "40014",
+        "nom_exact": "BAGHAI"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "DJELLAL",
+        "code_postal": "40015",
+        "nom_exact": "DJELLAL"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "EL-HAMMA",
+        "code_postal": "40016",
+        "nom_exact": "EL HAMMA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-1ER NOV.",
+        "code_postal": "40017",
+        "nom_exact": "CITE 1ER NOVEMBRE KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-CITE-HASNAOUI",
+        "code_postal": "40018",
+        "nom_exact": "CITE HASNAOUI KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-MOUSSA-REDDAH",
+        "code_postal": "40019",
+        "nom_exact": "CITE MOSSA REDDAH KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-SALEM-LALMI",
+        "code_postal": "40020",
+        "nom_exact": "RUE DE BAGHAI KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "M'TOUSSA",
+        "code_postal": "40021",
+        "nom_exact": "M'TOUSSA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TABERDGA",
+        "code_postal": "40022",
+        "nom_exact": "TABERDGA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "YABOUS",
+        "code_postal": "40023",
+        "nom_exact": "YABOUS"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "AIN-AIZAR",
+        "code_postal": "40024",
+        "nom_exact": "AIN EL AIZAR"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "AIN-DJERBOUA",
+        "code_postal": "40025",
+        "nom_exact": "AIN DJERBOUA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "AIN-LAHMA",
+        "code_postal": "40026",
+        "nom_exact": "AIN LAHMA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "AIN-MIMOUN",
+        "code_postal": "40027",
+        "nom_exact": "AIN MIMOUNE"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BEKKAR",
+        "code_postal": "40028",
+        "nom_exact": "BEKKAR"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BELKITANE",
+        "code_postal": "40029",
+        "nom_exact": "BELKITANE"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "CHELIA",
+        "code_postal": "40030",
+        "nom_exact": "CHELIA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "EL-KHARROUB",
+        "code_postal": "40031",
+        "nom_exact": "EL-KHARROUB"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "EL-OULDJA",
+        "code_postal": "40032",
+        "nom_exact": "EL OUALDJA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "FIDH-EL-ABIADH",
+        "code_postal": "40033",
+        "nom_exact": "ZONE RURALE FIDH-EL-ABIADH"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "FOUANIS",
+        "code_postal": "40034",
+        "nom_exact": "ZONE RURALE FOUANIS"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "FRIDJOU",
+        "code_postal": "40035",
+        "nom_exact": "FRIDJOU"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "HELLA",
+        "code_postal": "40036",
+        "nom_exact": "HELLA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHIRANE",
+        "code_postal": "40037",
+        "nom_exact": "KHERANE"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "METIRCHOU",
+        "code_postal": "40038",
+        "nom_exact": "METIRCHOU"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "M'SARA",
+        "code_postal": "40039",
+        "nom_exact": "M'SARA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "OULED-AZZEDINE",
+        "code_postal": "40040",
+        "nom_exact": "OULED AZZEDINE"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "REMILA",
+        "code_postal": "40041",
+        "nom_exact": "REMILA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TAFASSOUR",
+        "code_postal": "40042",
+        "nom_exact": "ZONE RURALE TAFASSOUR"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TAMAYOURT",
+        "code_postal": "40043",
+        "nom_exact": "TAMAYOURT"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TIZINT",
+        "code_postal": "40044",
+        "nom_exact": "TIZZINT"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KAIS-17 JUIN",
+        "code_postal": "40045",
+        "nom_exact": "CITE 17 JUIN KAIS"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TIMDAKIT",
+        "code_postal": "40046",
+        "nom_exact": "TIMDAKIT"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-ALLAOUI-MOHAMED",
+        "code_postal": "40047",
+        "nom_exact": "ROUTE AIN ELAIZAR KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "TAZOUGUERT-5 JUILLET",
+        "code_postal": "40048",
+        "nom_exact": "TAZOUGUERT"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BABAR-18 FEVRIER",
+        "code_postal": "40049",
+        "nom_exact": "BABAR"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "BOUHMAMA-EL-AURES",
+        "code_postal": "40050",
+        "nom_exact": "BOUHMAMA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-UNIVERSITE",
+        "code_postal": "40051",
+        "nom_exact": "ROUTE D'OMELBAWAKI KHENCH"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-GARE-ROUTIERE",
+        "code_postal": "40052",
+        "nom_exact": "ROUTE AIN TOUILA KHENCHELA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "CHECHAR-GARE-ROUTIERE",
+        "code_postal": "40053",
+        "nom_exact": "CHECHAR  GARE ROUTIERE"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "ZOUI-ESSALEM",
+        "code_postal": "40054",
+        "nom_exact": "ZOUI-ESSALEM"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "KHENCHELA-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "40055",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "SEKKALA",
+        "code_postal": "",
+        "nom_exact": "SEKKALA"
+    },
+    {
+        "wilaya": "KHENCHLA",
+        "nom": "ROUTE-DE-BATNA",
+        "code_postal": "",
+        "nom_exact": "CITE ROUTE DE BATNA,KHENCHLA"
+    }
+]

@@ -1,0 +1,428 @@
+[
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-RP",
+        "code_postal": "16000",
+        "nom_exact": "IMPASSE CLERMONT TONERRE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-1ER NOVEMBRE-RP",
+        "code_postal": "16001",
+        "nom_exact": "AVENUE DU 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-MOURAD-DIDOUCHE",
+        "code_postal": "16002",
+        "nom_exact": "119 RUE DIDOUCHE MOURAD"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-BIAR",
+        "code_postal": "16003",
+        "nom_exact": "PLACE KENNEDEY 01 RUE MALEK BENARBIA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-1ER MAI",
+        "code_postal": "16007",
+        "nom_exact": "01 RUE LAHCENE MIMOUNI PLACE 1ER MAI"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-BAB-EL-OUED",
+        "code_postal": "16008",
+        "nom_exact": "01 RUE DU DEY BAB EL OUED"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-EL-ANNASSER",
+        "code_postal": "16009",
+        "nom_exact": "216 RUE MOHAMED BELOUIZDAD"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-FERHAT-BOUSSAD",
+        "code_postal": "16010",
+        "nom_exact": "14 RUE FERHAT BOUSSAAD"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-PORT-SAID",
+        "code_postal": "16011",
+        "nom_exact": "01 RUE MAITRE POPIE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-SIDI-M'HAMED",
+        "code_postal": "16012",
+        "nom_exact": "34 RUE ROUCHAI BOUALEM"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "BIR-MOURAD-RAIS",
+        "code_postal": "16013",
+        "nom_exact": "PLACE DE LA REPUBLIQUE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-MADANIA",
+        "code_postal": "16015",
+        "nom_exact": "RUE DES FRRERES BOUKARI EL MADANIA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "HYDRA",
+        "code_postal": "16016",
+        "nom_exact": "05 RUE MOHAMED HADJ AHMED HYDRA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-ALI-BASTA",
+        "code_postal": "16020",
+        "nom_exact": "07 AVENUE IBN MARZOUK EL KHATIB"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-EL-KETTANI",
+        "code_postal": "16021",
+        "nom_exact": "11 RUE ALI KADRI"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-HAUTE-CASBAH",
+        "code_postal": "16022",
+        "nom_exact": "01 RUE HAHAD ABDEREZAK"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-MALIKA-GAID",
+        "code_postal": "16023",
+        "nom_exact": "49 AVENUE MALIKA GAID SKALA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "BIRKHADEM",
+        "code_postal": "16029",
+        "nom_exact": "01 RUE AZEM MAHDI"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "BOLOGHINE",
+        "code_postal": "16030",
+        "nom_exact": "09 RUE AHMED BOUZARAF"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-BIAR-BOUGARA",
+        "code_postal": "16034",
+        "nom_exact": "90 BOULEVART EL BIAR"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-MOURADIA",
+        "code_postal": "16035",
+        "nom_exact": "RUE AOUS MOKRANE EL MOURADIA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-HASSIBA-BEN-BOUALI",
+        "code_postal": "16037",
+        "nom_exact": "37 RASSIBA BEN BOUALI"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-7 MERVEILLES",
+        "code_postal": "16038",
+        "nom_exact": "04 BOULEVART SALAH BOUAKOUIR ALGER"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-KHELIFA-BOUKHALFA",
+        "code_postal": "16039",
+        "nom_exact": "12 RUE ALI AZIL ALGER"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-TARIK-IBN-ZIAD",
+        "code_postal": "16041",
+        "nom_exact": "CITE BEAU CHERAYE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-MOURADIA-AOUDIA",
+        "code_postal": "16052",
+        "nom_exact": "2 RUE DES FRERES AOUDIA EL MOURADIA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "RAIS-HAMIDOU",
+        "code_postal": "16060",
+        "nom_exact": "7 RUE BARBE ROUSSE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER FRERES-BELLILI",
+        "code_postal": "16066",
+        "nom_exact": "CITE 32 LOGTS FRERES BELLILI"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER FRERES-SI-BACHIR",
+        "code_postal": "16067",
+        "nom_exact": "114 RUE KRIM BELKACEM"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-AHCENE-ASKRI",
+        "code_postal": "16068",
+        "nom_exact": "97 AVENUE AHCENE-ASKRI"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-ALI-OURAK",
+        "code_postal": "16070",
+        "nom_exact": "2 BIS ALI OURAK"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-APN",
+        "code_postal": "16071",
+        "nom_exact": "APN,BOULVARD ZIGHOUT YOUCEF"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-BD DES MARTYRS",
+        "code_postal": "16072",
+        "nom_exact": "92, BOULVARD DES MARTYRS"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-DIAR-EL-MAHCOUL",
+        "code_postal": "16074",
+        "nom_exact": "CITE D.E.M.(LONFORT) PLACE DES 4 CHEVAUX"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-LES SOURCES",
+        "code_postal": "16075",
+        "nom_exact": "CITE SORECAL BT13 LES SOURCES B.M.R"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-MAHIEDDINE",
+        "code_postal": "16076",
+        "nom_exact": "40 LOGTS RUE VINAIRE CITE MAHIEDDINE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-PORT",
+        "code_postal": "16077",
+        "nom_exact": "RUE D'ANGOR"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-SAID-HAMDINE",
+        "code_postal": "16078",
+        "nom_exact": "CITE 440 LOGTS BT B3"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "BAINS-ROMAINS",
+        "code_postal": "16082",
+        "nom_exact": "311 AVENUE HAMID KEBLADJ"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "CAP-CAXINE",
+        "code_postal": "16085",
+        "nom_exact": "ROUTE NATIONALE NÂ°11 CAP-CAXINE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "TIXERAINE",
+        "code_postal": "16100",
+        "nom_exact": "07, ROUTE DU KADOUS TIXERAINE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "CONSEIL DE LA NATION",
+        "code_postal": "16127",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-BAB-EL-OUED-CHU",
+        "code_postal": "16131",
+        "nom_exact": "HÃY TEL MAILLOT BAN.EL.OUED"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-CHU MUSTAPHA",
+        "code_postal": "16132",
+        "nom_exact": "HAI–TEL MUSTAPHA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL BIAR ALI KHODJA",
+        "code_postal": "16138",
+        "nom_exact": "118 BD ALI KHODJA"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-MOHAMED DOUAR",
+        "code_postal": "16151",
+        "nom_exact": "BD MOHAMED DOUAR CERVANTES BELCOURT"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-BRAHIM-GHARAFA",
+        "code_postal": "16155",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-RACHID-KOUACHE",
+        "code_postal": "16156",
+        "nom_exact": "43 RUE RACHID KOUACHE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-ETTHAALIBI",
+        "code_postal": "16157",
+        "nom_exact": "RUE BEN CHENAB"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-BEN-M'HIDI",
+        "code_postal": "16158",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-AMARA-RACHID",
+        "code_postal": "16159",
+        "nom_exact": "AVENUE  1IER NOVEMBRE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-ASSELAH-HOCINE",
+        "code_postal": "16172",
+        "nom_exact": "65, RUE ASSELAH HOCINE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-LA-CONCORDE",
+        "code_postal": "16173",
+        "nom_exact": "HAI EL WIAM"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-BEN-M'BAREK-ABDELKADER",
+        "code_postal": "16182",
+        "nom_exact": "CITE 42 LOGTS FRAI VALLON OUED KORICHE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER E.P.R.S",
+        "code_postal": "16197",
+        "nom_exact": "SIEGE DE LA RADIO ALGERIENNE,SITUE AU 21 BOULVARD DES MARTYRS,ALGER"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "SAID-HAMDINE-FACULTE-DE-DROIT",
+        "code_postal": "16203",
+        "nom_exact": "FACULTE DE DROIT,SAID HAMDINE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "BIR-KHADEM-MINISTERE-DE-LA-SOLIDARITE-NATIONALE-DE-LA-FAMILLE-ET-DE-LA-CONDITION-DE-LA-FEMME",
+        "code_postal": "16212",
+        "nom_exact": "MINISTERE-DE-LA-SOLIDARITE-NATIONALE-DE-LA-FAMILLE-ET-DE-LA-CONDITION-DE-LA-FEMME"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-CENTRE-LA-FACULTE-CENTRALE",
+        "code_postal": "16213",
+        "nom_exact": "LA-FACULTE-CENTRALE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-GARE-MARITIME",
+        "code_postal": "16216",
+        "nom_exact": "GARE-MARITIME"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-BIAR-MINISTERE-DE-L'INDUSTRIE-ET-DES-MINES",
+        "code_postal": "16217",
+        "nom_exact": "MINISTERE-DE-L'INDUSTRIE-ET-DES-MINES"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-BIAR-MINISTERE-DES-MOUDJAHIDINE",
+        "code_postal": "16218",
+        "nom_exact": "MINISTERE-DES-MOUDJAHIDINE"
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-CENTRE-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "16229",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-AMIRAUTE",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-M.D.N (ALI-KHODJA)",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-PALAIS DU GOUVERNEMENT",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-BIAR-M-DE LA JUSTICE",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "HYDRA-ALLENDE",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "HYDRA-GADOUCHE(police)",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "MINISTERE DE L'AGRICULTURE",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "ALGER-D-G-S-N",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+CENTRE",
+        "nom": "EL-BIAR-MINISTERE-DES-RELATIONS-AVEC-LE-PARLEMENT",
+        "code_postal": "",
+        "nom_exact": ""
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CHERAGA-RP",
+        "code_postal": "16014",
+        "nom_exact": "RUE MEZALI CHERIF BT PTT"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "AIN-BENIAN",
+        "code_postal": "16018",
+        "nom_exact": "99 RUE COLONNEL SI M'HAMED"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BEN-AKNOUN-RP",
+        "code_postal": "16028",
+        "nom_exact": "33, RUE MOSTAPHA KHALEF"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BOUZAREAH",
+        "code_postal": "16032",
+        "nom_exact": "ROUTE DE BAINEM"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ALGER-ROSTOMIA",
+        "code_postal": "16040",
+        "nom_exact": "CITE ROSTOMIA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BEN-AKNOUN-C. MALKI",
+        "code_postal": "16043",
+        "nom_exact": "CITE ABDELKADER GADOUCHE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BENI-MESSOUS",
+        "code_postal": "16044",
+        "nom_exact": "RUE BRAHIM HADJESS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BIRTOUTA",
+        "code_postal": "16045",
+        "nom_exact": "RUE BOUDELLA RAMDANE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "DELY-IBRAHIM",
+        "code_postal": "16047",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "DOUERA",
+        "code_postal": "16049",
+        "nom_exact": "RUE DES FRERES MAHDI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "DRARIA",
+        "code_postal": "16050",
+        "nom_exact": "RUE BOUDJEMAA TEMIME"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "STAOUELI",
+        "code_postal": "16062",
+        "nom_exact": "RUE BEN DADAY AHMED"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ZERALDA",
+        "code_postal": "16063",
+        "nom_exact": "1 ER NOVEMBRE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ALGER-COUR-SUPREME",
+        "code_postal": "16073",
+        "nom_exact": "RUE 11 DECEMBRE 1960"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ALGER-ZIANI (police)",
+        "code_postal": "16080",
+        "nom_exact": "ECOLE SUPERIEUR DE POLICE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BABA-HASSEN",
+        "code_postal": "16081",
+        "nom_exact": "RUE CHERCHALI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BOUCHAOUI",
+        "code_postal": "16084",
+        "nom_exact": "BOUCHAOUI CENTRE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CHERAGA-BANLIEUE",
+        "code_postal": "16086",
+        "nom_exact": "MOHAMED BOUDIAF 1"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "EL-HAMMADIA",
+        "code_postal": "16089",
+        "nom_exact": "15 RUE OMAR AISSAOUI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "KHERAICIA",
+        "code_postal": "16091",
+        "nom_exact": "AVENUE MOHAMED BELDJLET"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "MAHELMA",
+        "code_postal": "16093",
+        "nom_exact": "RUE MERZOUG MUSTAFA BEN ALI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-FAYET",
+        "code_postal": "16094",
+        "nom_exact": "RUE BOUCHAOUI AMMAR"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SAOULA",
+        "code_postal": "16095",
+        "nom_exact": "RUE DES FRERES BOUBKEUR"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-FREDJ",
+        "code_postal": "16096",
+        "nom_exact": "ROUTE DE STAOUELI MORRETI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SOUIDANIA",
+        "code_postal": "16097",
+        "nom_exact": "RUE MEHDI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "STAOUELI-CLUB DES PINS",
+        "code_postal": "16098",
+        "nom_exact": "RESIDENCE D'ETAT CLUB DES PINS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "TESSALA-EL-MERDJA",
+        "code_postal": "16099",
+        "nom_exact": "RUE ALN"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "AIN-BENIAN-18 FEVRIER",
+        "code_postal": "16101",
+        "nom_exact": "CITE COPEMADE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "EL-ACHOUR",
+        "code_postal": "16104",
+        "nom_exact": "RUE DE LA MAIRIE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OUED-ROMANE",
+        "code_postal": "16106",
+        "nom_exact": "LOTISSEMENT G"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-SIDI-LAKEHEL",
+        "code_postal": "16107",
+        "nom_exact": "VILLAGE AGRICOLE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-YOUCEF",
+        "code_postal": "16109",
+        "nom_exact": "CITE 389 LOGTS COSIDER"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ZERALDA-BD-SOUIDANI",
+        "code_postal": "16110",
+        "nom_exact": "CITE 500 LOGEMENT"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BABA-ALI",
+        "code_postal": "16111",
+        "nom_exact": "RUE DE LA GARE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "EL-AMARA",
+        "code_postal": "16113",
+        "nom_exact": "LOTISSEMENT AMARA 2"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "EL-BRIDJA",
+        "code_postal": "16114",
+        "nom_exact": "CITE LA BRIDJA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "MAZAFRAN-BOUZEGZA",
+        "code_postal": "16117",
+        "nom_exact": "VILLAGE SOCIALISTE AGRICOLE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-CHEBEL",
+        "code_postal": "16118",
+        "nom_exact": "RUE 11 DECEMBRE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-MENDHIL",
+        "code_postal": "16119",
+        "nom_exact": "CITE SOUALMIA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "QUARTIER 11 DECEMBRE",
+        "code_postal": "16120",
+        "nom_exact": "CITE 11 DECEMBRE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "RAHMANIA",
+        "code_postal": "16121",
+        "nom_exact": "RUE BRAHIMI BOUKHARI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "RAMDANIA",
+        "code_postal": "16122",
+        "nom_exact": "DOUAR RAMDANIA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-BOUKHRIS",
+        "code_postal": "16124",
+        "nom_exact": "RUE ALI BEN MAHBOUB"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-HASSEN",
+        "code_postal": "16125",
+        "nom_exact": "LOTISSEMENT SIDI HASSEN"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ZAATRIA",
+        "code_postal": "16126",
+        "nom_exact": "RUE DE L'ECOLE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "KATIBA EL DJELLOULIA",
+        "code_postal": "16128",
+        "nom_exact": "LOT CHEHATTE RABEH"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "HAI BRAHIMI MOHAMED",
+        "code_postal": "16133",
+        "nom_exact": "HAI BRAHIMI MOHAMED SOUIDANIA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "HAI NAAMANE LAMRI",
+        "code_postal": "16134",
+        "nom_exact": "HAI NAAMANE EL AMRI,RAHMANIA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI YOUCEF KOUIDRI 389 LOGTS",
+        "code_postal": "16137",
+        "nom_exact": "CITE 389 LOGTS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BABA ALI ZOUINA",
+        "code_postal": "16146",
+        "nom_exact": "CITE 193 LOGTS  BABA ALI"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SEBALA",
+        "code_postal": "16148",
+        "nom_exact": "CITE 300 LOGT COSIDER ROUTE DE SAOULA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SOUIDANIA-HAI-DJAADI",
+        "code_postal": "16149",
+        "nom_exact": "CITE DJAADI SOUIDANIA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI MENIF",
+        "code_postal": "16160",
+        "nom_exact": "ECOLE POLICE JUDICIAIRE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "STAOUELI-BOUREGAA",
+        "code_postal": "16171",
+        "nom_exact": "HAI BOUREGAA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-FAYET-AADL-1 530 LOGTS",
+        "code_postal": "16175",
+        "nom_exact": "CITE AADL OULED FAYET"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CHERAGA-C.G.N",
+        "code_postal": "16176",
+        "nom_exact": "COMMANDEMENT DE LA GENDARMERIE NATIONALE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CERCLE MILITAIRE-BENI-MESSOUS",
+        "code_postal": "16177",
+        "nom_exact": "CERCLE DES OFFICIERS BENI MESSOUS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CHERAGA-NORD",
+        "code_postal": "16178",
+        "nom_exact": "BASE AERIENNE CHERAGA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-FAYET-UNIVERSITE",
+        "code_postal": "16179",
+        "nom_exact": "OULED FAYET UNIVERSITE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "RESIDENCE-UNIVERSITAIRE-TALEB-ABDERRAHMANE 1",
+        "code_postal": "16180",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-TALEB-ABDERRAHMANE 1 BEN AKNOUN"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SEBALA-AADL-1 839 LOGTS",
+        "code_postal": "16181",
+        "nom_exact": "SEBALA AADL"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ZERALDA-SIDI-MENIF",
+        "code_postal": "16184",
+        "nom_exact": "CITE SIDI MENIF 02 ZERALDA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-FAYET-PLATEAU",
+        "code_postal": "16185",
+        "nom_exact": "OULED FAYET PLATEAU"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "DRARIA-2",
+        "code_postal": "16186",
+        "nom_exact": "RUE ABDEAZIZ REDOUANE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BABA-ALI-1 299 LOGEMENTS",
+        "code_postal": "16190",
+        "nom_exact": "1299 LOGEMENTS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "FACULTE DES SCIENCES POLITIQUES",
+        "code_postal": "16191",
+        "nom_exact": "ITFC BEN AKNOUN"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BABA-HASSEN-20 AOUT 1956",
+        "code_postal": "16192",
+        "nom_exact": "20 AOUT 1965"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "DELY IBRAHIM FACULTE DES SCIENCES ECONOMIQUES UNIVERSITE D'ALGER 03",
+        "code_postal": "16193",
+        "nom_exact": "FACULTE DES SCIENCES ECONOMIQUES UNIVERSITE D'ALGER 03 DELY IBRAHIM"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-ABDELLAH-AADL",
+        "code_postal": "16201",
+        "nom_exact": "CITE AADL DE LA NOUVELLE VILLE DE SIDI ABDELLAH,MAHALMA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-ABDELLAH-1067-LOGEMENTS",
+        "code_postal": "16202",
+        "nom_exact": "LA CITE 1067 LOGEMENTS LPP DE SIDI ABDELLAH,MAHALMA"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "BEN-AKNOUN-CONSEIL-D'ETAT",
+        "code_postal": "16206",
+        "nom_exact": "ROUTE NATIONALE NUMERO 36 CHATEAUNEUF,EL BIAR"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CHERAGA-LES-DUNES",
+        "code_postal": "16208",
+        "nom_exact": "CHERAGA-LES-DUNES"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "SIDI-ABDELLAH-CYBER-PARC",
+        "code_postal": "16209",
+        "nom_exact": "SIDI-ABDELLAH-CYBER-PARC"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-SLIMANE",
+        "code_postal": "16219",
+        "nom_exact": "OULED-SLIMANE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "AIN-BENIAN-BELLE-VUE",
+        "code_postal": "16225",
+        "nom_exact": "AIN-BENIAN-BELLE-VUE"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "CHAIBIA-3216-LOGEMENTS",
+        "code_postal": "16226",
+        "nom_exact": "CHAIBIA-3216-LOGEMENTS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ZERALDA-1000-LOGEMENTS",
+        "code_postal": "16227",
+        "nom_exact": "ZERALDA-1000-LOGEMENTS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "ALGER-OUEST-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "16230",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "RAHMANIA-300-LOGEMENTS",
+        "code_postal": "16233",
+        "nom_exact": "RAHMANIA-300-LOGEMENTS"
+    },
+    {
+        "wilaya": "ALGER+OUEST",
+        "nom": "OULED-BELHADJ",
+        "code_postal": "16234",
+        "nom_exact": "OULED-BELHADJ"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA-RP",
+        "code_postal": "21000",
+        "nom_exact": "AVENUE ZIGHOUD YOUCEF"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AZZABA",
+        "code_postal": "21001",
+        "nom_exact": "AZZABA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "COLLO",
+        "code_postal": "21002",
+        "nom_exact": "COLLO"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-HARROUCH",
+        "code_postal": "21003",
+        "nom_exact": "EL-HARROUCH"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "RAMDANE-DJAMEL",
+        "code_postal": "21004",
+        "nom_exact": "RAMDANE-DJAMEL"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "TAMALOUS",
+        "code_postal": "21005",
+        "nom_exact": "TAMALOUS"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-CHARCHAR",
+        "code_postal": "21006",
+        "nom_exact": "AIN-CHARCHAR"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-KECHERA",
+        "code_postal": "21007",
+        "nom_exact": "AIN-KECHERA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AZZABA-INDEPENDANCE",
+        "code_postal": "21008",
+        "nom_exact": "AZZABA-INDEPENDANCE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BEKKOUCHE-LAKHDAR",
+        "code_postal": "21009",
+        "nom_exact": "BEKKOUCHE-LAKHDAR"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BEN-AZZOUZ",
+        "code_postal": "21010",
+        "nom_exact": "BEN-AZZOUZ"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BENI-OULBANE",
+        "code_postal": "21011",
+        "nom_exact": "BENI-OULBANE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BOU-NOGHRA",
+        "code_postal": "21012",
+        "nom_exact": "BOU-NOGHRA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "COLLO-AIN-ZIDA",
+        "code_postal": "21013",
+        "nom_exact": "COLLO-AIN-ZIDA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-HARROUCH-EL-MELHA",
+        "code_postal": "21014",
+        "nom_exact": "EL-HARROUCH-EL-MELHA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-HEDAIEK",
+        "code_postal": "21015",
+        "nom_exact": "EL-HADAIEK"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-OULOUDJ",
+        "code_postal": "21016",
+        "nom_exact": "EL-OULOUDJ"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EMJEZ-ED-CHICHE",
+        "code_postal": "21017",
+        "nom_exact": "EMJEZ-ED-CHICHE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "ES-SEBT",
+        "code_postal": "21018",
+        "nom_exact": "ES-SEBT"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "KERKERA",
+        "code_postal": "21019",
+        "nom_exact": "KERKERA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OUM-TOUB",
+        "code_postal": "21020",
+        "nom_exact": "OUM-TOUB"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "RAMDANE-DJAMEL 1ER NOV,",
+        "code_postal": "21021",
+        "nom_exact": "RAMDANE-DJAMEL 1ER NOV,"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SALAH-BOUCHAOUR",
+        "code_postal": "21022",
+        "nom_exact": "SALAH-BOUCHAOUR"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SIDI-MEZGHICHE",
+        "code_postal": "21023",
+        "nom_exact": "SIDI-MEZGHICHE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA 20 AOUT 1955",
+        "code_postal": "21024",
+        "nom_exact": "SKIKDA 20 AOUT 1955"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA 8 MAI 1945",
+        "code_postal": "21025",
+        "nom_exact": "SKIKDA 8 MAI 1945"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA-DIDOUCHE-MOURAD",
+        "code_postal": "21026",
+        "nom_exact": "SKIKDA-DIDOUCHE-MOURAD"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA-FRERES-SAADI",
+        "code_postal": "21027",
+        "nom_exact": "SKIKDA-FRERES-SAADI"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "ZITOUNA",
+        "code_postal": "21028",
+        "nom_exact": "ZITOUNA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AHMED-SALEM",
+        "code_postal": "21029",
+        "nom_exact": "AHMED-SALEM"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-AGHBEL",
+        "code_postal": "21030",
+        "nom_exact": "AIN-AGHBEL"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-BOUZIANE",
+        "code_postal": "21031",
+        "nom_exact": "AIN-BOUZIANE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AZZABA-BOUACIDA",
+        "code_postal": "21032",
+        "nom_exact": "AZZABA-BOUACIDA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BENI-BECHIR",
+        "code_postal": "21033",
+        "nom_exact": "BENI-BECHIR"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BOUDOUKHA",
+        "code_postal": "21034",
+        "nom_exact": "BOUDOUKHA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BOUMAIZA",
+        "code_postal": "21035",
+        "nom_exact": "BOUMAIZA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "CHERAIA",
+        "code_postal": "21036",
+        "nom_exact": "CHERAIA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "DJENDEL-SAADI-MOHAMED",
+        "code_postal": "21037",
+        "nom_exact": "DJENDEL-SAADI-MOHAMED"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "HAMADI-KROUMA",
+        "code_postal": "21038",
+        "nom_exact": "HAMADI-KROUMA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "HAMMOUDI-HAMROUCHE",
+        "code_postal": "21039",
+        "nom_exact": "HAMROUCHE-HAMMOUDI"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "MELLAB",
+        "code_postal": "21040",
+        "nom_exact": "MELLAB"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "MENZEL-BENDICHE",
+        "code_postal": "21041",
+        "nom_exact": "MENZEL-BENDICHE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OUED-RIGHA",
+        "code_postal": "21042",
+        "nom_exact": "OUED-RIGHA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OULED-HABEBA",
+        "code_postal": "21043",
+        "nom_exact": "OULED-HABEBA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SAID-BOUSBAA",
+        "code_postal": "21044",
+        "nom_exact": "SAID-BOUSBAA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA-BEN-M'HIDI",
+        "code_postal": "21045",
+        "nom_exact": "SKIKDA-BEN-M'HIDI"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "STORA",
+        "code_postal": "21046",
+        "nom_exact": "STORA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "ZERDAZAS",
+        "code_postal": "21047",
+        "nom_exact": "ZERDAZAS"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-CHERAIA",
+        "code_postal": "21048",
+        "nom_exact": "AIN-CHERAIA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-NECHEMA",
+        "code_postal": "21049",
+        "nom_exact": "AIN-NECHEMA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-TABIA",
+        "code_postal": "21050",
+        "nom_exact": "AIN-TABIA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "AIN-ZOUIT",
+        "code_postal": "21051",
+        "nom_exact": "AIN-ZOUIT"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BIN-EL-OUIDEN",
+        "code_postal": "21052",
+        "nom_exact": "BIN-EL-OUIDEN"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BOUCHTATA-MAHMOUD",
+        "code_postal": "21053",
+        "nom_exact": "BOUCHTATA-MAHMOUD"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BOUHALBES",
+        "code_postal": "21054",
+        "nom_exact": "BOUHALBES"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "DEMNIA",
+        "code_postal": "21055",
+        "nom_exact": "DEMNIA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "DJEBEL-STAIHA",
+        "code_postal": "21056",
+        "nom_exact": "DJEBEL-STAIHA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-GHEDIR-MERDJ-TAHAR",
+        "code_postal": "21057",
+        "nom_exact": "EL-GHEDIR"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-MARSA-KLIBET-HAMADI",
+        "code_postal": "21058",
+        "nom_exact": "EL-MARSA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-OULDJA-BOULBALOUT",
+        "code_postal": "21059",
+        "nom_exact": "EL-OULDJA-BOULBALOUT"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "GUERBES-MABROUK-LARBI",
+        "code_postal": "21060",
+        "nom_exact": "GUERBES"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "HADJAR-MEFROUCH",
+        "code_postal": "21061",
+        "nom_exact": "HADJAR-MEFROUCH"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "KANOUA",
+        "code_postal": "21062",
+        "nom_exact": "KANOUA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "KHENEG-MAYOUN",
+        "code_postal": "21063",
+        "nom_exact": "KHENEG-MAYOUN"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "LA-ZAOUIA",
+        "code_postal": "21064",
+        "nom_exact": "LA-ZAOUIA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "MEKKASSA",
+        "code_postal": "21065",
+        "nom_exact": "MEKKASSA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "MENZEL-EL-ABTAL",
+        "code_postal": "21066",
+        "nom_exact": "MENZEL-EL-ABTAL"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OUED-EL-KEBIR",
+        "code_postal": "21067",
+        "nom_exact": "OUED-EL-KEBIR"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OUED-KSOB",
+        "code_postal": "21068",
+        "nom_exact": "OUED-KSOB"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OUED-KSOB-V.S.A",
+        "code_postal": "21069",
+        "nom_exact": "OUED-KSOB-V.S.A"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "RAKOUBA",
+        "code_postal": "21070",
+        "nom_exact": "RAKOUBA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "RAMOUL",
+        "code_postal": "21071",
+        "nom_exact": "RAMOUL"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "RAS-EL-MA",
+        "code_postal": "21072",
+        "nom_exact": "RAS-EL-MA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SEBTI-MAAMECHE",
+        "code_postal": "21073",
+        "nom_exact": "SEBTI-MAAMECHE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "TAHOUNA",
+        "code_postal": "21074",
+        "nom_exact": "TAHOUNA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "TOUMIETTES",
+        "code_postal": "21075",
+        "nom_exact": "TOUMIETTES"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OUED-RIGHA-BAHRI",
+        "code_postal": "21076",
+        "nom_exact": "OUED-RIGHA-BAHRI"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SOUK TLETA",
+        "code_postal": "21077",
+        "nom_exact": "SOUK-TLETA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA UNIVERSITE",
+        "code_postal": "21078",
+        "nom_exact": "UNIVERSITE DE SKIKDA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "OULED-SLIMANE",
+        "code_postal": "21079",
+        "nom_exact": "OULED-SLIMANE"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "EL-HAMMA",
+        "code_postal": "21080",
+        "nom_exact": "EL-HAMMA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "TAMALOUS-SUPERIEUR",
+        "code_postal": "21081",
+        "nom_exact": "LA PARTIE NORD DE LA VILLE DE TAMALOUS"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "SKIKDA-HOUARI-BOUMEDIENE",
+        "code_postal": "21082",
+        "nom_exact": "CITE MARDJ EDDIB 218 LOGEMENTS BAT 02 NÂ°01,SKIKDA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "HADJERIA",
+        "code_postal": "21083",
+        "nom_exact": "LA LOCALITE DE EL HADJERIA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "TALEZA",
+        "code_postal": "21084",
+        "nom_exact": "TALEZA"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "LAOUINETTES",
+        "code_postal": "21085",
+        "nom_exact": "LAOUINETTES"
+    },
+    {
+        "wilaya": "SKIKDA",
+        "nom": "BEN-M'HIDI-E-S-O-M",
+        "code_postal": "",
+        "nom_exact": "BEN M'HIDI ESOM"
+    }
+]

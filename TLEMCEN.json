@@ -1,0 +1,722 @@
+[
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-RP",
+        "code_postal": "13000",
+        "nom_exact": "BD COLONEL LOTFI PLACE DU 1ER MAI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAGHNIA",
+        "code_postal": "13001",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "GHAZAOUET",
+        "code_postal": "13002",
+        "nom_exact": "1 RUE DE LA REPUBLIQUE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAGHNIA-AZZOUNI",
+        "code_postal": "13003",
+        "nom_exact": "CITE AZZOUNI M MAGHNIA AZZOUNI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "NEDROMA",
+        "code_postal": "13004",
+        "nom_exact": "RUE MOHAMED BOUDIAF"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "REMCHI",
+        "code_postal": "13005",
+        "nom_exact": "RUE INDEPENDANCE REMCHI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SEBDOU",
+        "code_postal": "13006",
+        "nom_exact": "RUE EMIR ABDELKADER 1ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-CERISIERS",
+        "code_postal": "13007",
+        "nom_exact": "RUE LARBI BEN M'HIDI TLEMCEN CERISIERS"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BENSEKRANE",
+        "code_postal": "13008",
+        "nom_exact": "RUE COLONEL LOTFI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "HENNAYA",
+        "code_postal": "13009",
+        "nom_exact": "RUE 1ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "OULED-MIMOUN-MOUALID-DJELLOUL",
+        "code_postal": "13010",
+        "nom_exact": "BD DE LA REPUBLIQUE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SABRA",
+        "code_postal": "13011",
+        "nom_exact": "RUE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-TELLOUT",
+        "code_postal": "13012",
+        "nom_exact": "HAI EL ENNASR"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-YOUCEF",
+        "code_postal": "13013",
+        "nom_exact": "1ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BAB-EL-ASSA",
+        "code_postal": "13014",
+        "nom_exact": "CITE OLIVIER BAB EL ASSA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "HONAINE",
+        "code_postal": "13015",
+        "nom_exact": "RUE 18 FEVRIER HONAINE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "IMAMA",
+        "code_postal": "13016",
+        "nom_exact": "COMPLEXE PTT"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MARSA-BEN-M'HIDI",
+        "code_postal": "13017",
+        "nom_exact": "B D PRINCIPAL MARSA BEN M'HIDI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "NEDROMA-ABDELMOUMENE",
+        "code_postal": "13018",
+        "nom_exact": "CITE BEN BADIS"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-ABDELLI",
+        "code_postal": "13019",
+        "nom_exact": "CENTRE VILLE SIDI ABDELLI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SOUAHLIA",
+        "code_postal": "13020",
+        "nom_exact": "RUE DE LA MOSQUEE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-BOUDGHENE",
+        "code_postal": "13021",
+        "nom_exact": "FG BOUDGHENE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-FEZZA",
+        "code_postal": "13022",
+        "nom_exact": "ROUTE NATIONALE 07"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-GHORABA",
+        "code_postal": "13023",
+        "nom_exact": "RUE DE LA POSTE CITE EL TOFOULA NÂ°10"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "ARBOUZ",
+        "code_postal": "13024",
+        "nom_exact": "ARBOUZ CENTRE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BENI-OUARSOUS",
+        "code_postal": "13025",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BOUHALLOU",
+        "code_postal": "13026",
+        "nom_exact": "RUE DE BOUHALLOU"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BOUKANOUN",
+        "code_postal": "13027",
+        "nom_exact": "ROUTE D'ARBOUZ"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BOUTRAK",
+        "code_postal": "13028",
+        "nom_exact": "ROUTE BOUTRAK"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "DJEBALA",
+        "code_postal": "13029",
+        "nom_exact": "RUE DE L'APC DJEBALA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-ABED",
+        "code_postal": "13030",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-ARICHA",
+        "code_postal": "13031",
+        "nom_exact": "HAI CHOUHADA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-BOR",
+        "code_postal": "13032",
+        "nom_exact": "RUE SIDI OUCHAA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-FEHOUL",
+        "code_postal": "13033",
+        "nom_exact": "RUE BELAIDOUNI MED"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-GOR",
+        "code_postal": "13034",
+        "nom_exact": "RUE L'INDEPENDANCE SLIMANI MED"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "FILLAOUCENE",
+        "code_postal": "13035",
+        "nom_exact": "RUE DJERIEF AEK"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "HAMMAM-BOUGHRARA",
+        "code_postal": "13036",
+        "nom_exact": "ROUTE NATIONALE 35"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-KHEMIS-BENI-SNOUS",
+        "code_postal": "13037",
+        "nom_exact": "RUE DE LA POSTE ANCIENNE MAIRIE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "KHEMISTI",
+        "code_postal": "13038",
+        "nom_exact": "ROUTE BENI MESTER 1"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "KHORIBA",
+        "code_postal": "13039",
+        "nom_exact": "RUE 1ER NOVEMBRE1954"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAAZIZ",
+        "code_postal": "13040",
+        "nom_exact": "BD PRINCIPALE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MEZAOUROU-SIDI-BRAHIM",
+        "code_postal": "13041",
+        "nom_exact": "RUE DE NEDROMA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SEBAA-CHIOUKH",
+        "code_postal": "13042",
+        "nom_exact": "RUE INDEPENDANCE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-DJILLALI",
+        "code_postal": "13043",
+        "nom_exact": "CITE 11 DECEMBRE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-MEDJAHED",
+        "code_postal": "13044",
+        "nom_exact": "RUE SIDI MEDJAHED"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-ZOUAOUI-KEDDARI-KOUIDER",
+        "code_postal": "13045",
+        "nom_exact": "HAI EL RAHMA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SOUANI",
+        "code_postal": "13046",
+        "nom_exact": "RUE ACHI AHMED SOUANI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TIENT",
+        "code_postal": "13047",
+        "nom_exact": "ROUTE PRINCIPALE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-CHETOUANE",
+        "code_postal": "13048",
+        "nom_exact": "RUE INDEPENDANCE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "ZOUIA",
+        "code_postal": "13049",
+        "nom_exact": "RUE ZOUIA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "ZELBOUN",
+        "code_postal": "13050",
+        "nom_exact": "RUE DE LA POSTE CENTRE ZELBOUNE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "ZENATA",
+        "code_postal": "13051",
+        "nom_exact": "ROUTE NATIONALE 98"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-EL-HOUTZ",
+        "code_postal": "13052",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-KEBIRA",
+        "code_postal": "13053",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-NAHALA",
+        "code_postal": "13054",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-NEKROUF",
+        "code_postal": "13055",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-ZANA-CHEBIKIA",
+        "code_postal": "13056",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AKID-LOTFI",
+        "code_postal": "13057",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AMIEUR",
+        "code_postal": "13058",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BELHADJI-BOUCIF",
+        "code_postal": "13059",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BENI-BAHDEL",
+        "code_postal": "13060",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BENI-MESTER",
+        "code_postal": "13061",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BOUHENAK",
+        "code_postal": "13062",
+        "nom_exact": "BT I NÂ°1 CITE 500 LOGTS"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "DAR-YAGHMOURACENE",
+        "code_postal": "13063",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "DJAMAA-SEKHRA",
+        "code_postal": "13064",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "DJEBRA-CHELAIDA",
+        "code_postal": "13065",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-BOUIHI",
+        "code_postal": "13066",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "GHAZAOUET-SIDI-AMAR",
+        "code_postal": "13067",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "OUED-LAKHDAR",
+        "code_postal": "13068",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "OUED-ZITOUN",
+        "code_postal": "13069",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "OULED-RIAH",
+        "code_postal": "13070",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RAMLA",
+        "code_postal": "13071",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-BENDIAF",
+        "code_postal": "13072",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-BOUNOUAR",
+        "code_postal": "13073",
+        "nom_exact": "CITE A/MEDAGHRI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-DRISS",
+        "code_postal": "13074",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-MECHHOR",
+        "code_postal": "13075",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-SENOUSSI",
+        "code_postal": "13076",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SOUK-EL-KHEMIS",
+        "code_postal": "13077",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SOUK-TLATA",
+        "code_postal": "13078",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TERNY",
+        "code_postal": "13079",
+        "nom_exact": "RUE DE SEBDOU"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLETA",
+        "code_postal": "13080",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "YEMBOU",
+        "code_postal": "13081",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "ZEKRI-MOUSSA-ADJAIDJA",
+        "code_postal": "13082",
+        "nom_exact": "RUE DE POSTE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BOUHENAK-JASMINS",
+        "code_postal": "13084",
+        "nom_exact": "ROUTE DE BENSEKRANE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "EL-FAHS-BENI-SNOUS",
+        "code_postal": "13085",
+        "nom_exact": "CITE LES JASMINS"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "AIN-ISSER",
+        "code_postal": "13086",
+        "nom_exact": "RUE DE LA MOSQUEE KHEMIS"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "OUZIDANE",
+        "code_postal": "13083",
+        "nom_exact": "BENI SMAYELE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI YAHIA",
+        "code_postal": "13087",
+        "nom_exact": "ROUTE DE SIDI MEDJAHED"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "ZENATA-AEROPORT",
+        "code_postal": "13088",
+        "nom_exact": "AEROPORT"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "BEKHATA",
+        "code_postal": "13089",
+        "nom_exact": "ROUTE DE SABRA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "OUCHBA",
+        "code_postal": "13090",
+        "nom_exact": "ROUTE DE CHETOUANE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAGHNIA-CADI",
+        "code_postal": "13091",
+        "nom_exact": "CITE CADI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-ABOU-TACHFINE",
+        "code_postal": "13092",
+        "nom_exact": "APC ABOU TACHFINE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-OUDJLIDA",
+        "code_postal": "13093",
+        "nom_exact": "CITE OUDJLIDA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-BEN BOUALI",
+        "code_postal": "13094",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-BELMIMOUNE",
+        "code_postal": "13095",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-BEKHTI",
+        "code_postal": "13096",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "COMPUS-TLEMCEN",
+        "code_postal": "13097",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RESIDENCE-UNIVERSITAIRE-MANSOURAH III",
+        "code_postal": "13098",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RESIDENCE-UNIVERSITAIRE-TIDJANI-HEDDAM",
+        "code_postal": "13099",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RESIDENCE-UNIVERSITAIRE-MANSOURAH-900 Lits",
+        "code_postal": "13100",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RESIDENCE-UNIVERSITAIRE-MALIHA-HAMIDOU",
+        "code_postal": "13101",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RESIDENCE-UNIVERSITAIRE-MALIKA-KAID",
+        "code_postal": "13102",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-TERRE",
+        "code_postal": "13103",
+        "nom_exact": "TLEMCEN-TERRE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "RESIDENCE-UNIVERSITAIRE-SOUFI-MENOUAR",
+        "code_postal": "13104",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID CHETOUANE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAGHNIA-500 Lits",
+        "code_postal": "13105",
+        "nom_exact": "ROUTE DE OUDJDA MAGHNIA AZZOUNI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MANSOURAH-BACHIR-EL-IBRAHIMI",
+        "code_postal": "13106",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MANSOURAH-700 Lits",
+        "code_postal": "13107",
+        "nom_exact": "UNIVERSITE ABOU BAKR BELKAID"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-CHU",
+        "code_postal": "13108",
+        "nom_exact": "BEL HORIZON"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-COUR",
+        "code_postal": "13109",
+        "nom_exact": "RUE DERRAR ABDERRAHMANE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TAFESRA",
+        "code_postal": "13110",
+        "nom_exact": "VILLAGE DE TAFESRA,EL AZAILS,TLEMCEN"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "KOUDIA",
+        "code_postal": "13111",
+        "nom_exact": "CITE KOUDIA,TLEMCEN"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-SIDI-SAID",
+        "code_postal": "13112",
+        "nom_exact": "LOCALITE DE SIDI SAID,TLEMCEN"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SEBDOU-DERMAM",
+        "code_postal": "13113",
+        "nom_exact": "SEBDOU-DERMAM"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-GARE-ROUTIERE",
+        "code_postal": "13114",
+        "nom_exact": "TLEMCEN-GARE-ROUTIERE ABOUTACHFINE"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "GHENAINA",
+        "code_postal": "",
+        "nom_exact": "GHENAINA"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAGHNIA-MATMORE",
+        "code_postal": "",
+        "nom_exact": "RUE -0- CITE MATMOR"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "TLEMCEN-AGADIR",
+        "code_postal": "",
+        "nom_exact": "RUE MENOUAR OMAR AGADIR"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "MAGHNIA-BETAIM",
+        "code_postal": "",
+        "nom_exact": "ROUTE DE MARSA BEN M'HIDI"
+    },
+    {
+        "wilaya": "TLEMCEN",
+        "nom": "SIDI-BOUDJENANE",
+        "code_postal": "",
+        "nom_exact": "ROUTE DE MARSA BEN M'HIDI SOUANI"
+    }
+]

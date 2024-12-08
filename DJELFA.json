@@ -1,0 +1,542 @@
+[
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-RP",
+        "code_postal": "17000",
+        "nom_exact": "RUE  EMIR A EK"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA",
+        "code_postal": "17001",
+        "nom_exact": "ROUTE  NATIONAL"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-BAHBAH",
+        "code_postal": "17002",
+        "nom_exact": "ROUTE   NATIONAL  NÂ° 01  HBB"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MESSAAD",
+        "code_postal": "17003",
+        "nom_exact": "CITE   1ER Novembre MESSAAD"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA-SLIMANI-SLIMANE",
+        "code_postal": "17004",
+        "nom_exact": "CITE SLIMANI SLIMANE  AIN OUSSERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA-ZIGHOUT-YOUCEF",
+        "code_postal": "17005",
+        "nom_exact": "CITE  ALI AMMAR  A/O"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DAR-CHIOUKH",
+        "code_postal": "17006",
+        "nom_exact": "CENTRE  VILLE DAR CHIOUKH"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-5 JUILLET",
+        "code_postal": "17007",
+        "nom_exact": "CITE 05 JUILLET"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-DAYA",
+        "code_postal": "17008",
+        "nom_exact": "CITE DAYA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-SIDI-NAIL",
+        "code_postal": "17009",
+        "nom_exact": "CENTRE  VILLE   DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-BAHBAH-DJAAROUNE-SAID",
+        "code_postal": "17010",
+        "nom_exact": "RUE HAOUARI BOUMEDINE  HBB"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-EL-IBEL",
+        "code_postal": "17011",
+        "nom_exact": "cité sailaa mabrouk"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA-ABANE-RAMDANE",
+        "code_postal": "17012",
+        "nom_exact": "CITE ABANNE RAMDHANE AIN OUSSERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA-GUERADA-BELKACEM",
+        "code_postal": "17013",
+        "nom_exact": "CIT GUEERADA BELKACEM AIN OUSSERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "BIRINE",
+        "code_postal": "17014",
+        "nom_exact": "Route AIN OUSSERA   BIRINE"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "CHAREF",
+        "code_postal": "17015",
+        "nom_exact": "RUE ABDELAZIZ EL HADJ   CHAREF"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-HASSEN-ABDELKADER",
+        "code_postal": "17016",
+        "nom_exact": "CITE DU JARDIN DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-BERREBIH",
+        "code_postal": "17017",
+        "nom_exact": "CITE BERRBIH"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-BOUTRIFIS",
+        "code_postal": "17018",
+        "nom_exact": "CITE BOUTRIFIS"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-GUEDID",
+        "code_postal": "17019",
+        "nom_exact": "CITE NLLE EL GUEDDID"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-IDRISSIA",
+        "code_postal": "17020",
+        "nom_exact": "CENTRE VILLE EL IDRISSIA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "FEID-EL-BOTMA",
+        "code_postal": "17021",
+        "nom_exact": "1 ER Novembre  FEID EL BOTMA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HAD-SAHARY",
+        "code_postal": "17022",
+        "nom_exact": "Rue ALI BOUMENDJEL  HAD SAHARY"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-BAHBAH-CHETTOUH-KHEIREDINE",
+        "code_postal": "17023",
+        "nom_exact": "CITE   BOUAFFIA   HBB"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "SIDI-LADJEL",
+        "code_postal": "17024",
+        "nom_exact": "CENTRE   VILLE  SIDI LAADJEL"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-MAABED",
+        "code_postal": "17025",
+        "nom_exact": "CENTRE VILLE   AIN MAABED"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "BEN-YAGOUB",
+        "code_postal": "17026",
+        "nom_exact": "RUE 1 NOVEMBRE  BENYAGOUB"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "BIRINE-KADI-TAHAR",
+        "code_postal": "17027",
+        "nom_exact": "cite  Kadi TAHAR  BIRINE"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-AIN-CHIH",
+        "code_postal": "17028",
+        "nom_exact": "CITE AIN CHIH  DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-ZAHAF",
+        "code_postal": "17029",
+        "nom_exact": "CITE ZAHAF  DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DOUIS",
+        "code_postal": "17030",
+        "nom_exact": "CENTRE VILLE DOUIS"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-BAHBAH-5 JUILLET",
+        "code_postal": "17031",
+        "nom_exact": "CITE 05 JUILLET"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-EL-EUCH",
+        "code_postal": "17032",
+        "nom_exact": "CENTRE VILLE HASSI EL EUCH"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MESSAAD-CITE-EL-QUODS",
+        "code_postal": "17033",
+        "nom_exact": "CITE EL QUODS"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MESSAAD-DEMED",
+        "code_postal": "17034",
+        "nom_exact": "PLACE  EMIR     A E K  MESSAAD"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MESSAD-EMIR-ABDELKADER",
+        "code_postal": "17035",
+        "nom_exact": "DEMED  MESSAAD"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MOUILAH",
+        "code_postal": "17036",
+        "nom_exact": "MOUILAH"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "TAADMIT",
+        "code_postal": "17037",
+        "nom_exact": "CENTRE VILLE TAADMIT"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "ZAAFRANE",
+        "code_postal": "17038",
+        "nom_exact": "CENTRE VILLE  ZAAFRANE"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-CHOUHADA",
+        "code_postal": "17039",
+        "nom_exact": "CENTRE VILLE AIN CHOUHADA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-FEKKA",
+        "code_postal": "17040",
+        "nom_exact": "AIN FEKKA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AMERA",
+        "code_postal": "17041",
+        "nom_exact": "CENTRE VILLE AMERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AMOURAH",
+        "code_postal": "17042",
+        "nom_exact": "CENTRE VILLE AMOURAH"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "BENHAR",
+        "code_postal": "17043",
+        "nom_exact": "CENTRE VILLE BENHAR"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "BOUIRA-LAHDAB",
+        "code_postal": "17044",
+        "nom_exact": "BOUIRAT LAHDAB"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DAIT-EL-BKHOUR",
+        "code_postal": "17045",
+        "nom_exact": "DAIET EL BKHEUR"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DELDOUL",
+        "code_postal": "17046",
+        "nom_exact": "CENTRE  VILLE DELDOUL"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DRAA-SOUARY",
+        "code_postal": "17047",
+        "nom_exact": "CITE  Moudjahidine DRAA SOURY"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-GAHRA",
+        "code_postal": "17048",
+        "nom_exact": "CENTRE VILLE  EL GAHRA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-HAMMAM",
+        "code_postal": "17049",
+        "nom_exact": "EL HAMMAM"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-HIOUHI",
+        "code_postal": "17050",
+        "nom_exact": "EL HIOUHI"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-KHEMIS",
+        "code_postal": "17051",
+        "nom_exact": "CENTRE  VILLE EL KHEMIS"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-OGUILA",
+        "code_postal": "17052",
+        "nom_exact": "CENTRE   VILLE EL OGUILA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "GUENDOUZA",
+        "code_postal": "17053",
+        "nom_exact": "GUENDOUZA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "GUERNINI",
+        "code_postal": "17054",
+        "nom_exact": "1 ER Novembre  GUERNINI"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "GUETTARA",
+        "code_postal": "17055",
+        "nom_exact": "CENTRE VILLE  GUETTERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-FEDOUL",
+        "code_postal": "17056",
+        "nom_exact": "Rue 1er  Novebre   centre ville HASSI FDOUL"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "M'LILIHA",
+        "code_postal": "17057",
+        "nom_exact": "CENTRE VILLE M LILIHA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MOUDJEBARA",
+        "code_postal": "17058",
+        "nom_exact": "CENTRE  VILLE MOUDJEBARRA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "N'TILA",
+        "code_postal": "17059",
+        "nom_exact": "N THILA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "OUM-CHEGAG",
+        "code_postal": "17060",
+        "nom_exact": "OUM CHEGAG"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "OUM-EL-ADHAM",
+        "code_postal": "17061",
+        "nom_exact": "OUM LAADAM"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "SED-RAHAL",
+        "code_postal": "17062",
+        "nom_exact": "CENTRE VILLE  SED RAHAL"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "SELMANA",
+        "code_postal": "17063",
+        "nom_exact": "CENTRE VILLE SELMANA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "SIDI-BAIZID",
+        "code_postal": "17064",
+        "nom_exact": "SIDI BAIZID"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "ZACCAR",
+        "code_postal": "17065",
+        "nom_exact": "CENTRE VILLE ZACCAR"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "TAHIRI-MOHAMED",
+        "code_postal": "17066",
+        "nom_exact": "CENTRE VILLE   tahiri mohamd"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HANIET-OULED-SALM",
+        "code_postal": "17067",
+        "nom_exact": "HANIET-OULED-SALM"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "SED-OUM-DROU",
+        "code_postal": "17068",
+        "nom_exact": "SED-OUM-DROU"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "ABDELMADJID",
+        "code_postal": "17069",
+        "nom_exact": "ABDELMADJID"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MEGUIED",
+        "code_postal": "17070",
+        "nom_exact": "EL M'GUEID"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HAD-SAHARY-AIT-MESSAOUDENE",
+        "code_postal": "17071",
+        "nom_exact": "centre  Ville  HAD SAHARY"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-ACHOUR-ZIANE",
+        "code_postal": "17072",
+        "nom_exact": "CITE UNIVERSITAIRE   Z ACHOUR"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-GARE-ROUTIERE",
+        "code_postal": "17073",
+        "nom_exact": "GARE ROUTIERE DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA-GARE-ROUTIERE",
+        "code_postal": "17074",
+        "nom_exact": "GARE ROUTIERE  AIN OUSSERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MESSAAD-GARE-ROUTIERE",
+        "code_postal": "17075",
+        "nom_exact": "GARE ROUTIERE MESSAAD"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-OULED-OBAID-ALLAH",
+        "code_postal": "17076",
+        "nom_exact": "OULED OBAIDELLAH"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-MOHAMED-BEN-LABIAD",
+        "code_postal": "17077",
+        "nom_exact": "CITE BEN LABIAD MED"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "EL-IDRISSIA-11 DEC 1960",
+        "code_postal": "17078",
+        "nom_exact": "11 DECEMBRE 1960  EL IDRISSIA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-EL-WIAM",
+        "code_postal": "17079",
+        "nom_exact": "CITE EL WIAM"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "TOUAZI",
+        "code_postal": "17080",
+        "nom_exact": "LA LOCALITE DE TOUAZI COMMUNE DE CHAREF,DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "OUED-SDAR",
+        "code_postal": "17081",
+        "nom_exact": "OUED SDAR ROUTE NATIONALE N°01,DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "BEN-HAMED",
+        "code_postal": "17082",
+        "nom_exact": "VILLAGE DE BEN HAMED COMMUNE DE TADMIT,DJELFA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "MESSAAD-MOUSSAOUI-MESSAOUD",
+        "code_postal": "17083",
+        "nom_exact": "CITE SAIFI COMMUNE DE MESSAAD"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "AIN-OUSSERA-TERRE",
+        "code_postal": "17084",
+        "nom_exact": "BASE AIRIENNE  AIN OUSSERA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "HASSI-BAHBAH-TERRE",
+        "code_postal": "17085",
+        "nom_exact": "HASSI EL MORRA"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-HOUARI-BOUMEDIENE",
+        "code_postal": "17086",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DAR-CHIOUKH-COLONEL-CHAABANI-MOHAMED",
+        "code_postal": "17087",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-AIN-SERAR",
+        "code_postal": "17088",
+        "nom_exact": "DJELFA-AIN-SERAR"
+    },
+    {
+        "wilaya": "DJELFA",
+        "nom": "DJELFA-TERRE",
+        "code_postal": "",
+        "nom_exact": "ZONE MILITAIRE DJELFA"
+    }
+]

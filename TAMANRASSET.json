@@ -1,0 +1,230 @@
+[
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-RP",
+        "code_postal": "11000",
+        "nom_exact": "CITE EL HOFRA"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-SALAH",
+        "code_postal": "11001",
+        "nom_exact": "CENTRE VILLE IN SALAH"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-KOUF",
+        "code_postal": "11002",
+        "nom_exact": "CITE IN KOUF"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-AMGUEL",
+        "code_postal": "11003",
+        "nom_exact": "IN AMGUIL"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-GHAR",
+        "code_postal": "11004",
+        "nom_exact": "IN GHAR"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-GUEZZAM",
+        "code_postal": "11005",
+        "nom_exact": "IN GUEZZAM"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "SERSSOUF",
+        "code_postal": "11006",
+        "nom_exact": "CITE SERSSOUF"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "SILET",
+        "code_postal": "11007",
+        "nom_exact": "SILET"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-ASSIHAR",
+        "code_postal": "11008",
+        "nom_exact": "TAMANRASSET"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-ASSORO",
+        "code_postal": "11009",
+        "nom_exact": "CITE ASSOUROU"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAZROUK",
+        "code_postal": "11010",
+        "nom_exact": "TAZROUK"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TIN-ZOUATINE",
+        "code_postal": "11011",
+        "nom_exact": "TIN ZAOUATINE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "ABALESSA",
+        "code_postal": "11012",
+        "nom_exact": "ABLESSA"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "AMGUID",
+        "code_postal": "11013",
+        "nom_exact": "AMGUID"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "AMSEL",
+        "code_postal": "11014",
+        "nom_exact": "AMSEL"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "EL-BARKA",
+        "code_postal": "11015",
+        "nom_exact": "EL BARKA"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "FOUGARET-EZZOUAOUA",
+        "code_postal": "11016",
+        "nom_exact": "FOUGARET-EZZOUAOUA"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "FOUGARET-LARAB",
+        "code_postal": "11017",
+        "nom_exact": "F LARAB"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "HASSI-LAHDJAR",
+        "code_postal": "11018",
+        "nom_exact": "H LAHDJAR"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "HIRAFOUK",
+        "code_postal": "11019",
+        "nom_exact": "HIRAFOUK"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IDELES",
+        "code_postal": "11020",
+        "nom_exact": "IDLES"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IGOSTENE",
+        "code_postal": "11021",
+        "nom_exact": "IGOSTEN"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "OUTOUL",
+        "code_postal": "11022",
+        "nom_exact": "OUTOUL"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "SAHLA-EL-FOUGANIA",
+        "code_postal": "11023",
+        "nom_exact": "SAHLA"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-SALAH-5 JUILLET",
+        "code_postal": "11024",
+        "nom_exact": "IN SALAH 05 JUIL"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-CENTRE-VILLE",
+        "code_postal": "11025",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-GARE-ROUTIERE",
+        "code_postal": "11026",
+        "nom_exact": "GARE ROUTIERE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-HADJ-MOUSSA",
+        "code_postal": "11027",
+        "nom_exact": "UNIVERSITE TAMANRASSET"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-TERRE",
+        "code_postal": "11028",
+        "nom_exact": "6 EME REGION MILITAIRE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-SALAH-TIDIKELT-RP",
+        "code_postal": "11029",
+        "nom_exact": "IN-SALAH-TIDIKELT"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TINTARABENE",
+        "code_postal": "11030",
+        "nom_exact": "TINTARABENE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TEBERBERT",
+        "code_postal": "11031",
+        "nom_exact": "TEBERBERT"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAHIFET",
+        "code_postal": "11032",
+        "nom_exact": "TAHIFET"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "INDALAG",
+        "code_postal": "11033",
+        "nom_exact": "INDALAG"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "11034",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "TAMANRASSET-BASE-AERIENNE",
+        "code_postal": "",
+        "nom_exact": "TAMANRASSET-BASE-AERIENNE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "OUTOUL-GROUPEMENT-MILITAIRE",
+        "code_postal": "",
+        "nom_exact": "OUTOUL-GROUPEMENT-MILITAIRE"
+    },
+    {
+        "wilaya": "TAMANRASSET",
+        "nom": "IN-KOUF-GROUPEMENT-REGIONAL-GENDARMERIE",
+        "code_postal": "",
+        "nom_exact": "IN-KOUF-GROUPEMENT-REGIONAL-GENDARMERIE"
+    }
+]

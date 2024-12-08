@@ -1,0 +1,380 @@
+[
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-RP",
+        "code_postal": "8000",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR 1ER NOVEMBRE",
+        "code_postal": "8001",
+        "nom_exact": "PLACE REPUBLIQUE"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BENI-ABBES",
+        "code_postal": "8002",
+        "nom_exact": "BENI ABBES"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ABADLA",
+        "code_postal": "8003",
+        "nom_exact": "ABADLA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-DEBDABA",
+        "code_postal": "8004",
+        "nom_exact": "DEBDABA BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-DJEDID",
+        "code_postal": "8005",
+        "nom_exact": "BECHAR DJEDID"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-EL-BADR",
+        "code_postal": "8006",
+        "nom_exact": "HAI EL BADR  BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-EL-INARA",
+        "code_postal": "8007",
+        "nom_exact": "HAI EL INARA BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-M'RAH",
+        "code_postal": "8008",
+        "nom_exact": "HAI M'RAHR BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-LA BARGA",
+        "code_postal": "8009",
+        "nom_exact": "CTE LABARGA BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BENI-OUNIF",
+        "code_postal": "8010",
+        "nom_exact": "BENI OUNIF"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "KENADSA",
+        "code_postal": "8011",
+        "nom_exact": "KENADSA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ABADLA 1ER NOV,",
+        "code_postal": "8012",
+        "nom_exact": "ABADLA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-EL-DJORF",
+        "code_postal": "8013",
+        "nom_exact": "HAI EL DJORF BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-EL-FETH",
+        "code_postal": "8014",
+        "nom_exact": "HAI EL FETH BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-ESSALAM",
+        "code_postal": "8015",
+        "nom_exact": "HAI ESSALAM BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-HAMDANE",
+        "code_postal": "8016",
+        "nom_exact": "H. HAMDANE BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAY-RIADHI",
+        "code_postal": "8017",
+        "nom_exact": "HAI RIADHI BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-TERRE",
+        "code_postal": "8018",
+        "nom_exact": "3°RM  BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BENI-OUNIF-SIDI-BOUSMAHA",
+        "code_postal": "8019",
+        "nom_exact": "BENI OUNIF"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "EL-OUATA",
+        "code_postal": "8020",
+        "nom_exact": "EL OUATA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "IGLI",
+        "code_postal": "8021",
+        "nom_exact": "IGLI"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "KERZAZ",
+        "code_postal": "8022",
+        "nom_exact": "KERZAZ"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ARG-FERRADJ",
+        "code_postal": "8023",
+        "nom_exact": "ERG FERRADJ"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HAI-ENNOUR",
+        "code_postal": "8024",
+        "nom_exact": "BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BENI-IKHLEF",
+        "code_postal": "8025",
+        "nom_exact": "BENI  IKHLEF"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "LAHMAR",
+        "code_postal": "8026",
+        "nom_exact": "LAHMAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "MACHRAA-H-BOUMEDIENE",
+        "code_postal": "8027",
+        "nom_exact": "MACHRAA H. B."
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "OULED-KHODEIR",
+        "code_postal": "8028",
+        "nom_exact": "OULED KHODEIR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "TABELBALA",
+        "code_postal": "8029",
+        "nom_exact": "TABELBALA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "TAGHIT",
+        "code_postal": "8030",
+        "nom_exact": "TAGHIT"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "TIMOUDI",
+        "code_postal": "8031",
+        "nom_exact": "TIMOUDI"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "AGUEDAL",
+        "code_postal": "8032",
+        "nom_exact": "AGDAL"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BARREBI",
+        "code_postal": "8033",
+        "nom_exact": "BARREBI"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BOUKAIS",
+        "code_postal": "8034",
+        "nom_exact": "BOUKAIS"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "DJORF-EL-BARDA",
+        "code_postal": "8035",
+        "nom_exact": "DJORF EL BARDA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "GUERZIM",
+        "code_postal": "8036",
+        "nom_exact": "GUERZIM"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "GUIR-LOTFI",
+        "code_postal": "8037",
+        "nom_exact": "GUIR LOTFI"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "HASSI-MENOUNAT",
+        "code_postal": "8038",
+        "nom_exact": "HASSI MENOUNET"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "KSABI",
+        "code_postal": "8039",
+        "nom_exact": "KSABI"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "MAZZER",
+        "code_postal": "8040",
+        "nom_exact": "MAZZER"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "MERIDJA",
+        "code_postal": "8041",
+        "nom_exact": "MERIDJA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "MOUGHEUL",
+        "code_postal": "8042",
+        "nom_exact": "MOUGHEUL"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "OUAKDA",
+        "code_postal": "8043",
+        "nom_exact": "OUAKDA BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "OUGARTA",
+        "code_postal": "8044",
+        "nom_exact": "OUGARTA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ROSF-TAIBA",
+        "code_postal": "8045",
+        "nom_exact": "ROSF TAIBA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "TAMTERT",
+        "code_postal": "8046",
+        "nom_exact": "TAMTERT"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ZAOUIA-LEKBIRA",
+        "code_postal": "8047",
+        "nom_exact": "ZAOUIA LEKBIRA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ZEGHAMRA",
+        "code_postal": "8048",
+        "nom_exact": "ZEGHAMRA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "KENADSA-SIDI M'HAMED BEN BOUZIANE",
+        "code_postal": "8049",
+        "nom_exact": "KENADSA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "OULED-RAFAA",
+        "code_postal": "8050",
+        "nom_exact": "OULED RAFAA"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHIR",
+        "code_postal": "8051",
+        "nom_exact": "BECHIR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ANNEFID",
+        "code_postal": "8052",
+        "nom_exact": "ANNEFID"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ZONE-BLEU 01-BELKHEIRI-MOHAMED",
+        "code_postal": "8053",
+        "nom_exact": "ZONE BLEU BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-CENTRE-UNIVERSITAIRE",
+        "code_postal": "8054",
+        "nom_exact": "BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-HASSI-EL-HOUARI",
+        "code_postal": "8055",
+        "nom_exact": "ZONE MILITAIRE BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-ZONE-BLUE",
+        "code_postal": "8056",
+        "nom_exact": "ZONE BLEU BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-CITE-UNIVERSITAIRE-1500 LITS",
+        "code_postal": "8057",
+        "nom_exact": "BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "ZONE-BLEU 02-BENTALEB-ALI",
+        "code_postal": "8058",
+        "nom_exact": "ZONE BLEU BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-GARE-ROUTIERE",
+        "code_postal": "8059",
+        "nom_exact": "BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "KERZAZ-ABOU-EL-KASSEM-SAED-ELLAH",
+        "code_postal": "8060",
+        "nom_exact": "KERZAZ EL KSSAR,BECHAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-ROUTE-LAHMAR",
+        "code_postal": "8061",
+        "nom_exact": "BECHAR-ROUTE-LAHMAR"
+    },
+    {
+        "wilaya": "BECHAR",
+        "nom": "BECHAR-AADL",
+        "code_postal": "8062",
+        "nom_exact": "BECHAR-AADL"
+    }
+]

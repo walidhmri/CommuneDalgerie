@@ -1,0 +1,410 @@
+[
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUMERDES-RP",
+        "code_postal": "35000",
+        "nom_exact": "CITE 408 LOGEMENTS BOUMERDES"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BORDJ-MENAIEL",
+        "code_postal": "35001",
+        "nom_exact": "RUE BENNOUR ALI BORDJ MENAIEL"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BORDJ-MENAIEL-AMIROUCHE",
+        "code_postal": "35002",
+        "nom_exact": "BD COLONEL AMIROUCHE BORDJ MENAIEL"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUDOUAOU",
+        "code_postal": "35003",
+        "nom_exact": "RUE 1 ER NOVEMBRE BOUDOUAOU"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "DELLYS",
+        "code_postal": "35004",
+        "nom_exact": "RUE MAABOUT DELLYS"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "THENIA",
+        "code_postal": "35005",
+        "nom_exact": "RUE REBATCHI THENIA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BENI-AMRANE",
+        "code_postal": "35006",
+        "nom_exact": "RUE CHAALAL SAID BENI AMRANE"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUMERDES-FRANTZ-FANON",
+        "code_postal": "35007",
+        "nom_exact": "CITE 350 LOGEMENTS BOUMERDES"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "CHABET-EL-AMEUR",
+        "code_postal": "35008",
+        "nom_exact": "RUE DOUDAH ALI CHABET EL AMEUR"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ISSER",
+        "code_postal": "35009",
+        "nom_exact": "BD COLONEL AMIROUCHE ISSER"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "KHEMIS-EL-KHECHNA",
+        "code_postal": "35010",
+        "nom_exact": "RUE BOUZIANE HOCINE K. E. K."
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "OULED-MOUSSA",
+        "code_postal": "35011",
+        "nom_exact": "RUE ABDELAZIZ EL KEBIR OULED MOUSSA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ZEMMOURI",
+        "code_postal": "35012",
+        "nom_exact": "RUE BELHOUCHET HAMOUD ZEMMOURI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BAGHLIA",
+        "code_postal": "35013",
+        "nom_exact": "25 RUE KACIMI MOHAMED BAGHLIA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "CORSO",
+        "code_postal": "35014",
+        "nom_exact": "RUE TADJOUIMAT LOUNES CORSO"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "HAMMADI",
+        "code_postal": "35015",
+        "nom_exact": "RUE KORBABE AEK HAMMEDI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ISSER-VILLE",
+        "code_postal": "35016",
+        "nom_exact": "RUE MELLAH ALI ISSER-VILLE"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "LARBATACHE",
+        "code_postal": "35017",
+        "nom_exact": "RUE BOUCHKIR MED LARBATACHE"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "NACIRIA",
+        "code_postal": "35018",
+        "nom_exact": "RUE BENNOUR ALI NACIRIA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "SIDI-DAOUD",
+        "code_postal": "35019",
+        "nom_exact": "RUE GUELMI M'HAMED SIDI DAOUD"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "SOUK-EL-HAD",
+        "code_postal": "35020",
+        "nom_exact": "RUE TIMEZRIT SOUK EL HAD"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "TIDJELABINE",
+        "code_postal": "35021",
+        "nom_exact": "RUE COLONEL AMIROUCHE TIDJELABINE"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "AFIR",
+        "code_postal": "35022",
+        "nom_exact": "RUE GOURMI MED SAID AFIR"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUDOUAOU-BENTERQUIA",
+        "code_postal": "35023",
+        "nom_exact": "CITE 850 LOGEMENTS NOUVELLE VILLE BOUDOUAOU PLATEAU"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "DJINET",
+        "code_postal": "35024",
+        "nom_exact": "RUE PRINCIPALE DJINET"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "KOUDIAT-EL-ARAIS",
+        "code_postal": "35025",
+        "nom_exact": "CENTRE KOUDIET LAREIS"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "LEGHATA",
+        "code_postal": "35026",
+        "nom_exact": "RUE MOHAMED AMMARI LEGHATA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ROUAFA",
+        "code_postal": "35027",
+        "nom_exact": "CENTRE ROUAFA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "SI-MUSTAPHA",
+        "code_postal": "35028",
+        "nom_exact": "RUE M'HAMED BEN AMROUCHE SI MUSTAPHA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "TAOURGA",
+        "code_postal": "35029",
+        "nom_exact": "RUE MAHIEDINE MED SEGHIR TAOUERGA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ABADA",
+        "code_postal": "35030",
+        "nom_exact": "VILLAGE ABADA - ABADA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "AMMAL",
+        "code_postal": "35031",
+        "nom_exact": "RUE CHAALAL ALI AMMAL"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "AZROU",
+        "code_postal": "35032",
+        "nom_exact": "VILLAGE AZROU - AZROU"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BENCHOUD",
+        "code_postal": "35033",
+        "nom_exact": "VILLAGE AGRICOLE BEN CHOUD"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BENMERZOUGA",
+        "code_postal": "35034",
+        "nom_exact": "VILLAGE BEN MERZOUGA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUAIDEL",
+        "code_postal": "35035",
+        "nom_exact": "VILLAGE BOUAIDEL"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUDHAR",
+        "code_postal": "35036",
+        "nom_exact": "VILLAGE BOUDHAR"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUDOUAOU-EL-BAHRI",
+        "code_postal": "35037",
+        "nom_exact": "RUE TAABEST BOUDOUAOU EL BAHRI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUZEGZA-KEDDARA",
+        "code_postal": "35038",
+        "nom_exact": "VILLAGE KEDDARA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "CHEBACHEB",
+        "code_postal": "35039",
+        "nom_exact": "RUE PRINCIPALE CHEBACHEB"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "CHLEF-BOUMRAOU",
+        "code_postal": "35040",
+        "nom_exact": "VILLAGE AGRICOLE CHLEF BOUMERAOU"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "FOURAR-AIN-SEBAOU",
+        "code_postal": "35041",
+        "nom_exact": "VILLAGE AGRICOLE FOURAR AIN SEBAOU"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "HADDADA",
+        "code_postal": "35042",
+        "nom_exact": "VILLAGE HADADA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "HADJ-AHMED",
+        "code_postal": "35043",
+        "nom_exact": "VILLAGE AGRICOLE HADJ AHMED"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "HAOUCH-BEN-OUALI",
+        "code_postal": "35044",
+        "nom_exact": "VILLAGE HAOUCH-BEN-OUALI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "HAOUCH-EL-MOKHFI",
+        "code_postal": "35045",
+        "nom_exact": "HAI HAOUCH EL MOKHFI - OULED HEDADJ"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "KARMA",
+        "code_postal": "35046",
+        "nom_exact": "VILLAGE EL KARMA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "KEHF-EL-GHARBI",
+        "code_postal": "35047",
+        "nom_exact": "VILLAGE KEF EL GHARBI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "KHAROUBA",
+        "code_postal": "35048",
+        "nom_exact": "CITE KALACHE BRAHIM EL KHAROUBA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "KHEMIS-EL-KHECHNA 17 JUIN",
+        "code_postal": "35049",
+        "nom_exact": "VILLAGE AGRICOLE K. E. K. 17 JUIN"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "OULED-AISSA",
+        "code_postal": "35050",
+        "nom_exact": "CENTRE OULED AISSA - OULED AISSA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "OULED-ALI",
+        "code_postal": "35051",
+        "nom_exact": "VILLAGE AGRICOLE OULED-ALI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "OULED-HADADJ",
+        "code_postal": "35052",
+        "nom_exact": "CITE GARIDI RABAH OULED HEDADJ"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "OULED-H'MIDA",
+        "code_postal": "35053",
+        "nom_exact": "VILLAGE OULED H'MIDA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "OURIACHA",
+        "code_postal": "35054",
+        "nom_exact": "VILLAGE OULED H'MIDA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "SEBAOU-EL-KEDIM",
+        "code_postal": "35055",
+        "nom_exact": "VILLAGE SEBAOU EL KEDIM"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "SIDI-EL-MEDJNI",
+        "code_postal": "35056",
+        "nom_exact": "16 CITE BELKACEM GHERNAOUT SIDI EL MEDJNI DELLYS"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "TAKDEMPT",
+        "code_postal": "35057",
+        "nom_exact": "ROUTE NATIONALE 24 TAKDEMPT"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "TCHOUCHFI-BOUBERAK",
+        "code_postal": "35058",
+        "nom_exact": "VILLAGE TCHOUCHFI  BOUBERRRAK"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "TIZI-NALI-SLIMANE",
+        "code_postal": "35059",
+        "nom_exact": "VILLAGE TIZI N'ALI SLIMANE"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ZAATRA",
+        "code_postal": "35060",
+        "nom_exact": "VILLAGE ZAATRA"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ZEMMOURI-EL-BAHRI",
+        "code_postal": "35061",
+        "nom_exact": "VILLAGE ZEMMOURI EL BAHRI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUMERDES LE ROCHER",
+        "code_postal": "35062",
+        "nom_exact": "CITE 1200 LOGEMENTS COMPLEXE DES PTT BOUMERDES"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUMERDES-FACULTE-DES-SCIENCES",
+        "code_postal": "35063",
+        "nom_exact": "FACULTE DES SCIENCES. ROUTE DE LA GARE FERROVIAIRE - BOUMERDES"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUDOUAOU-FACULTE-DE-DROIT",
+        "code_postal": "35064",
+        "nom_exact": "FACULTE DE DROIT, BOUDOUAOU, BOUMERDES"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "BOUDOUAOU-PLATEAU",
+        "code_postal": "35065",
+        "nom_exact": "PLATEAU \"EST\" BOUDOUAOU EL BAHRI"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ISSER-EPJGN",
+        "code_postal": "35066",
+        "nom_exact": "ESGN RUE ABANE REMDANE ISSER"
+    },
+    {
+        "wilaya": "BOUMERDES",
+        "nom": "ZEMMOURI-AADL",
+        "code_postal": "35067",
+        "nom_exact": "CITEE AADL 919 LOGEMENTS, BLOC 12B N° 38 Ã, B, C, ZEMMOURI"
+    }
+]

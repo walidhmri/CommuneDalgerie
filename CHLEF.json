@@ -1,0 +1,614 @@
+[
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-RP",
+        "code_postal": "2000",
+        "nom_exact": "RUE DU 20 AOUT"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUED-FODDA-MOUSSALAHA",
+        "code_postal": "2001",
+        "nom_exact": "OUED FODDA CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BOUKADIR",
+        "code_postal": "2002",
+        "nom_exact": "ROUTE NATIONALE NÂ°04 BOUKADIR"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUED-FODDA",
+        "code_postal": "2003",
+        "nom_exact": "ROUTE NATIONALE NÂ°04 OUED FODDA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "AIN-MERANE",
+        "code_postal": "2004",
+        "nom_exact": "AIN MERANE CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-BENSOUNA",
+        "code_postal": "2005",
+        "nom_exact": "HAY BENSOUNA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "TENES",
+        "code_postal": "2006",
+        "nom_exact": "RUE KOSIER TENES CENTRE TENES"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-CHETTIA",
+        "code_postal": "2007",
+        "nom_exact": "ANNEXE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "EL-KARIMIA",
+        "code_postal": "2008",
+        "nom_exact": "EL KARIMIA CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SIDI-AKACHA",
+        "code_postal": "2009",
+        "nom_exact": "ROUTE NATIONALE NÂ°19 SIDI AKKACHA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-FARES",
+        "code_postal": "2010",
+        "nom_exact": "OULED FARES CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUED-SLY",
+        "code_postal": "2011",
+        "nom_exact": "OUED SLY CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "TAOUGRITE",
+        "code_postal": "2012",
+        "nom_exact": "TAOUGRITE CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-CITE-ADMINISTRATIVE",
+        "code_postal": "2013",
+        "nom_exact": "RUE DE LA RESISTANCE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "ZEBOUDJA",
+        "code_postal": "2014",
+        "nom_exact": "ZEBOUDJA CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "EL-MARSA",
+        "code_postal": "2015",
+        "nom_exact": "EL-MARSA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "AHMED-KHALFAOUI",
+        "code_postal": "2016",
+        "nom_exact": "ZONE 2"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BENI-HAOUA",
+        "code_postal": "2017",
+        "nom_exact": "BENI HAOUA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "ABOU-EL-HASSAN",
+        "code_postal": "2018",
+        "nom_exact": "ABOU EL-HASSEN"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "HEUMIS-AIN-BEIDA",
+        "code_postal": "2019",
+        "nom_exact": "LA GARE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHETTIA-VSA",
+        "code_postal": "2020",
+        "nom_exact": "CHETTIA VSA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BOUZGHAIA",
+        "code_postal": "2021",
+        "nom_exact": "RN19"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-HAI-BADR",
+        "code_postal": "2022",
+        "nom_exact": "ZONE 3"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-HAY-NASR",
+        "code_postal": "2023",
+        "nom_exact": "ZONE 5"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUM-DROU",
+        "code_postal": "2024",
+        "nom_exact": "OUM DROU"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SENDJAS",
+        "code_postal": "2025",
+        "nom_exact": "SENDJAS"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BOUKADIR-EL-HOURIA",
+        "code_postal": "2026",
+        "nom_exact": "HAY EL HOURIA BOUKADIR"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "TENES-MOHAMED-BOUDIAF",
+        "code_postal": "2027",
+        "nom_exact": "TÃ‰NÃˆS CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "EL-ATHMANIA",
+        "code_postal": "2028",
+        "nom_exact": "EL-ATMANIA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-ABBES",
+        "code_postal": "2029",
+        "nom_exact": "OULED ABBES"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-ZIAD",
+        "code_postal": "2030",
+        "nom_exact": "OULED ZIAD"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "HARCHOUN",
+        "code_postal": "2031",
+        "nom_exact": "HARCHOUN"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SIDI-MOUSSA",
+        "code_postal": "2032",
+        "nom_exact": "SIDI MOUSSA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SOBHA",
+        "code_postal": "2033",
+        "nom_exact": "SOBHA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BIR-SAF-SAF",
+        "code_postal": "2034",
+        "nom_exact": "BIR SAF SAF"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BENI-RACHED",
+        "code_postal": "2035",
+        "nom_exact": "BENI RACHED"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "DAHRA",
+        "code_postal": "2036",
+        "nom_exact": "DAHRA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-BEN-ABDELKADER",
+        "code_postal": "2037",
+        "nom_exact": "OULED BEN AEK"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "HERENFA",
+        "code_postal": "2038",
+        "nom_exact": "HERENFA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BENARIA",
+        "code_postal": "2039",
+        "nom_exact": "BENAIRIA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "AIN-SERDOUNE",
+        "code_postal": "2040",
+        "nom_exact": "AIN SERDOUNE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-SAHLI",
+        "code_postal": "2041",
+        "nom_exact": "HAY SAHLI"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-LALLA-AOUDA",
+        "code_postal": "2042",
+        "nom_exact": "HAY LALLA AOUDA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "TADJENA",
+        "code_postal": "2043",
+        "nom_exact": "TADJNA CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "EL-KALAA-BOUHALLOU",
+        "code_postal": "2044",
+        "nom_exact": "EL-KALAA BOUHALLOU"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-HAY-ABBAD",
+        "code_postal": "2045",
+        "nom_exact": "HAY ABBAD"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "GUELTA",
+        "code_postal": "2046",
+        "nom_exact": "GUELTA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "KECHACHDA",
+        "code_postal": "2047",
+        "nom_exact": "KECHACHDA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "ATTATFA",
+        "code_postal": "2048",
+        "nom_exact": "KHERBA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "LABIODH-MEDJADJA",
+        "code_postal": "2049",
+        "nom_exact": "KHERRARA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "EL-HADJADJ",
+        "code_postal": "2050",
+        "nom_exact": "EL-HADJADJ"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "HAOUCH-EL-GHABA",
+        "code_postal": "2051",
+        "nom_exact": "HAOUCH EL-GHABA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "ZELGOU",
+        "code_postal": "2052",
+        "nom_exact": "ZELGOU"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHOUCHAOUA",
+        "code_postal": "2053",
+        "nom_exact": "PETIT BARRAGE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "ZEMOURA",
+        "code_postal": "2054",
+        "nom_exact": "ZEMOURA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SI-BELKACEM",
+        "code_postal": "2055",
+        "nom_exact": "CAPER"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUED-SLY-HAY-HOURIA",
+        "code_postal": "2056",
+        "nom_exact": "HAY SONELGAZ"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-CHEGGA",
+        "code_postal": "2057",
+        "nom_exact": "HAY CHEGGA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BOULEFRED",
+        "code_postal": "2058",
+        "nom_exact": "HAY BOULEFRED"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-FETTI",
+        "code_postal": "2059",
+        "nom_exact": "OULED FETTI"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "MOUSSADEK",
+        "code_postal": "2060",
+        "nom_exact": "MOUSSADEK"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUED-GOUSSINE",
+        "code_postal": "2061",
+        "nom_exact": "OUED GOUSSINE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "VIEUX-TENES",
+        "code_postal": "2062",
+        "nom_exact": "VIEUX TENES"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "DAR-EL-MEDDAH",
+        "code_postal": "2063",
+        "nom_exact": "DAR EL MEDDAH"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHAARIR",
+        "code_postal": "2064",
+        "nom_exact": "CHAARIR"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "TALASSA",
+        "code_postal": "2065",
+        "nom_exact": "TALASSA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SIDI-ABDERRAHMANE",
+        "code_postal": "2066",
+        "nom_exact": "SIDI ABDERAHMANE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "REGGOUN",
+        "code_postal": "2067",
+        "nom_exact": "REGGOUN"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "MAIN-SINFITA",
+        "code_postal": "2068",
+        "nom_exact": "MAIN SINFITA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BENI-OUAZANE",
+        "code_postal": "2069",
+        "nom_exact": "BENI OUAZENE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BREIRA",
+        "code_postal": "2070",
+        "nom_exact": "BREIRA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BENI-BOUATTEB",
+        "code_postal": "2071",
+        "nom_exact": "BENI BOUATEB"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHAABNIA",
+        "code_postal": "2072",
+        "nom_exact": "CHAABNIA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "MEDDINA",
+        "code_postal": "2073",
+        "nom_exact": "MEDDINA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-BERRADJAH",
+        "code_postal": "2074",
+        "nom_exact": "OULED BERRADJAH"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "GUELAFTIA",
+        "code_postal": "2075",
+        "nom_exact": "GUELAFTIA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BENI-OUDRENE",
+        "code_postal": "2076",
+        "nom_exact": "BENI OUDRENE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-BOUALI",
+        "code_postal": "2077",
+        "nom_exact": "OULED BOUALI"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "MEZAOUT",
+        "code_postal": "2078",
+        "nom_exact": "MEZAOUET"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BOUHENYENE",
+        "code_postal": "2079",
+        "nom_exact": "BOUHENYENNE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "ZEBABDJA",
+        "code_postal": "2080",
+        "nom_exact": "ZEBABDJA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "KAHLOUL",
+        "code_postal": "2081",
+        "nom_exact": "KAHLOUL"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "RAZIM-MAAMAR",
+        "code_postal": "2082",
+        "nom_exact": "CINQ PALMIER"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BORDJ-BAAL",
+        "code_postal": "2083",
+        "nom_exact": "BORDJ BAAL"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "DAID-MOHAMED",
+        "code_postal": "2084",
+        "nom_exact": "SIDI AISSA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHACHOU-ALI",
+        "code_postal": "2085",
+        "nom_exact": "SIDI MEDOUL"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "BOUKADIR-A.SLIMANI",
+        "code_postal": "2086",
+        "nom_exact": "DOUAIDIA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHETTIA-B.DJAYAHIA",
+        "code_postal": "2087",
+        "nom_exact": "ZONE 9"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-B-FRAHI",
+        "code_postal": "2088",
+        "nom_exact": "712 LOGTS"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "SIDI-ZIANE",
+        "code_postal": "2089",
+        "nom_exact": "SIDI ZIANE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-FRERES-KHELIF",
+        "code_postal": "2090",
+        "nom_exact": "HAY BADR AADL"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-HAY-ES-SALAM",
+        "code_postal": "2091",
+        "nom_exact": "HAY ES SALAM"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OULED-FARES-CITE-UNI",
+        "code_postal": "2092",
+        "nom_exact": "CITE UNIVERSITAIRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "EL-FELLAGUIA-GUENDEZ-DJILLALI",
+        "code_postal": "2093",
+        "nom_exact": "HAI EL FELLAGUIA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-MOHAMED-KOUADRI",
+        "code_postal": "2094",
+        "nom_exact": "CITE DES EMPLOYES,CHLEF CENTRE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "AIN-MERANE-TAHAR-MOHAMED",
+        "code_postal": "2095",
+        "nom_exact": "CENTRE VILLE D'AIN MERANE,CHLEF"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "HERENFA-CHEIKH-EL-HABIB",
+        "code_postal": "2096",
+        "nom_exact": "LOCALITE D'AIN SERAGUE,HERENFA"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "OUED-SLY-BOUKFOUSSA-GHOUL-CHAREF",
+        "code_postal": "2097",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-GARE-ROUTIERE",
+        "code_postal": "2098",
+        "nom_exact": "CHLEF-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-ALI-HADJI-AHMED",
+        "code_postal": "2099",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-BASE-AERIENNE",
+        "code_postal": "",
+        "nom_exact": "BASE AERIENNE"
+    },
+    {
+        "wilaya": "CHLEF",
+        "nom": "CHLEF-ETABLISSEMENT-POSTAL-ITINERANT 1",
+        "code_postal": "2100",
+        "nom_exact": ""
+    }
+]

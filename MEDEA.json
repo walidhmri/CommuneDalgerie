@@ -1,0 +1,554 @@
+[
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-RP",
+        "code_postal": "26000",
+        "nom_exact": "PLACE 1 NOV MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BENI-SLIMANE",
+        "code_postal": "26001",
+        "nom_exact": "PLACE DES MARTYRS BENI SLIMANE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BERROUAGHIA",
+        "code_postal": "26002",
+        "nom_exact": "AVENUE DE LA REPUBLIQUE BERROUAGHIA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "KSAR-EL-BOUKHARI",
+        "code_postal": "26003",
+        "nom_exact": "BOULVARD MOHAMED KHEMISTI K-E-B"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "TABLAT",
+        "code_postal": "26004",
+        "nom_exact": "RUE MOHAMED KHEMISTI TABLAT"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "AIN-BOUCIF",
+        "code_postal": "26005",
+        "nom_exact": "RUE CHERFI HALIMA AIN BOUCIF"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BERROUAGHIA-BATEM",
+        "code_postal": "26006",
+        "nom_exact": "CITE DJEDDI ABDELKADER BERROUAGHIA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "CHELLALET-EL-ADHAOURA",
+        "code_postal": "26007",
+        "nom_exact": "RUE 1 NOV CHELLALAT EL ADHAOURA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "EL-OMARIA",
+        "code_postal": "26008",
+        "nom_exact": "RUE SI TAYEB EL DJOUGHLALI EL OMARIA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-OULD-IMMAM",
+        "code_postal": "26009",
+        "nom_exact": "RUE DE LAGHOUAT MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "AIN-BOUCIF-5 JUILLET",
+        "code_postal": "26010",
+        "nom_exact": "AIN BOUCIF 5 JUILLET"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "AIN-D'HAB",
+        "code_postal": "26011",
+        "nom_exact": "AIN D'HAB MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BEN-CHICAO",
+        "code_postal": "26012",
+        "nom_exact": "BEN CHICAO CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOGHAR",
+        "code_postal": "26013",
+        "nom_exact": "BOGHAR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOUCHRAHIL",
+        "code_postal": "26014",
+        "nom_exact": "BOUCHRAHIL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "DERRAG",
+        "code_postal": "26015",
+        "nom_exact": "DERRAG CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "DJOUAB",
+        "code_postal": "26016",
+        "nom_exact": "LOUANES ABDELKADER DJOUAB"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "DRAA-ESSEMAR",
+        "code_postal": "26017",
+        "nom_exact": "DRAA ESMAR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "EL-AZIZIA",
+        "code_postal": "26018",
+        "nom_exact": "EL AZIZIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OUZERA",
+        "code_postal": "26019",
+        "nom_exact": "RUE PRINCIPALE OUZERA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SOUAGUI",
+        "code_postal": "26020",
+        "nom_exact": "RUE CHAHID BOUKHORS SOUAGUI"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "ZOUBIRIA",
+        "code_postal": "26021",
+        "nom_exact": "ZOUBIRIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "AISSAOUIA",
+        "code_postal": "26022",
+        "nom_exact": "AISSAOUIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOUGHZOUL",
+        "code_postal": "26023",
+        "nom_exact": "BOUGHZOUL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOURROUAGHIA 1ER NOVEMBRE",
+        "code_postal": "26024",
+        "nom_exact": "CITE 1 NOV BERROUAGHIA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOUSKENE",
+        "code_postal": "26025",
+        "nom_exact": "BOUSKENE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "CHAHBOUNIA",
+        "code_postal": "26026",
+        "nom_exact": "CHAHBOUNIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "HANNACHA",
+        "code_postal": "26027",
+        "nom_exact": "HANNACHA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "KSAR-EL-BOUKHARI-BELKHEIRET-MOHAMED",
+        "code_postal": "26028",
+        "nom_exact": "QUARTIER BELKHEIRET MANSOUR K-E-B"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "KSAR-EL-BOUKHARI-CHAOUI-NADIR",
+        "code_postal": "26029",
+        "nom_exact": "QUARTIER ROMANAT K-E-B"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MAARIK-EL-MALAH",
+        "code_postal": "26030",
+        "nom_exact": "EL GUELB KEBIR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-MERDJECHKIR",
+        "code_postal": "26031",
+        "nom_exact": "CITE MERDJECHKIR MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MIHOUB",
+        "code_postal": "26032",
+        "nom_exact": "MIHOUB CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MOUDJEBEUR",
+        "code_postal": "26033",
+        "nom_exact": "MOUDJBEUR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OUAMRI",
+        "code_postal": "26034",
+        "nom_exact": "OUAMRI CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OULED-ANTAR",
+        "code_postal": "26035",
+        "nom_exact": "OULED ANTAR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OULED-BRAHIM",
+        "code_postal": "26036",
+        "nom_exact": "OULED BRAHIM CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OULED-HELLAL",
+        "code_postal": "26037",
+        "nom_exact": "OULED HELLAL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OULED-MAAREUF",
+        "code_postal": "26038",
+        "nom_exact": "OULED MAAREUF CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "REBAIA",
+        "code_postal": "26039",
+        "nom_exact": "REBAIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SEBT-AZIZ",
+        "code_postal": "26040",
+        "nom_exact": "SEBT AZIZ CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SEGHOUANE",
+        "code_postal": "26041",
+        "nom_exact": "SEGHOUANE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SERIAT",
+        "code_postal": "26042",
+        "nom_exact": "MEZGHANA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SIDI-NAAMANE",
+        "code_postal": "26043",
+        "nom_exact": "SIDI NAAMANE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "ALLALI-MESSAOUD",
+        "code_postal": "26044",
+        "nom_exact": "OULED DEID CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SI-MAHDJOUB",
+        "code_postal": "26045",
+        "nom_exact": "SI MAHDJOUB CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "TLETAT-ED-DOUAIR",
+        "code_postal": "26046",
+        "nom_exact": "TLETAT EDDOUAIR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "VIEUX-KSAR",
+        "code_postal": "26047",
+        "nom_exact": "VIEUX KSAR"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "AIN-OUKSIR",
+        "code_postal": "26048",
+        "nom_exact": "AIN OUKSIR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "AIN-TLETAT",
+        "code_postal": "26049",
+        "nom_exact": "EL M'FATHA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BAATA",
+        "code_postal": "26050",
+        "nom_exact": "BAATA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BENIA",
+        "code_postal": "26051",
+        "nom_exact": "BENIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BERROUAGHIA-OUED-GHOLAT",
+        "code_postal": "26052",
+        "nom_exact": "QUARTIER OUED EL GHOLAT BERROUAGHIA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BIR-BEN-ABED",
+        "code_postal": "26053",
+        "nom_exact": "BIR BEN ABED CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOUAICHE",
+        "code_postal": "26054",
+        "nom_exact": "BOUAICHE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BOUAICHOUNE",
+        "code_postal": "26055",
+        "nom_exact": "BOUAICHOUNE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BRAHIMI-MOHAMED",
+        "code_postal": "26056",
+        "nom_exact": "RUE ASSISTANCE BEN CHICAO"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "CHENIGUEL",
+        "code_postal": "26057",
+        "nom_exact": "CHENIGUEL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "DEUX-BASSINS",
+        "code_postal": "26058",
+        "nom_exact": "DEUX BASSINS CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "EL-AOUINET",
+        "code_postal": "26059",
+        "nom_exact": "EL AOUINET CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "EL-HAMDANIA",
+        "code_postal": "26060",
+        "nom_exact": "EL HAMDANIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "HARBIL",
+        "code_postal": "26061",
+        "nom_exact": "OUED HARBIL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "KHAMS-DJOUAMAA",
+        "code_postal": "26062",
+        "nom_exact": "KHAMS DJOUAMAA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MAGHRAOUA",
+        "code_postal": "26063",
+        "nom_exact": "MAGHRAOUA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OULED-BOUACHRA",
+        "code_postal": "26064",
+        "nom_exact": "OULED BOUACHERA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OUM-EL-DJELLIL",
+        "code_postal": "26065",
+        "nom_exact": "OUM EL DJELLIL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "REZARZA",
+        "code_postal": "26066",
+        "nom_exact": "QUARTIER REZARZA MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SANEG",
+        "code_postal": "26067",
+        "nom_exact": "SANEG CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SEDRAIA",
+        "code_postal": "26068",
+        "nom_exact": "SEDRAIA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SIDI-DAMED",
+        "code_postal": "26069",
+        "nom_exact": "SIDI DAMED CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SIDI-ERRABIE",
+        "code_postal": "26070",
+        "nom_exact": "SIDI ERRABIE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SIDI-MAHIEDDINE",
+        "code_postal": "26071",
+        "nom_exact": "SIDI MAHIEDDINE VILLAGE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SIDI-ZAHAR",
+        "code_postal": "26072",
+        "nom_exact": "SIDI ZAHAR CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "SIDI-ZIANE",
+        "code_postal": "26073",
+        "nom_exact": "SIDI ZIANE CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "TAFRAOUT",
+        "code_postal": "26074",
+        "nom_exact": "TAFRAOUT CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "TAMESGUIDA",
+        "code_postal": "26075",
+        "nom_exact": "TAMESGUIDA CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "TIZI-MAHDI",
+        "code_postal": "26076",
+        "nom_exact": "TIZI MAHDI CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "KSAR-EL-BOUKHARI-MEKKAOUI-OTHMANE",
+        "code_postal": "26077",
+        "nom_exact": "CITE ZOBRA KSAR EL BOUKHARI"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-TAKBOU",
+        "code_postal": "26078",
+        "nom_exact": "QUARTIER TAKBOU MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "KERMET-CHIHA",
+        "code_postal": "26079",
+        "nom_exact": "OULED HELLAL CENTRE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "EL-GOUEA",
+        "code_postal": "26080",
+        "nom_exact": "EL GOUEA VILLAGE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "OULED-EL-HADJ",
+        "code_postal": "26081",
+        "nom_exact": "OULED EL HADJ VILLAGE"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-UNIVERSITE",
+        "code_postal": "26082",
+        "nom_exact": "UNIVERSITE DOCTEUR YAHIA FARES MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-YAHIA-FARES",
+        "code_postal": "26083",
+        "nom_exact": "POLE UNIVERSITAIRE YAHIA FARES MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-GARE-ROUTIERE",
+        "code_postal": "26084",
+        "nom_exact": "GARE ROUTIERE MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-WAHIBA-KEBAILI",
+        "code_postal": "26085",
+        "nom_exact": "QUARTIER M'SALLAH MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-HASSAN-BEN-MOULOUD",
+        "code_postal": "26086",
+        "nom_exact": "QUARTIER KOUALA MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-RESIDENCE-UNIVERSITAIRE-1 500 LITS",
+        "code_postal": "26087",
+        "nom_exact": "POLE UNIVERSITAIRE YAHIA FARES MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-RESIDENCE-UNIVERSITAIRE-2 000 LITS",
+        "code_postal": "26088",
+        "nom_exact": "POLE UNIVERSITAIRE YAHIA FARES MEDEA"
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BENI-SLIMANE-HACHEMAOUI-MESSAOUD",
+        "code_postal": "26089",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "MEDEA-ROUIS-BACHIR",
+        "code_postal": "26090",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "MEDEA",
+        "nom": "BERROUAGHIA-TERRE",
+        "code_postal": "",
+        "nom_exact": "ECOLE D'APPLICATION DE DEFENSE AERIENNE DU TERRITOIRE- BERROUAGHIA"
+    }
+]

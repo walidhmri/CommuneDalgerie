@@ -1,0 +1,326 @@
+[
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-RP",
+        "code_postal": "3000",
+        "nom_exact": "LAGHOUAT RP"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AFLOU",
+        "code_postal": "3001",
+        "nom_exact": "AFLOU"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-MAAMOURAH",
+        "code_postal": "3002",
+        "nom_exact": "MAAMOURAH"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "KSAR-EL-HIRANE",
+        "code_postal": "3003",
+        "nom_exact": "KSAR ELHIRANE"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "HASSI-R'MEL",
+        "code_postal": "3004",
+        "nom_exact": "HASSI R'MEL"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "BRIDA",
+        "code_postal": "3005",
+        "nom_exact": "BRIDA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-EL-MAKAM",
+        "code_postal": "3006",
+        "nom_exact": "EL M'KAM"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "TADJEMOUT",
+        "code_postal": "3007",
+        "nom_exact": "TADJEMOUT"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "BELLIL",
+        "code_postal": "3008",
+        "nom_exact": "BELLIL"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "HASSI-R'MEL-1ER NOV.",
+        "code_postal": "3009",
+        "nom_exact": "HASSI R'MEL 1er NOV"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "EL-KHENEG",
+        "code_postal": "3010",
+        "nom_exact": "EL KHENEG"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "TADJEROUNA",
+        "code_postal": "3011",
+        "nom_exact": "TADJEROUNA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AIN-MADHI",
+        "code_postal": "3012",
+        "nom_exact": "AIN MADHI"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "BEIDHA",
+        "code_postal": "3013",
+        "nom_exact": "BEIDHA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "EL-ASSAFIA",
+        "code_postal": "3014",
+        "nom_exact": "EL ASSAFIA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-ESSADIKIA",
+        "code_postal": "3015",
+        "nom_exact": "ESSADIKIA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-CITE-NORD",
+        "code_postal": "3016",
+        "nom_exact": "CITE NORD"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-1ER NOV.",
+        "code_postal": "3017",
+        "nom_exact": "LAGHOUAT 1er NOV"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-EMIR-AEK (GARE ROUTIERE)",
+        "code_postal": "3018",
+        "nom_exact": "LAGHOUAT EMIR AEK"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "SIDI-MAKHLOUF",
+        "code_postal": "3019",
+        "nom_exact": "SIDI MAKHLOUF"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AFLOU-HAY-EL-GAADA",
+        "code_postal": "3020",
+        "nom_exact": "AFLOU HAY ELGAADA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AFLOU-HAI-MED-BOUDIAF",
+        "code_postal": "3021",
+        "nom_exact": "AFLOU MED BOUDIAF"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "HASSI-DALAA",
+        "code_postal": "3022",
+        "nom_exact": "HASSI DELAA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "EL-GHICHA",
+        "code_postal": "3023",
+        "nom_exact": "EL GHICHA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "SIDI-BOUZID",
+        "code_postal": "3024",
+        "nom_exact": "SIDI BOUZID"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "GUELTAT-SIDI-SAAD",
+        "code_postal": "3025",
+        "nom_exact": "GUELTAT SIDI SAAD"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "TAOUIALA",
+        "code_postal": "3026",
+        "nom_exact": "TAOUIALA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "OUED-MOURRA",
+        "code_postal": "3027",
+        "nom_exact": "OUED MOURRA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AIN-SIDI-ALI",
+        "code_postal": "3028",
+        "nom_exact": "AIN SIDI ALI"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AIN-SKHOUNA",
+        "code_postal": "3030",
+        "nom_exact": "AIN SKHOUNA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "CHEKKALA",
+        "code_postal": "3031",
+        "nom_exact": "CHEKKALA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "BORDJ-SENOUCI",
+        "code_postal": "3032",
+        "nom_exact": "BORDJ SENOUCI"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "BENACER-BENCHOHRA",
+        "code_postal": "3033",
+        "nom_exact": "BENACER BENCHOHRA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "SEBGAG",
+        "code_postal": "3034",
+        "nom_exact": "SEBGAG"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "TERGHALEL",
+        "code_postal": "3035",
+        "nom_exact": "TERKELLEL"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-DJAMIA",
+        "code_postal": "3036",
+        "nom_exact": "LAGHOUAT DJAMIAA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "ANFOUS",
+        "code_postal": "3037",
+        "nom_exact": "ANFOUS"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "HADJ-MECHERI",
+        "code_postal": "3038",
+        "nom_exact": "HADJ MECHERI"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "EL-HOUITA",
+        "code_postal": "3040",
+        "nom_exact": "EL HOUITA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "OUED-M'ZI",
+        "code_postal": "3041",
+        "nom_exact": "OUED M'ZI"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LALMAYA",
+        "code_postal": "3042",
+        "nom_exact": "LALMAYA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "OUED-TOUIL",
+        "code_postal": "3043",
+        "nom_exact": "OUED TOUIL"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "HASSIANE-DHIB",
+        "code_postal": "3044",
+        "nom_exact": "HASSIANE DHIB"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "BOUZBAEIR",
+        "code_postal": "3046",
+        "nom_exact": "BOUZBAEIR"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AFLOU-ZAOUI-SAID",
+        "code_postal": "3047",
+        "nom_exact": "AFLOU ZAOUI SAID"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-D-C-A",
+        "code_postal": "3048",
+        "nom_exact": "LAGHOUAT DCA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-POLE 1",
+        "code_postal": "3049",
+        "nom_exact": "LAGHOUAT POLE 1"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AFLOU-UNIVERSITE",
+        "code_postal": "3050",
+        "nom_exact": "AFLOU UNIVERSITE"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-AIR",
+        "code_postal": "3051",
+        "nom_exact": "LAGHOUAT AIR"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-EL-WIAM",
+        "code_postal": "3052",
+        "nom_exact": "LAGHOUAT-EL-WIAM"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "AFLOU-01-MAI",
+        "code_postal": "3053",
+        "nom_exact": "AFLOU-01-MAI"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-POLE-UNIVERSITAIRE-2",
+        "code_postal": "3054",
+        "nom_exact": "LAGHOUAT-POLE-UNIVERSITAIRE-2"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "LAGHOUAT-DHALAA",
+        "code_postal": "",
+        "nom_exact": "LAGHOUAT DHALAA"
+    },
+    {
+        "wilaya": "LAGHOUAT",
+        "nom": "EL-HADJEUB",
+        "code_postal": "",
+        "nom_exact": "ROUTE NATIONALE N° 23 RELIANT LA WILAYA DE LAGHOUAT A TIARET,VILLAGE EL HADJEUB"
+    }
+]

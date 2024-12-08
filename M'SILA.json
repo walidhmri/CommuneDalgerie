@@ -1,0 +1,572 @@
+[
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-RP",
+        "code_postal": "28000",
+        "nom_exact": "CITE ADMINISTRATIVE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOU-SAADA",
+        "code_postal": "28001",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SIDI-AISSA",
+        "code_postal": "28002",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-EL-HADJEL",
+        "code_postal": "28003",
+        "nom_exact": "ROUTE D'ALGER"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-EL-MELH",
+        "code_postal": "28004",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "HAMMAM-DALAA",
+        "code_postal": "28005",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MAGRA",
+        "code_postal": "28006",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-HODNA",
+        "code_postal": "28007",
+        "nom_exact": "AVENUE  COLONEL AMIROUCHE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-EL-KHADRA",
+        "code_postal": "28008",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BEN-SROUR",
+        "code_postal": "28009",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BERHOUM",
+        "code_postal": "28010",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BICHARA",
+        "code_postal": "28011",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOU-SAADA-HOUARI-BOUMEDIENE",
+        "code_postal": "28012",
+        "nom_exact": "ROUTE DE BISKRA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOU-SAADA-NACEREDDINE-DINET",
+        "code_postal": "28013",
+        "nom_exact": "CITE CHAABANI"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "CHELLAL",
+        "code_postal": "28014",
+        "nom_exact": "CHELLAL"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "EL-HAMEL",
+        "code_postal": "28015",
+        "nom_exact": "EL HAMEL"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MEDJEDEL",
+        "code_postal": "28016",
+        "nom_exact": "MEDJEDEL"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MELOUZA",
+        "code_postal": "28017",
+        "nom_exact": "MELOUZA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-CHEBILIA",
+        "code_postal": "28018",
+        "nom_exact": "CITE 504 LOTS"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-CITE-ENNASR",
+        "code_postal": "28019",
+        "nom_exact": "CITE 132 LOGEMENTS"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-MOHAMED-BOUDIAF",
+        "code_postal": "28020",
+        "nom_exact": "CITE 924 LOTS"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "OULED-ADDI-GUEBALA",
+        "code_postal": "28021",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "OULED-DERRADJ",
+        "code_postal": "28022",
+        "nom_exact": "CENTRE VILLE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-FARES",
+        "code_postal": "28023",
+        "nom_exact": "AIN FARES"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-OGHRAB",
+        "code_postal": "28024",
+        "nom_exact": "AIN OGHRAB"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-RICH",
+        "code_postal": "28025",
+        "nom_exact": "AIN-RICH"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BELAIBA",
+        "code_postal": "28026",
+        "nom_exact": "BELAIBA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BENI-ILMANE",
+        "code_postal": "28027",
+        "nom_exact": "BENI ILMANE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BENZOUH",
+        "code_postal": "28028",
+        "nom_exact": "BENZOUH"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BIR-GUELLALIA",
+        "code_postal": "28029",
+        "nom_exact": "BIR GUELLALIA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DJEBEL-GUETTARA",
+        "code_postal": "28030",
+        "nom_exact": "BIR HANI"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DJOUB",
+        "code_postal": "28031",
+        "nom_exact": "DJOUB"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "EDDIS",
+        "code_postal": "28032",
+        "nom_exact": "EDDIS"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MOHAMED-BOUDIAF",
+        "code_postal": "28033",
+        "nom_exact": "MED-BOUDIAF"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SIDI-AISSA-1ER NOV. 1954",
+        "code_postal": "28034",
+        "nom_exact": "PLACE  5 JUILLET"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SIDI-AMEUR",
+        "code_postal": "28035",
+        "nom_exact": "SIDI-AMEUR"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SIDI-HADJERES",
+        "code_postal": "28036",
+        "nom_exact": "SIDII-HADJERES"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SLIM",
+        "code_postal": "28037",
+        "nom_exact": "SLIM"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "TARMOUNT",
+        "code_postal": "28038",
+        "nom_exact": "TARMOUNT"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AHL-EL-OUED",
+        "code_postal": "28039",
+        "nom_exact": "AHL EL OUED"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-KHERMANE",
+        "code_postal": "28040",
+        "nom_exact": "AIN KHERMANE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BANIOU",
+        "code_postal": "28041",
+        "nom_exact": "BANIOU"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BERARDA",
+        "code_postal": "28042",
+        "nom_exact": "BERARDA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BIR-FODDA",
+        "code_postal": "28043",
+        "nom_exact": "BIR FODDA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BIR-MADHI",
+        "code_postal": "28044",
+        "nom_exact": "BIR MADHI"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BORDJ-BELKHRIF",
+        "code_postal": "28045",
+        "nom_exact": "BORDJ BELKHRIF"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOUKHEMISSA",
+        "code_postal": "28046",
+        "nom_exact": "BOUKHEMISSA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "CED-EL-GHABA",
+        "code_postal": "28047",
+        "nom_exact": "CED EL GHABA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DEHAHNA",
+        "code_postal": "28048",
+        "nom_exact": "DEHAHNA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DJAOUNA",
+        "code_postal": "28049",
+        "nom_exact": "DJAOUNA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DJEBEL-MEHARGA",
+        "code_postal": "28050",
+        "nom_exact": "DJEBEL MEHARGA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DJEBEL-THAMEUR",
+        "code_postal": "28051",
+        "nom_exact": "DJEBEL THAMEUR"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DJEBEL-ZEYREG",
+        "code_postal": "28052",
+        "nom_exact": "DJEBEL ZYREG"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "DREAT",
+        "code_postal": "28053",
+        "nom_exact": "DREAT"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "EL-ALLIG",
+        "code_postal": "28054",
+        "nom_exact": "EL ALLIG"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "EL-GHIL",
+        "code_postal": "28055",
+        "nom_exact": "EL GHIL"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "KHETTOUTI-SED-EL-DJIR",
+        "code_postal": "28056",
+        "nom_exact": "KHETTOUTI SED DJIR"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MED.SEDDIK-BENYAHIA",
+        "code_postal": "28057",
+        "nom_exact": "MED-SEDDIK BENYAHIA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "METARFA",
+        "code_postal": "28058",
+        "nom_exact": "METARFA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'GUITAA",
+        "code_postal": "28059",
+        "nom_exact": "M'GUITAA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "OULED-MANSOUR",
+        "code_postal": "28060",
+        "nom_exact": "OULED MANSOUR"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "OULTEM",
+        "code_postal": "28061",
+        "nom_exact": "OULTEM"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "REGUAIEG",
+        "code_postal": "28062",
+        "nom_exact": "REGUAIEG"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "ROUMANA",
+        "code_postal": "28063",
+        "nom_exact": "ROUMANA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SOUAMAA",
+        "code_postal": "28064",
+        "nom_exact": "SOUAMAA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "TEMSA",
+        "code_postal": "28065",
+        "nom_exact": "TEMSA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "THAMEUR-SIDI-M'HAMED",
+        "code_postal": "28066",
+        "nom_exact": "THAMEUR SIDI M'HAMED"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "ZERZOUR",
+        "code_postal": "28067",
+        "nom_exact": "ZERZOUR"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "ZITOUN",
+        "code_postal": "28068",
+        "nom_exact": "ZITOUN"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOU-SAADA-SIDI-SLIMANE",
+        "code_postal": "28069",
+        "nom_exact": "CITE SIDI-SLIMANE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MENAA",
+        "code_postal": "28070",
+        "nom_exact": "MENAA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "EL-BASSATINE",
+        "code_postal": "28071",
+        "nom_exact": "CITE EL BASSATIN"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "EL-DJORF",
+        "code_postal": "28072",
+        "nom_exact": "EL DJORF"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOUMELAL",
+        "code_postal": "28073",
+        "nom_exact": "BOUMELAL"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "OUM-CHAOUCHI",
+        "code_postal": "28074",
+        "nom_exact": "OUM-CHAOUCHI"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "OULED-BIA",
+        "code_postal": "28075",
+        "nom_exact": "OULED-BIA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "LOUGMANE",
+        "code_postal": "28076",
+        "nom_exact": "LOUGMANE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-BEN-BADIS",
+        "code_postal": "28077",
+        "nom_exact": "CITE 256 LOGEMENT"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-POLE-UNIVERSITAIRE",
+        "code_postal": "28078",
+        "nom_exact": "POLE UNIVERSITAIRE MSILA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "HAMMAM-DALAA-GARE-ROUTIERE",
+        "code_postal": "28079",
+        "nom_exact": "HAMMAM DALAA RAGE ROUTIERE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SIDI-AISSA-GARE-ROUTIERE",
+        "code_postal": "28080",
+        "nom_exact": "SIDI-AISSA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "MAGRA-GARE-ROUTIERE",
+        "code_postal": "28081",
+        "nom_exact": "MAGRA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-CNEL-AMIROUCHE",
+        "code_postal": "28082",
+        "nom_exact": "M'SILA-CNEL-AMIROUCHE CITE 5 JUILLI"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-UNIVERSITE",
+        "code_postal": "28083",
+        "nom_exact": "UNIVERSITE DE MSILA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-GARE-ROUTIERE",
+        "code_postal": "28084",
+        "nom_exact": "M'SILA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "ECOLE-MILITAIRE (EAAC)",
+        "code_postal": "28085",
+        "nom_exact": "ECOLE-MILITAIRE (EAAC)"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOU-SAADA-EL-BATEN",
+        "code_postal": "28086",
+        "nom_exact": "CITE  EL BATEN"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOUSAADA-08 MAI 1945",
+        "code_postal": "28087",
+        "nom_exact": "CITE 300 LOGEMENTS EL BATEN,BOUSAADA,M'SILA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-EL-MELH-MESSAOUDI-M'HAMED-BACHIR",
+        "code_postal": "28088",
+        "nom_exact": "CITE 100 LOGEMENTS, AIN EL MELH"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-EL-EMIR-ABDELKADER",
+        "code_postal": "28089",
+        "nom_exact": "CITE 120 LOGEMENTS POLE UNIVERSITAIRE,M'SILA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "BOU-SAADA-GARE-ROUTIERE",
+        "code_postal": "28090",
+        "nom_exact": "GARE ROUTIERE DE BOUSAADA"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "AIN-SIDI-M'HAMED-BOUGUETAYA-BOUGUETAYA",
+        "code_postal": "28091",
+        "nom_exact": "VILLAGE DE AIN SIDI M'HAMED, LA ROUTE NATIONALE NÂ° 70 ALLANT SUR AIN EL MELH"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "SIDI-AISSA-ABDELLI-EL-TAHAR",
+        "code_postal": "28092",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "GHEZAL",
+        "code_postal": "28093",
+        "nom_exact": "GHEZAL"
+    },
+    {
+        "wilaya": "M'SILA",
+        "nom": "M'SILA-CITE-RADIEUSE",
+        "code_postal": "",
+        "nom_exact": "CITE RADIEUSE"
+    }
+]

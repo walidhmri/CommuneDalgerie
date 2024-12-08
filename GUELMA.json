@@ -1,0 +1,344 @@
+[
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-RP",
+        "code_postal": "24000",
+        "nom_exact": "CITE MOHAMED TAHAR SERIDI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "OUED-ZENATI",
+        "code_postal": "24001",
+        "nom_exact": "RUE 1ER NOV 1954"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BOUCHEGOUF",
+        "code_postal": "24002",
+        "nom_exact": "RUE 1ER NOV 1954"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-AGABI",
+        "code_postal": "24003",
+        "nom_exact": "CITE AGABI GUELMA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-EMIR-ABDELKADER",
+        "code_postal": "24004",
+        "nom_exact": "CITE EMIR A/KADER"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BOUMAHRA-AHMED",
+        "code_postal": "24005",
+        "nom_exact": "RUE 1ER  NOV  1954"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-LA MAOUNA",
+        "code_postal": "24006",
+        "nom_exact": "RUE CHORFI  GUELMA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "HAMMAM-DEBAGH",
+        "code_postal": "24007",
+        "nom_exact": "CITE ANCIEN GARE"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "HELIOPOLIS",
+        "code_postal": "24008",
+        "nom_exact": "RUE KHEMISTI MOHAMED"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "OUED-CHEHAM",
+        "code_postal": "24009",
+        "nom_exact": "RUE MESSAADIA LAYACHI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "TAMLOUKA",
+        "code_postal": "24010",
+        "nom_exact": "RUE HOGGAS MOHAMED"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-BEN-BEIDA",
+        "code_postal": "24011",
+        "nom_exact": "CITE VSA  A/B BEIDA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-LARBI",
+        "code_postal": "24012",
+        "nom_exact": "RUE KOHAILA LAKHMISSI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-MAKHLOUF",
+        "code_postal": "24013",
+        "nom_exact": "CITE KARA BADJA MOUSA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-REGADA",
+        "code_postal": "24014",
+        "nom_exact": "RUE MOHAMED AOUNI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BELKHEIR",
+        "code_postal": "24015",
+        "nom_exact": "CITE 90 LOGTS BELKHEIR"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BEN-SMIH",
+        "code_postal": "24016",
+        "nom_exact": "CITE KAF SIDI BRAHIM"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BORDJ-SABATH",
+        "code_postal": "24017",
+        "nom_exact": "RUE MOHAMED BOUDIAF"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BOUATI-MAHMOUD",
+        "code_postal": "24018",
+        "nom_exact": "RUE RABAH ZEROUALE"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "EL-FEDJOUDJ",
+        "code_postal": "24019",
+        "nom_exact": "CITE LOUNIS BOUGUERRA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELAAT-BOU-SBAA",
+        "code_postal": "24020",
+        "nom_exact": "RUE 1ER  NOV  1954"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-AIN-DEFLA",
+        "code_postal": "24021",
+        "nom_exact": "CITE BEN CHEGHAIB"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-AIN-DEFLA-SUP",
+        "code_postal": "24022",
+        "nom_exact": "CITE CHEGHAIB RABAH"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-CITE-DES-FRERES-RAHABI",
+        "code_postal": "24023",
+        "nom_exact": "CITE FRERES RAHABI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "HAMMAM-N'BAILS",
+        "code_postal": "24024",
+        "nom_exact": "RUE RZIGUI MOHAMED"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "HOUARI-BOUMEDIENE",
+        "code_postal": "24025",
+        "nom_exact": "RUE 05 JUIELLET 1962"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "MEDJEZ-SFA",
+        "code_postal": "24026",
+        "nom_exact": "ROUTE PRINCIPAL M/ SFA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "NECHMEYA",
+        "code_postal": "24027",
+        "nom_exact": "RUE MERRAH ABDALLAH"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "ROKNIA",
+        "code_postal": "24028",
+        "nom_exact": "RUE 20AOUT 55 ROKNIA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "SELLAOUA-ANNOUNA",
+        "code_postal": "24029",
+        "nom_exact": "RUE ABDEJKADER HAROUCHE"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-ARKO",
+        "code_postal": "24030",
+        "nom_exact": "VILLAGE AIN ARKO"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-MEBARKA",
+        "code_postal": "24031",
+        "nom_exact": "RUE HEMAIZIA SADAK"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-SOUDA",
+        "code_postal": "24032",
+        "nom_exact": "AIN SOUDA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-TRAB",
+        "code_postal": "24033",
+        "nom_exact": "AIN TRAB"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BENDJERRAH",
+        "code_postal": "24034",
+        "nom_exact": "CITE MENGUELLATNI MESSAOUD"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BENTABOUCHE",
+        "code_postal": "24035",
+        "nom_exact": "CITE BEN TABOUCHE"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BLED-GAFFAR",
+        "code_postal": "24036",
+        "nom_exact": "CITE CHOURFA AHMED"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BOUHACHANA",
+        "code_postal": "24037",
+        "nom_exact": "RUE HESSAINIA ALI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BOUKAMOUZA",
+        "code_postal": "24038",
+        "nom_exact": "VILLAGE BOUKAMOUZA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "DJEBALLAH-KHEMISSI",
+        "code_postal": "24039",
+        "nom_exact": "RUE HADADI BACHIR"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GASR-LATTACHE",
+        "code_postal": "24040",
+        "nom_exact": "CITE SLAH ELSOUFI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELAAT-FIALA",
+        "code_postal": "24041",
+        "nom_exact": "RUE REDHADAA SALAH"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "HAMMAM-OULED-ALI",
+        "code_postal": "24042",
+        "nom_exact": "CITE 10 LOGTS"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "MEDJEZ-AMMAR",
+        "code_postal": "24043",
+        "nom_exact": "CITE SALAH LATRACHE"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "MOUMENA",
+        "code_postal": "24044",
+        "nom_exact": "RUE GUETMI MABROUK"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "NADOR",
+        "code_postal": "24045",
+        "nom_exact": "CITE BOUCHLAGHEM MAHDI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "NOUADRIA",
+        "code_postal": "24046",
+        "nom_exact": "RUE BOURENAB KHEMISSI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "OUED-FRAGHA",
+        "code_postal": "24047",
+        "nom_exact": "RUE OUDAINIA MOKHTAR"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "OUED-MAIZ",
+        "code_postal": "24048",
+        "nom_exact": "CITE YAHIA MAGHMOULI"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "RAS-EL-AKBA-CHTIOUI-AHMED",
+        "code_postal": "24049",
+        "nom_exact": "RUE SALAH DARDAR"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "TAYA",
+        "code_postal": "24050",
+        "nom_exact": "RUE MOHAMED ZEROUK"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "BOUDAROUA",
+        "code_postal": "24051",
+        "nom_exact": "CITE BOUDAROUA O/FRAGHA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "AIN-KHAROUBA",
+        "code_postal": "24052",
+        "nom_exact": "VILLAGE AIN KHAROUBA"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "KSAR-EL-AZEB",
+        "code_postal": "24053",
+        "nom_exact": "VILLAGE KSAR EL AZEB"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "GUELMA-UNIVERSITE",
+        "code_postal": "24054",
+        "nom_exact": "UNIVERSITE 08 MAI 1945"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "EL-MAGROUN",
+        "code_postal": "24055",
+        "nom_exact": "EL-MAGROUN"
+    },
+    {
+        "wilaya": "GUELMA",
+        "nom": "OUED-EL-MELLAH",
+        "code_postal": "24056",
+        "nom_exact": "OUED-EL-MELLAH"
+    }
+]

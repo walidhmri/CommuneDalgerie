@@ -1,0 +1,146 @@
+[
+    {
+        "wilaya": "ILLIZI",
+        "nom": "ILLIZI-RP",
+        "code_postal": "33000",
+        "nom_exact": "ILLIZI - CENTRE VILLE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "IN-AMENAS",
+        "code_postal": "33001",
+        "nom_exact": "IN AMENAS- CENTRE VILLE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "DJANET",
+        "code_postal": "33002",
+        "nom_exact": "TIN KHATMA -DJANET CENTRE VIILLE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "BORDJ-OMAR-DRISS",
+        "code_postal": "33003",
+        "nom_exact": "BORDJ OMAR DRISS -CENTRE VILLE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "DEB-DEB",
+        "code_postal": "33004",
+        "nom_exact": "DEB DEB- CENTRE VILLE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "ILLIZI 8 MAI 1945",
+        "code_postal": "33005",
+        "nom_exact": "CITE 08 MAI 1945-ILLIZI"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "DJANET-AIN-ABARBAR",
+        "code_postal": "33006",
+        "nom_exact": "CITE AIN ABARBAR - DJANET"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "BORDJ-EL-HAOUES",
+        "code_postal": "33008",
+        "nom_exact": "BORDJ EL HOUESS-CENTRE VILLE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "IFERI",
+        "code_postal": "33009",
+        "nom_exact": "CitE IFRI-DJANET"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "OHANET",
+        "code_postal": "33010",
+        "nom_exact": "VILLAGE Ohanet"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "IHRIR",
+        "code_postal": "33012",
+        "nom_exact": "VILLAGE IHRIR"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "TABAKAT",
+        "code_postal": "33014",
+        "nom_exact": "VILLAGE TABAKAT"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "TIN-FOUYE-05 JUILLET 1962",
+        "code_postal": "33015",
+        "nom_exact": "VILLAGE TIN FOUYE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "TINALKOUM",
+        "code_postal": "33016",
+        "nom_exact": "VILLAGE TINALKOUM"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "IN-AMENAS-SONATRACH-DIVISION-PRODUCTION",
+        "code_postal": "33017",
+        "nom_exact": "Base de vie DP-SONATRACH"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "ILLIZI-SECTEUR-MILITAIRE",
+        "code_postal": "33018",
+        "nom_exact": "CENTRE VILLE ILLIZI"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "IN-AMENAS-SECTEUR-MILITAIRE",
+        "code_postal": "33019",
+        "nom_exact": "Zone industrielle -IN AMENAS"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "DJANET-SECTEUR-MILITAIRE",
+        "code_postal": "33020",
+        "nom_exact": "CENTRE VILLE DJANET"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "ILLIZI-IN-KOURS",
+        "code_postal": "33021",
+        "nom_exact": "IN EL KOURS ,ILLIZI"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "TARAT",
+        "code_postal": "33022",
+        "nom_exact": "TARAT"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "TIMEROUALINE",
+        "code_postal": "33023",
+        "nom_exact": "TIMEROUALINE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "MERKSENE",
+        "code_postal": "33024",
+        "nom_exact": "MERKSENE"
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "ILLIZI-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "33025",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ILLIZI",
+        "nom": "ILLIZI-COUR",
+        "code_postal": "",
+        "nom_exact": "COUR  ILLIZI-CENTRE VILLE ILLIZI"
+    }
+]

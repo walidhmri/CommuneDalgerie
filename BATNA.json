@@ -1,0 +1,878 @@
+[
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-RP",
+        "code_postal": "5000",
+        "nom_exact": "cité des 410 logts ex ECOTEC BATNA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BARIKA",
+        "code_postal": "5001",
+        "nom_exact": "CENTRE VILLE BARIKA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-TOUTA",
+        "code_postal": "5002",
+        "nom_exact": "ROUTE DE BISKRA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-BEN-BOULAID",
+        "code_postal": "5003",
+        "nom_exact": "ALEES BEN BOULAID"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "N'GAOUS",
+        "code_postal": "5004",
+        "nom_exact": "CITE ADMINISTRATIF"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-MEBARKI",
+        "code_postal": "5005",
+        "nom_exact": "CITE LAMBARKIA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-1ER NOVEMBRE",
+        "code_postal": "5006",
+        "nom_exact": "FRERES BOUABSA BATNA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ARRIS",
+        "code_postal": "5007",
+        "nom_exact": "PLACE BEN BOULAID"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-FRERES-KHEZZAR",
+        "code_postal": "5008",
+        "nom_exact": "CITE 742 LOGTS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "RAS-EL-AIOUN",
+        "code_postal": "5009",
+        "nom_exact": "CENTRE VILLE RAS-EL-AIOUN"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-HADJ-LAKHDAR",
+        "code_postal": "5010",
+        "nom_exact": "CITE 800 LOGTS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAZOULT-LAMBESE",
+        "code_postal": "5011",
+        "nom_exact": "CENTRE VILLE TAZOULT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MENAA",
+        "code_postal": "5012",
+        "nom_exact": "CENTRE VILLE MENAA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MEROUANA",
+        "code_postal": "5013",
+        "nom_exact": "ROUTE RAS EL AIOUN"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-AN-NASR",
+        "code_postal": "5014",
+        "nom_exact": "CITE AN-NASR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "REHAL-ABDELAZIZ (EL-MADHER)",
+        "code_postal": "5015",
+        "nom_exact": "CENTRE VILLE EL-MADHER"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OUED-EL-MA",
+        "code_postal": "5016",
+        "nom_exact": "CENTRE VILLE OUED-EL-MA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-EMIR-ABDELKADER",
+        "code_postal": "5017",
+        "nom_exact": "CITE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-IMADGHASSEN (aéroport)",
+        "code_postal": "5018",
+        "nom_exact": "AEROPORT BATNA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "N'GAOUS 5 JUILLET",
+        "code_postal": "5019",
+        "nom_exact": "N'GAOUS CENTRE VILLE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "T'KOUT",
+        "code_postal": "5020",
+        "nom_exact": "T'KOUT CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-EL-BOUSTENE",
+        "code_postal": "5021",
+        "nom_exact": "CITE EL BOUSTENE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BARIKA-LIBERTE",
+        "code_postal": "5022",
+        "nom_exact": "CITE LIBERTE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TIMGAD",
+        "code_postal": "5023",
+        "nom_exact": "ROUTE DES RUINESTIMGAD"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ARRIS-MEZOUDJI-AMOR",
+        "code_postal": "5024",
+        "nom_exact": "CITE MEZOUDJI-AMOR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SERIANA",
+        "code_postal": "5025",
+        "nom_exact": "CENTRE VILLE SERIANA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MEDINA",
+        "code_postal": "5026",
+        "nom_exact": "MEDINA CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SEGGANA",
+        "code_postal": "5027",
+        "nom_exact": "ROUTE DE BARIKA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BARIKA-BEN-BAATOUCHE",
+        "code_postal": "5028",
+        "nom_exact": "CITE 1000 LOGTS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "N'GAOUS-RAS-EL-AIN",
+        "code_postal": "5029",
+        "nom_exact": "CITE RAS EL AIN"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MEROUANA 8 MAI 1945",
+        "code_postal": "5030",
+        "nom_exact": "RUE 5 JUILLET"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-YAGOUT",
+        "code_postal": "5031",
+        "nom_exact": "AIN-YAGOUT CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-DJASSER",
+        "code_postal": "5032",
+        "nom_exact": "CENTRE VILLE A. DJASSER"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ALI-NEMEUR",
+        "code_postal": "5033",
+        "nom_exact": "CITE ALI-NEMEUR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MEROUANA-HOUARI-BOUMEDIENE",
+        "code_postal": "5034",
+        "nom_exact": "CITE HOUARI-BOUMEDIENE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TENIET-EL-ABED",
+        "code_postal": "5035",
+        "nom_exact": "TENIET-EL-ABED CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OUED-TAGA",
+        "code_postal": "5036",
+        "nom_exact": "OUED-TAGA CITE NOUVELLE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "M'DOUKAL",
+        "code_postal": "5037",
+        "nom_exact": "M'DOUKAL CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "NOUADER",
+        "code_postal": "5038",
+        "nom_exact": "NOUADER ROUTE MENAA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHEMMORA",
+        "code_postal": "5039",
+        "nom_exact": "CHEMMORA CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-KECHIDA",
+        "code_postal": "5040",
+        "nom_exact": "BATNA CITE KECHIDA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BOUZINA",
+        "code_postal": "5041",
+        "nom_exact": "BOUZINA CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ARRIS-GRINE-BELGACEM",
+        "code_postal": "5042",
+        "nom_exact": "CITE 1052 LOGTS ARRIS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TIFELFEL",
+        "code_postal": "5043",
+        "nom_exact": "TIFELFEL"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "M'CIL",
+        "code_postal": "5044",
+        "nom_exact": "M'CIL CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BITAM",
+        "code_postal": "5045",
+        "nom_exact": "ROUTE BISKRA-BITAM"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MERABTINE",
+        "code_postal": "5046",
+        "nom_exact": "MERABTINE EL DJEZZAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "EL-KSAR",
+        "code_postal": "5047",
+        "nom_exact": "EL-KSAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-TOUTA-1ER NOV.",
+        "code_postal": "5048",
+        "nom_exact": "RUE LOUCHENE TAHAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "FOUM-TOUB",
+        "code_postal": "5049",
+        "nom_exact": "FOUM-TOUB"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-TOUTA-HAMADA",
+        "code_postal": "5050",
+        "nom_exact": "CITE HAMADA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TALKHEMPT",
+        "code_postal": "5051",
+        "nom_exact": "TALKHEMPT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHELMA",
+        "code_postal": "5052",
+        "nom_exact": "ROUTE DE MENAA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "NARA",
+        "code_postal": "5053",
+        "nom_exact": "NARA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHAABET-OULED-CHELIH",
+        "code_postal": "5054",
+        "nom_exact": "CHAABET-OULED-CHELIH"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAXLENT",
+        "code_postal": "5055",
+        "nom_exact": "TAXLENT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAGOUST-EL-HAMRA",
+        "code_postal": "5056",
+        "nom_exact": "TAGOUST-EL-HAMRA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BOUMAGUER",
+        "code_postal": "5057",
+        "nom_exact": "BOUMAGUER"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "T'LETZ",
+        "code_postal": "5058",
+        "nom_exact": "T'LETZ"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OUARKA",
+        "code_postal": "5059",
+        "nom_exact": "OUARKA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BOUSSALAH",
+        "code_postal": "5060",
+        "nom_exact": "BOUSSALAH"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BAIOU",
+        "code_postal": "5061",
+        "nom_exact": "BAIOU"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BOULHILET",
+        "code_postal": "5062",
+        "nom_exact": "BOULHILET CENTRE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BOU-EL-FREISS",
+        "code_postal": "5063",
+        "nom_exact": "BOU-EL-FREISS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SEFIANE",
+        "code_postal": "5064",
+        "nom_exact": "SEFIANE ROUTE DE BARIKA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TOUFFANA",
+        "code_postal": "5065",
+        "nom_exact": "TOUFFANA OULED FADEL"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OULED-SIDI-SLIMANE",
+        "code_postal": "5066",
+        "nom_exact": "OULED-SIDI-SLIMANE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "GUIGBA",
+        "code_postal": "5067",
+        "nom_exact": "GUIGBA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "DJERIAT",
+        "code_postal": "5068",
+        "nom_exact": "DJERIAT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SIDI-MANCAR",
+        "code_postal": "5069",
+        "nom_exact": "SIDI-MANCAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "DRAA-EL-GBOR",
+        "code_postal": "5070",
+        "nom_exact": "VILLAGE AGRICOLE DRAA-EL-GBOR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ZANA-EL-BEIDA",
+        "code_postal": "5071",
+        "nom_exact": "ZANA-EL-BEIDA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "R'HAOUET",
+        "code_postal": "5072",
+        "nom_exact": "R'HAOUET"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "LAMBIRIDI",
+        "code_postal": "5073",
+        "nom_exact": "ROUTE DE AIN TOUTA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "HAMLA",
+        "code_postal": "5074",
+        "nom_exact": "VILLAGE HAMLA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "T'ZOUKET",
+        "code_postal": "5075",
+        "nom_exact": "T'ZOUKET"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-EL-ASSAFEUR",
+        "code_postal": "5076",
+        "nom_exact": "AIN-EL-ASSAFEUR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MOUSSA GUETTAFI (FRERES BEN CHADI)",
+        "code_postal": "5077",
+        "nom_exact": "CITE FRERES-BENCHADI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "HAMOU DAMBRI (FESDIS)",
+        "code_postal": "5078",
+        "nom_exact": "FESDIS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SIDI-ALI",
+        "code_postal": "5079",
+        "nom_exact": "SIDI-ALI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "RHOUFI",
+        "code_postal": "5080",
+        "nom_exact": "RHOUFI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHENAOURA",
+        "code_postal": "5081",
+        "nom_exact": "CHENAOURA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "KEF-LAAROUS",
+        "code_postal": "5082",
+        "nom_exact": "KEF-LAAROUS"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "INOUGHISSENE",
+        "code_postal": "5083",
+        "nom_exact": "INOUGHISSENE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "EL-HADJADJ",
+        "code_postal": "5084",
+        "nom_exact": "EL-HADJADJ"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "DERMOUNE",
+        "code_postal": "5085",
+        "nom_exact": "DERMOUNE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "NIRDI",
+        "code_postal": "5086",
+        "nom_exact": "NIRDI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OULED-DERRADJI",
+        "code_postal": "5087",
+        "nom_exact": "OULED-DERRADJI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "KOUDIAT-MESSARA",
+        "code_postal": "5088",
+        "nom_exact": "KOUDIAT-MESSARA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "KENDA",
+        "code_postal": "5089",
+        "nom_exact": "KENDA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHAABET-EL-GOSBAT",
+        "code_postal": "5090",
+        "nom_exact": "CHAABET-EL-GOSBAT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "RAHBAT",
+        "code_postal": "5091",
+        "nom_exact": "RAHBAT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ALI-GADER",
+        "code_postal": "5092",
+        "nom_exact": "ALI-GADER"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AMENTANE",
+        "code_postal": "5093",
+        "nom_exact": "AMENTANE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AOUGHANIME",
+        "code_postal": "5094",
+        "nom_exact": "AOUGHANIME"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BAALI",
+        "code_postal": "5095",
+        "nom_exact": "BAALI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TINIBAOUINE",
+        "code_postal": "5096",
+        "nom_exact": "TINIBAOUINE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MEZLINE",
+        "code_postal": "5097",
+        "nom_exact": "MEZLINE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TIFRENE",
+        "code_postal": "5098",
+        "nom_exact": "TIFRENE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OULED-AZZOUZ",
+        "code_postal": "5099",
+        "nom_exact": "OULED-AZZOUZ"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BRAYADH",
+        "code_postal": "5100",
+        "nom_exact": "BRAYADH"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "DRAA-BOULTIF",
+        "code_postal": "5101",
+        "nom_exact": "DRAA-BOULTIF"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "EL-KOUACHIA",
+        "code_postal": "5102",
+        "nom_exact": "EL-KOUACHIA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "LEGRINE",
+        "code_postal": "5103",
+        "nom_exact": "LEGRINE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "HIDHAR-BRAHIM",
+        "code_postal": "5104",
+        "nom_exact": "HIDHAR-BRAHIM"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SIDI-KHIAR",
+        "code_postal": "5105",
+        "nom_exact": "SIDI-KHIAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "FESDIS-FERME",
+        "code_postal": "5106",
+        "nom_exact": "FESDIS-FERME"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TIGHARGHAR",
+        "code_postal": "5107",
+        "nom_exact": "TIGHARGHAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHIR",
+        "code_postal": "5108",
+        "nom_exact": "CHIR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-ZONE-INDUSTRIELLE",
+        "code_postal": "5109",
+        "nom_exact": "BATNA-ZONE-INDUSTRIELLE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TENIET-ESSADRA",
+        "code_postal": "5110",
+        "nom_exact": "TENIET-ESSADRA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TIMEDOUINE",
+        "code_postal": "5111",
+        "nom_exact": "TIMEDOUINE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "ZANA",
+        "code_postal": "5112",
+        "nom_exact": "ZANA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SFASAF",
+        "code_postal": "5113",
+        "nom_exact": "SFASAF"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHARF-EL-AIN",
+        "code_postal": "5114",
+        "nom_exact": "CHARF-EL-AIN"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "NAFLA",
+        "code_postal": "5115",
+        "nom_exact": "NAFLA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "EL-HASSI",
+        "code_postal": "5116",
+        "nom_exact": "EL-HASSI"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "LAZROU",
+        "code_postal": "5117",
+        "nom_exact": "LAZROU"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHOTT",
+        "code_postal": "5118",
+        "nom_exact": "CHOTT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OULED-AICHE",
+        "code_postal": "5119",
+        "nom_exact": "OULED-AICHE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAGA",
+        "code_postal": "5120",
+        "nom_exact": "TAGA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "OULED-AMMAR",
+        "code_postal": "5121",
+        "nom_exact": "OULED-AMMAR"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "CHIHAT",
+        "code_postal": "5122",
+        "nom_exact": "CHIHAT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MAAFA",
+        "code_postal": "5123",
+        "nom_exact": "MAAFA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "RAS-EL-MA",
+        "code_postal": "5124",
+        "nom_exact": "RAS-EL-MA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAZEGHT",
+        "code_postal": "5125",
+        "nom_exact": "TAZEGHT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "MOULIA",
+        "code_postal": "5126",
+        "nom_exact": "MOULIA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "LEGRIDET",
+        "code_postal": "5127",
+        "nom_exact": "LEGRIDET"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "FENAROU",
+        "code_postal": "5128",
+        "nom_exact": "FENAROU"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TARF",
+        "code_postal": "5129",
+        "nom_exact": "TARF"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "M'TKAOUAK",
+        "code_postal": "5130",
+        "nom_exact": "M'TKAOUAK"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAMACHIT",
+        "code_postal": "5131",
+        "nom_exact": "CITE TAMACHIT BATNA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BOUTERAA-KERMIA",
+        "code_postal": "5132",
+        "nom_exact": "BOUTERAA-KERMIA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAMESGHIT",
+        "code_postal": "5133",
+        "nom_exact": "TAMESGHIT"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-GARE-ROUTIERE",
+        "code_postal": "5134",
+        "nom_exact": "GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA- E-A-A-B",
+        "code_postal": "5135",
+        "nom_exact": "ECOLE MILITAIRE E-A-A-B"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BERIKA-1ERE DIVISION-BLINDEE",
+        "code_postal": "5136",
+        "nom_exact": "BERIKA DIVISION BLINDEE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-UNIVERSITE",
+        "code_postal": "5137",
+        "nom_exact": "BATNA-UNIVERSITE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "SERIANA-ERIS",
+        "code_postal": "5138",
+        "nom_exact": "ERIS SERIANA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BARIKA-GARE-ROUTIERE",
+        "code_postal": "5139",
+        "nom_exact": "GARE ROUTIERE BARIKA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "AIN-TOUTA-CHAFFET",
+        "code_postal": "5140",
+        "nom_exact": "CITE CHAFFET, COMMUNE AIN TOUTA, BATNA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BENI-FEDHALA-EL-HAKANIA",
+        "code_postal": "5141",
+        "nom_exact": "COMMUNE BENI FEDALA EL HAKANIA, BATNA"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "TAZOULT-20-AOUT-1956",
+        "code_postal": "5142",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-EL-AURES",
+        "code_postal": "5143",
+        "nom_exact": "BATNA-EL-AURES"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-BOUZOURANE",
+        "code_postal": "5144",
+        "nom_exact": "BATNA-BOUZOURANE"
+    },
+    {
+        "wilaya": "BATNA",
+        "nom": "BATNA-BOUAKAL",
+        "code_postal": "",
+        "nom_exact": "CITE BOUAKAL 3"
+    }
+]

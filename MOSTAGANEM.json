@@ -1,0 +1,434 @@
+[
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-RP",
+        "code_postal": "27000",
+        "nom_exact": "SQUARE BOUDJEMAA MOHAMED"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "AIN-TEDELES",
+        "code_postal": "27001",
+        "nom_exact": "RUE DE L'HOPITAL"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SIDI-ALI",
+        "code_postal": "27002",
+        "nom_exact": "RUE DE LA PALESTINE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BOUGUIRAT",
+        "code_postal": "27003",
+        "nom_exact": "RUE GACEM ABDELLAH"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "HASSI-MAMECHE",
+        "code_postal": "27004",
+        "nom_exact": "RUE CDT ZAGHLOUL"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "KHADRA",
+        "code_postal": "27005",
+        "nom_exact": "ROUTE NATIONALE NÂ° 11"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOST. ADDA-BENGUETTAT",
+        "code_postal": "27006",
+        "nom_exact": "RUE BENSAADOUNE MENAOUER"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SIDI-LAKHDAR",
+        "code_postal": "27007",
+        "nom_exact": "RUE DES MARTYRES"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BEN-ABDELMALEK-RAMDANE",
+        "code_postal": "27008",
+        "nom_exact": "CTE SOUK EL FELLAH"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "ACHAACHA",
+        "code_postal": "27009",
+        "nom_exact": "RUE AMRANI LAID NÂ° 10"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "AIN-NOUISSY",
+        "code_postal": "27010",
+        "nom_exact": "26 RUE OUALI ZOUBIR"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "AIN-TEDELES-BENRAOUM-HAMMOU",
+        "code_postal": "27011",
+        "nom_exact": "CITE HOUARI BOUMEDIENNE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BENCHOHRA-GHALI",
+        "code_postal": "27012",
+        "nom_exact": "ROUTE D'ORAN CIA MOSTAGANEM"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BLED-TOUAHRIA",
+        "code_postal": "27013",
+        "nom_exact": "ROUTE DE SIRAT"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "FORNAKA",
+        "code_postal": "27014",
+        "nom_exact": "11 RUE YAGOUB DJELTI"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "HADJADJ",
+        "code_postal": "27015",
+        "nom_exact": "RUE MOHAMED BENCHAHBA"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "KHEIRDINE",
+        "code_postal": "27016",
+        "nom_exact": "RUE DES AURES"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MAZAGRAN",
+        "code_postal": "27017",
+        "nom_exact": "RUE DES ECOLES NÂ° 1"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MESRA",
+        "code_postal": "27018",
+        "nom_exact": "RUE DU MARCHE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM 5 JUILLET",
+        "code_postal": "27019",
+        "nom_exact": "BT 52 CITE 5 JUILLET MOSTA."
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OUED-EL-KHEIR",
+        "code_postal": "27020",
+        "nom_exact": "RUE BEGLOUL MOKHTAR NÂ°21/5"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SIRAT",
+        "code_postal": "27021",
+        "nom_exact": "ROUTE NATIONALE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SOUR",
+        "code_postal": "27022",
+        "nom_exact": "RUE CHEMOUMA AEK NÂ°2"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "STIDIA",
+        "code_postal": "27023",
+        "nom_exact": "RUE SI TARIK"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "AIN-SIDI-CHERIF",
+        "code_postal": "27024",
+        "nom_exact": "AIN SIDI CHERIF CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-DEBDABA",
+        "code_postal": "27025",
+        "nom_exact": "DEBDABA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "NEKMARIA",
+        "code_postal": "27026",
+        "nom_exact": "NEKHMARIA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-BOUGHALEM",
+        "code_postal": "27027",
+        "nom_exact": "OULED BOUGHALEM CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-MAALLAH",
+        "code_postal": "27028",
+        "nom_exact": "OULED MAALLAH CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SIDI-BELATTAR",
+        "code_postal": "27029",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "ACHASTA-AMOR",
+        "code_postal": "27030",
+        "nom_exact": "ACHASTA AMOR CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "AIN-BOUDINAR",
+        "code_postal": "27031",
+        "nom_exact": "AIN BOUDINAR CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "AIN-TOUNIN",
+        "code_postal": "27032",
+        "nom_exact": "AIN TOUNIN CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BENI-YAHI",
+        "code_postal": "27033",
+        "nom_exact": "BENYAHI CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "CHERAIFIA",
+        "code_postal": "27034",
+        "nom_exact": "CHERAIFIA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "EL-HASSIANE",
+        "code_postal": "27035",
+        "nom_exact": "ROUTE NATIONALE NÂ° 24"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "FERNA-MANSOURAH",
+        "code_postal": "27036",
+        "nom_exact": "FERNA MANSOURAH CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "LOUZA",
+        "code_postal": "27037",
+        "nom_exact": "LOUZA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-BAROUDI",
+        "code_postal": "27038",
+        "nom_exact": "OULED BARROUDI CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-BOUZIANE",
+        "code_postal": "27039",
+        "nom_exact": "OULED BOUZIANE CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-CHAFAA",
+        "code_postal": "27040",
+        "nom_exact": "OULED CHAFAA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-HAMDANE",
+        "code_postal": "27041",
+        "nom_exact": "OULED HAMDANE CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED-HAMOU",
+        "code_postal": "27042",
+        "nom_exact": "OULED HAMOU CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OUREAH",
+        "code_postal": "27043",
+        "nom_exact": "OUREAH CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SAF-SAF",
+        "code_postal": "27044",
+        "nom_exact": "SAF SAF CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SAYADA",
+        "code_postal": "27045",
+        "nom_exact": "SAYADA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SOUAFLIAS",
+        "code_postal": "27046",
+        "nom_exact": "SOUAFLIAS CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "TAKOURT-TAZGAIT",
+        "code_postal": "27047",
+        "nom_exact": "TAKOURT TAZGAIT CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "HASSI-MAMECHE-DOUAR-DJEDID",
+        "code_postal": "27048",
+        "nom_exact": "DOUAR DJEDID CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MAZAGRAN-HAI-DJEDID",
+        "code_postal": "27049",
+        "nom_exact": "HAI DJEDID MAZAGRAN"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "ENARO-LAZREG-ABDALLAH",
+        "code_postal": "27050",
+        "nom_exact": "ENARO CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "DJAFRIA-BENJEBOUR-CHAREF",
+        "code_postal": "27051",
+        "nom_exact": "DJAAFRIA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "KEDADRA",
+        "code_postal": "27052",
+        "nom_exact": "KEDADRA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BELHADRI 5 JUILLET 62",
+        "code_postal": "27053",
+        "nom_exact": "BELHADRI CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "GAROUCHA-CHEMOUMA-A",
+        "code_postal": "27054",
+        "nom_exact": "GUERROUCHA CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MENASRIA",
+        "code_postal": "27055",
+        "nom_exact": "MENASRIA"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "OULED EL BACHIR",
+        "code_postal": "27056",
+        "nom_exact": "OULED EL BACHIR"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-DOUAR-AIZEB",
+        "code_postal": "27057",
+        "nom_exact": "AIZEB CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-BERBER-SENIA",
+        "code_postal": "27058",
+        "nom_exact": "COLONEL LOTFI EX RAISIN VILLE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-COLONEL-LOTFI",
+        "code_postal": "27059",
+        "nom_exact": "CITE UNIVERSITAIRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-PORT",
+        "code_postal": "27060",
+        "nom_exact": "ROUTE DU PORT"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-GARE-ROUTIERE",
+        "code_postal": "27061",
+        "nom_exact": "LA GARE ROUTIERE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-MAARAF-ABDELLAH",
+        "code_postal": "27062",
+        "nom_exact": "CENTRE-VILLE MOSTAGANEM"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "SIDI-ALI-FEZARI-ALI",
+        "code_postal": "27063",
+        "nom_exact": "RUE 19 MARS 1962, SIDI ALI, MOSTAGANEM"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-TIGDITT",
+        "code_postal": "27064",
+        "nom_exact": "CITE 800 LOGEMENTS"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "ROUAOUNA",
+        "code_postal": "27065",
+        "nom_exact": "ROUAOUNA"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "BEN-ABDELMALEK-RAMDANE-DOUIDI-HAMMOU",
+        "code_postal": "27066",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-GARE",
+        "code_postal": "",
+        "nom_exact": "LES 400 LOGEMENTS"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-BORDJI-AMAR",
+        "code_postal": "",
+        "nom_exact": "CITE BELVEDERE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-SALAMANDRE",
+        "code_postal": "",
+        "nom_exact": "LA SALAMANDRE CENTRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-CITE-UNIVERSITAIRE-CHEMOUMA",
+        "code_postal": "",
+        "nom_exact": "CITE UNIVERSITAIRE"
+    },
+    {
+        "wilaya": "MOSTAGANEM",
+        "nom": "MOSTAGANEM-ECOLE-NAVALE",
+        "code_postal": "",
+        "nom_exact": "CASERNE MILITAIRE ROUTE DE MAZAGRAN"
+    }
+]

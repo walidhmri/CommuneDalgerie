@@ -1,0 +1,878 @@
+[
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-RP",
+        "code_postal": "19000",
+        "nom_exact": "RUE  01/11/1954  SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-EULMA",
+        "code_postal": "19001",
+        "nom_exact": "RUE DE LA REVOLITION"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-OULMENE",
+        "code_postal": "19002",
+        "nom_exact": "RUE KANOUNI ATHMANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUGAA",
+        "code_postal": "19003",
+        "nom_exact": "RUE ALLAOUA EL AMRI"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-EULMA-1ER NOV.1954",
+        "code_postal": "19004",
+        "nom_exact": "RUE   1/11/54  EL EULMA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-EULMA 8 MAI 1945",
+        "code_postal": "19005",
+        "nom_exact": "CITE 8 MAI 45 EL EULMA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-BEN-BADIS",
+        "code_postal": "19006",
+        "nom_exact": "RUE BEN BADIS SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-AZEL",
+        "code_postal": "19007",
+        "nom_exact": "RUE DAOUD SALAH"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-EL-KEBIRA",
+        "code_postal": "19008",
+        "nom_exact": "RUE 1ER NOV 54"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AMOUCHA",
+        "code_postal": "19009",
+        "nom_exact": "RUE DE L' A L N"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-AZIZ",
+        "code_postal": "19010",
+        "nom_exact": "BENI AZIZ"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-OURTILANE",
+        "code_postal": "19011",
+        "nom_exact": "BENI. OURTILANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUANDAS",
+        "code_postal": "19012",
+        "nom_exact": "BOUANDAS"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SALAH-BEY",
+        "code_postal": "19013",
+        "nom_exact": "RUE NATIONALE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF 1ER NOVEMBRE 1954",
+        "code_postal": "19014",
+        "nom_exact": "CITE BOUAROUA  SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "ADDAOUA",
+        "code_postal": "19015",
+        "nom_exact": "ADDAOUA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-ABESSA",
+        "code_postal": "19016",
+        "nom_exact": "AIN  ABESSA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-ARNAT",
+        "code_postal": "19017",
+        "nom_exact": "AIN ARNAT"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-EL-AHDJAR",
+        "code_postal": "19018",
+        "nom_exact": "AIN LAHDJAR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-ROUA",
+        "code_postal": "19019",
+        "nom_exact": "AIN ROUA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BABOR",
+        "code_postal": "19020",
+        "nom_exact": "BABOR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BEIDA-BORDJ",
+        "code_postal": "19021",
+        "nom_exact": "BEIDA BORDJ"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BELLAA",
+        "code_postal": "19022",
+        "nom_exact": "BELLAA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-FOUDA",
+        "code_postal": "19023",
+        "nom_exact": "BENI FOUDA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BIR-EL-ARCHE",
+        "code_postal": "19024",
+        "nom_exact": "BIR EL ARCH"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "DJEMILA",
+        "code_postal": "19025",
+        "nom_exact": "DJEMILA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "GUENZET",
+        "code_postal": "19026",
+        "nom_exact": "GUENZET"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "GUIDJEL",
+        "code_postal": "19027",
+        "nom_exact": "GUIDJEL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MAOKLANE",
+        "code_postal": "19028",
+        "nom_exact": "MAOKLANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED- ALI-BEN-ATHMANE",
+        "code_postal": "19029",
+        "nom_exact": "O.A.B.ATHMANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-TEBBEN",
+        "code_postal": "19030",
+        "nom_exact": "O.TEBBEN"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "TARFET",
+        "code_postal": "19031",
+        "nom_exact": "TARFET"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "TITTEST",
+        "code_postal": "19032",
+        "nom_exact": "TITEST"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-SEBT",
+        "code_postal": "19033",
+        "nom_exact": "AIN SEBT"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-TEBINET",
+        "code_postal": "19034",
+        "nom_exact": "AIN TEBINET SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "ARASSA",
+        "code_postal": "19035",
+        "nom_exact": "ARASSA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BAZER-SAKHRA",
+        "code_postal": "19036",
+        "nom_exact": "BAZER SAKHRA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-HOCINE",
+        "code_postal": "19037",
+        "nom_exact": "BENI HOCINE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-MOHLI",
+        "code_postal": "19038",
+        "nom_exact": "BENI MOHLI"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BIR-HADDADA",
+        "code_postal": "19039",
+        "nom_exact": "BIR HADDADA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BIR-LABIED",
+        "code_postal": "19040",
+        "nom_exact": "BIR LABIED"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "DEHAMCHA",
+        "code_postal": "19041",
+        "nom_exact": "DEHAMCHA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "DRAA-EL-MIAD",
+        "code_postal": "19042",
+        "nom_exact": "DRAA  EL MIAD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-HADRA",
+        "code_postal": "19043",
+        "nom_exact": "EL HADRA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-MAHDIA",
+        "code_postal": "19044",
+        "nom_exact": "EL MAHDIA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-MELLAH-HAMOUCHI",
+        "code_postal": "19045",
+        "nom_exact": "EL MELLAH"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-OULDJA",
+        "code_postal": "19046",
+        "nom_exact": "EL OULDJA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-OURICIA",
+        "code_postal": "19047",
+        "nom_exact": "EL OURICIA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "FERMATOU",
+        "code_postal": "19048",
+        "nom_exact": "FERMATOU    SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "GOUTALI",
+        "code_postal": "19049",
+        "nom_exact": "GOUTALI"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "GUELLAL",
+        "code_postal": "19050",
+        "nom_exact": "GUELLAL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "HAMMAM-GUERGOUR",
+        "code_postal": "19051",
+        "nom_exact": "H.GUERGOUR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "IZATITENE",
+        "code_postal": "19052",
+        "nom_exact": "IZATITTENE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "KHARBA",
+        "code_postal": "19053",
+        "nom_exact": "EL KHERBA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "KSAR-EL-ABTAL",
+        "code_postal": "19054",
+        "nom_exact": "KSAR EL ABTAL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MAAOUIA",
+        "code_postal": "19055",
+        "nom_exact": "MAOUIA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MESLOUG",
+        "code_postal": "19056",
+        "nom_exact": "MEZLOUG"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OUED-SEBT",
+        "code_postal": "19057",
+        "nom_exact": "OUED SEBT"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-ADOUANE",
+        "code_postal": "19058",
+        "nom_exact": "O.ADDOUAN"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OUM-LADJOUL",
+        "code_postal": "19059",
+        "nom_exact": "OUM-LADJOUL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "RASFA",
+        "code_postal": "19060",
+        "nom_exact": "RASFA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "RAS-ISLY",
+        "code_postal": "19061",
+        "nom_exact": "RAS ISLY"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-BELKHIRET",
+        "code_postal": "19062",
+        "nom_exact": "CITE BELKHIRED SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-CITE-MOSTAKBEL",
+        "code_postal": "19063",
+        "nom_exact": "CITE 1000 LOGTS SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-MANSOURI-KHIER",
+        "code_postal": "19064",
+        "nom_exact": "CITE MANSOURI EL KHIER"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-YAHIAOUI",
+        "code_postal": "19065",
+        "nom_exact": "CITE YAHIAOUI SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SOKHNA",
+        "code_postal": "19066",
+        "nom_exact": "SOKHNA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "TAYA",
+        "code_postal": "19067",
+        "nom_exact": "TAYA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "TIZI-N'BECHAR",
+        "code_postal": "19068",
+        "nom_exact": "TIZI N'BECHAR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "TIZI-N'BRAHAM",
+        "code_postal": "19069",
+        "nom_exact": "TIZI N'BRAHM"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-DOKKAR",
+        "code_postal": "19070",
+        "nom_exact": "AIN DOKKAR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-EL-HAMRA",
+        "code_postal": "19071",
+        "nom_exact": "AIN EL HAMRA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-MARGOUM",
+        "code_postal": "19072",
+        "nom_exact": "AIN MARGOUM"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-MESSAOUD",
+        "code_postal": "19073",
+        "nom_exact": "AIN MESSAOUD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-REMADA",
+        "code_postal": "19074",
+        "nom_exact": "AIN REMADA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-TRICK",
+        "code_postal": "19075",
+        "nom_exact": "AIN TRICK  SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIT-NOUAL-M'ZADA",
+        "code_postal": "19076",
+        "nom_exact": "A NAOUAL M'ZADA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIT-TIZI",
+        "code_postal": "19077",
+        "nom_exact": "AIT TIZI"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AKRIF-BOURDIM",
+        "code_postal": "19078",
+        "nom_exact": "AKRIF BOURDIM"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BATHA",
+        "code_postal": "19079",
+        "nom_exact": "BATHA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENDIAB",
+        "code_postal": "19080",
+        "nom_exact": "BENDIEB"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-AFIF",
+        "code_postal": "19081",
+        "nom_exact": "BENI AFIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-BRAHIM",
+        "code_postal": "19082",
+        "nom_exact": "BENI BRAHIM"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-DJEMATI",
+        "code_postal": "19083",
+        "nom_exact": "BENI DJEMATI"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-HAFED",
+        "code_postal": "19084",
+        "nom_exact": "BENI HAFED"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BENI-KHELLAD",
+        "code_postal": "19085",
+        "nom_exact": "BENI KHELLAD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BIDA",
+        "code_postal": "19086",
+        "nom_exact": "BIDA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BIR-DJEDID",
+        "code_postal": "19087",
+        "nom_exact": "BIR DJEDID (TELLA)"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUAMRANE",
+        "code_postal": "19088",
+        "nom_exact": "BOUAMRANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUDJELIKH",
+        "code_postal": "19089",
+        "nom_exact": "BOUDJELIKH"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUFFAROUDJ",
+        "code_postal": "19090",
+        "nom_exact": "BOUFAROUDJ"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUHIRA",
+        "code_postal": "19091",
+        "nom_exact": "BOUIRA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BOUTALEB",
+        "code_postal": "19092",
+        "nom_exact": "BOUTALEB"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "CHAABET-CHEURFA",
+        "code_postal": "19093",
+        "nom_exact": "CHAABET CHEURFA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "CHEURFA",
+        "code_postal": "19094",
+        "nom_exact": "CHEURFA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "CHOUF-EL-KEDAD",
+        "code_postal": "19095",
+        "nom_exact": "CHOUF LAKDAD   SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "DAR-EL-HADJ",
+        "code_postal": "19096",
+        "nom_exact": "DAR EL HADJ"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "DJERMANE",
+        "code_postal": "19097",
+        "nom_exact": "DJERMANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-ANASSER-BASE",
+        "code_postal": "19098",
+        "nom_exact": "AIN ARNAT"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-HACHICHIA",
+        "code_postal": "19099",
+        "nom_exact": "EL HACHICHIA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-HAMMAM",
+        "code_postal": "19100",
+        "nom_exact": "EL HAMMAM"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-MERDJA",
+        "code_postal": "19101",
+        "nom_exact": "EL MERDJA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "FAUCIGNY",
+        "code_postal": "19102",
+        "nom_exact": "FAUCIGNY"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "FREHA",
+        "code_postal": "19103",
+        "nom_exact": "FREHA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "FRIKAT",
+        "code_postal": "19104",
+        "nom_exact": "FRIKAT"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "GHEBOULA",
+        "code_postal": "19105",
+        "nom_exact": "GHEBOULA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "HAMMA",
+        "code_postal": "19106",
+        "nom_exact": "HAMMA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "KHALFOUN",
+        "code_postal": "19107",
+        "nom_exact": "KHALFOUN"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "KORDJANA",
+        "code_postal": "19108",
+        "nom_exact": "KORDJANA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "LAOUAMEUR",
+        "code_postal": "19109",
+        "nom_exact": "LAOUAMEUR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MAAFEUR",
+        "code_postal": "19110",
+        "nom_exact": "MAAFEUR"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MAHOUAN",
+        "code_postal": "19111",
+        "nom_exact": "MAHOUAN"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MELLOUL",
+        "code_postal": "19113",
+        "nom_exact": "MELLOUL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "MERZEGHLEL",
+        "code_postal": "19114",
+        "nom_exact": "MERZEGHLEL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OUED-EL-BERD",
+        "code_postal": "19115",
+        "nom_exact": "OUED EL BERD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-ALI-BEN-NACER",
+        "code_postal": "19116",
+        "nom_exact": "O A BEN NACER"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-AYAD",
+        "code_postal": "19117",
+        "nom_exact": "OULED AYAD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-MAIZA",
+        "code_postal": "19118",
+        "nom_exact": "OULED MAIZA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-MEHALLA",
+        "code_postal": "19119",
+        "nom_exact": "OULED M'HALA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-SABER",
+        "code_postal": "19120",
+        "nom_exact": "OULED SABER"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "OULED-SI-AHMED",
+        "code_postal": "19121",
+        "nom_exact": "OULED SI AHMED"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SIDI-SALAH",
+        "code_postal": "19122",
+        "nom_exact": "SIDI SALAH"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SMARA",
+        "code_postal": "19123",
+        "nom_exact": "SMARA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SOUK-EL-HAD",
+        "code_postal": "19124",
+        "nom_exact": "SOUK EL HAD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "TACHOUDA",
+        "code_postal": "19125",
+        "nom_exact": "TACHOUDA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "ZERAIA",
+        "code_postal": "19127",
+        "nom_exact": "Z'RAIA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "CHIRHOUM",
+        "code_postal": "19128",
+        "nom_exact": "CHIRHOUM"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-OULMANE-SUD",
+        "code_postal": "19129",
+        "nom_exact": "RUE KANOUNI ATHMANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "BAHBAHA",
+        "code_postal": "19130",
+        "nom_exact": "BAHBAHA"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-EL-HIDHAB",
+        "code_postal": "19131",
+        "nom_exact": "CITE EL HIDHAB  SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-AZEL-CHIBI-ATHMANE",
+        "code_postal": "19132",
+        "nom_exact": "CITE  CHIBI A AIN AZEL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL EULMA THABET BOUZID",
+        "code_postal": "19133",
+        "nom_exact": "EL EULMA THABET BOUZID"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-AIN-MOUS",
+        "code_postal": "19134",
+        "nom_exact": "SETIF-AIN-MOUS"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "EL-EULMA-19 JUIN",
+        "code_postal": "19135",
+        "nom_exact": "EL EULMA 19 JUIN"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-AIN-ROMANE",
+        "code_postal": "19136",
+        "nom_exact": "SETIF-AIN-ROMANE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-UNIVERSITE-EL-BEZ",
+        "code_postal": "19137",
+        "nom_exact": "SETIF EL BAZ"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-UNIVERSITE",
+        "code_postal": "19138",
+        "nom_exact": "SETIF-UNIVERSITE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-EL-KEBIRA-SIARI-KHELIFA",
+        "code_postal": "19139",
+        "nom_exact": "RUE MARTYR SIARI KHELIFA A AIN TOUILA ,SETIF"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-UNIVERSITE-MOHAMED-LAMINE-DEBAGHINE-2",
+        "code_postal": "19140",
+        "nom_exact": "UNIVERSITE-MOHAMED-LAMINE-DEBAGHINE-2"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-AZEL-NORD",
+        "code_postal": "19141",
+        "nom_exact": "AIN-AZEL-NORD"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-ARNAT-BASE",
+        "code_postal": "19142",
+        "nom_exact": "AIN ARNAT BASE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "VIEUX-GUIDJEL",
+        "code_postal": "19143",
+        "nom_exact": "VIEUX-GUIDJEL"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "AIN-ARNAT-01-NOVEMBRE",
+        "code_postal": "19144",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-HACHEMI-HOCINE",
+        "code_postal": "",
+        "nom_exact": "SETIF HACHEMI HOCINE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-BEN-SAMRA-FATMA-ZOHRA",
+        "code_postal": "",
+        "nom_exact": "CITE UNIVERSITAIRE EL BEIZE"
+    },
+    {
+        "wilaya": "SETIF",
+        "nom": "SETIF-KRACHE-MOHAMED",
+        "code_postal": "",
+        "nom_exact": "SETIF CRACHE MOHAMMED"
+    }
+]

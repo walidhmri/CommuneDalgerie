@@ -1,0 +1,254 @@
+[
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GHARDAIA-RP",
+        "code_postal": "47000",
+        "nom_exact": "GARE ROUTIERE GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "EL-MENIAA",
+        "code_postal": "47001",
+        "nom_exact": "CENTRE VILLE EL MENIAA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "METLILI-CHAAMBA",
+        "code_postal": "47002",
+        "nom_exact": "CENTRE VILLE METLILI"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BERRIANE",
+        "code_postal": "47003",
+        "nom_exact": "CENTRE VILLE BERRIANE"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GUERRARA",
+        "code_postal": "47004",
+        "nom_exact": "QUARTIER SIDI BELKHIER"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BENI-ISGUEN",
+        "code_postal": "47005",
+        "nom_exact": "RUR LARBI BEN M'HIDI BENI ISGUEN"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "HASSI-EL-GARA",
+        "code_postal": "47006",
+        "nom_exact": "CENTRE VILLE HASSI EL GARA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "ZELFANA",
+        "code_postal": "47007",
+        "nom_exact": "CENTRE VILLE ZELFANA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BEL-BACHIR",
+        "code_postal": "47008",
+        "nom_exact": "QUARTIER HOFRET EL ABBAS EL MENIAA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BENGHANEM",
+        "code_postal": "47009",
+        "nom_exact": "QUARTIER BENGHANEM GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BOUNOURA",
+        "code_postal": "47010",
+        "nom_exact": "CENTRE VILLE BOUNOURA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "DAIA-BEN-DAHOUA",
+        "code_postal": "47011",
+        "nom_exact": "CENTRE VILLE DAIA BEN DAHOUA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "EL-ATTEUF",
+        "code_postal": "47012",
+        "nom_exact": "CENTRE VILLE EL ATTEUF"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "EL-HADIKA",
+        "code_postal": "47013",
+        "nom_exact": "QUARTIER EL HADIKA METLILI"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GARAT-ETTAAM",
+        "code_postal": "47014",
+        "nom_exact": "ZONE INDUSTRIELLE GARAT ETTAAM"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GUEMGOUMA",
+        "code_postal": "47015",
+        "nom_exact": "QUARTIER GUEMGOUMA METLILI"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "SIDI-ABAZ-20 AOUT 55",
+        "code_postal": "47016",
+        "nom_exact": "CITE 20 AOUT 55 SIDI ABAZ"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "CHAABET-BELLAGHMAN",
+        "code_postal": "47017",
+        "nom_exact": "QUARTIER BEN SMARA GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GUERRARA-5 JUILLET",
+        "code_postal": "47018",
+        "nom_exact": "QUARTIER 5 JUILLET GUERRARA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GUERRARA-ZONE-INDUSTRIELLE",
+        "code_postal": "47019",
+        "nom_exact": "ZONE INDUSTRIELLE ,GUERRARA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "HAI-EL-MOUDJAHIDINE",
+        "code_postal": "47020",
+        "nom_exact": "HAI EL MOUDJAHIDINE BARRIANE"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "HASSI-F'HAL",
+        "code_postal": "47021",
+        "nom_exact": "CENTRE VILLE HASSI F'HEL"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "KEF-HAMMOUDA",
+        "code_postal": "47022",
+        "nom_exact": "QUARTIER KEF HAMMOUDA BERRIANE"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "MANSOURA-NOUVELLE",
+        "code_postal": "47023",
+        "nom_exact": "CENTRE VILLE MENSOURA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "MELIKA",
+        "code_postal": "47024",
+        "nom_exact": "CENTRE VILLE MELIKA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "SEB-SEB",
+        "code_postal": "47025",
+        "nom_exact": "CENTRE VILLE SEB SEB"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "SIDI-M'HAMED",
+        "code_postal": "47026",
+        "nom_exact": "QUARTIER SIDI M'HAMED DAIA BEN DAHOUA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "SOUAREG",
+        "code_postal": "47027",
+        "nom_exact": "QUARTIER SOUAREG METLILI"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GHARDAIA-1ER NOV.54",
+        "code_postal": "47028",
+        "nom_exact": "QUARTIER TENIET EL MAKHZEN GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GHARDAIA-BAISSA-OUALOUANE",
+        "code_postal": "47029",
+        "nom_exact": "QUARTIER MERMED GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GHARDAIA-COLONNEL-LOTFI",
+        "code_postal": "47030",
+        "nom_exact": "QUARTIER SOUK EL HATTEB GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GUERRARA-S'HEN",
+        "code_postal": "47031",
+        "nom_exact": "QUARTIER S'HEN GUERRARA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BOUHRAOUA",
+        "code_postal": "47032",
+        "nom_exact": "ROUTE NATIONAL GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "TENIET-EL-MAKHZEN",
+        "code_postal": "47033",
+        "nom_exact": "HAI TENIET ELMEKHZEN  GHARDAIA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "EL-MENIAA-PORT-SAID",
+        "code_postal": "47034",
+        "nom_exact": "CITE EL MENIAA PORT SAID EL MENIAA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GHARDAIA-UNIVERSITE",
+        "code_postal": "47035",
+        "nom_exact": "UNIVERSITE BOUNOURA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "GUERRARA-CENTRE",
+        "code_postal": "47036",
+        "nom_exact": "CENTRE VILLE GUERRARA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "HASSI-EL-GARA-EST",
+        "code_postal": "47037",
+        "nom_exact": "LA LOCALITE DE HASSI EL GARA EST"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "CHAABET-SID-CHIKH",
+        "code_postal": "47038",
+        "nom_exact": "CHAABET-SID-CHIKH"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "ZELFANA-MERABET-MESSAOUD",
+        "code_postal": "47039",
+        "nom_exact": "ZELFANA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "METLILI-EL-DJADIDA",
+        "code_postal": "47040",
+        "nom_exact": "METLILI-EL-DJADIDA"
+    },
+    {
+        "wilaya": "GHARDAIA",
+        "nom": "BERRIANE-CHIKH-AMEUR",
+        "code_postal": "47041",
+        "nom_exact": ""
+    }
+]

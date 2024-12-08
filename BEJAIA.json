@@ -1,0 +1,872 @@
+[
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-RP",
+        "code_postal": "6000",
+        "nom_exact": "PLACE MEDJAHED"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKBOU",
+        "code_postal": "6001",
+        "nom_exact": "AKBOU CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-LIBERTE",
+        "code_postal": "6002",
+        "nom_exact": "RUE DE LA LIBERTE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "EL-KSEUR",
+        "code_postal": "6003",
+        "nom_exact": "EL KSEUR CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "KHERRATA",
+        "code_postal": "6004",
+        "nom_exact": "KHERRATA CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SIDI-AICH",
+        "code_postal": "6005",
+        "nom_exact": "SIDI AICH CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAZMALT",
+        "code_postal": "6006",
+        "nom_exact": "TAZMALT CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AOKAS",
+        "code_postal": "6007",
+        "nom_exact": "AOKAS CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AMIZOUR",
+        "code_postal": "6008",
+        "nom_exact": "AMIZOUR CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BARBACHA",
+        "code_postal": "6009",
+        "nom_exact": "BARBACHA CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHZER-AMOKRANE",
+        "code_postal": "6010",
+        "nom_exact": "IGHER AMOKRANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SEDDOUK",
+        "code_postal": "6011",
+        "nom_exact": "SEDDOUK CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SOUK-EL-TENINE",
+        "code_postal": "6012",
+        "nom_exact": "SOUK EL TENINE CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "GUENDOUZE",
+        "code_postal": "6013",
+        "nom_exact": "GUENDOUZE CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-ALI",
+        "code_postal": "6014",
+        "nom_exact": "IGHIL ALI CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BORDJ-MIRA",
+        "code_postal": "6015",
+        "nom_exact": "BORDJ MIRA CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "DARGUINA",
+        "code_postal": "6016",
+        "nom_exact": "DARGUINA CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "OUED-GHIR",
+        "code_postal": "6017",
+        "nom_exact": "OUED GHIR CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BOUDJELLIL",
+        "code_postal": "6018",
+        "nom_exact": "BOUDJELLIL CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKABIOU",
+        "code_postal": "6019",
+        "nom_exact": "AKABIOU CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SEMAOUNE",
+        "code_postal": "6020",
+        "nom_exact": "SEMAOUNE CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "ADEKAR-KEBOUCHE",
+        "code_postal": "6021",
+        "nom_exact": "ADEKAR CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "CHEMINI",
+        "code_postal": "6022",
+        "nom_exact": "CHEMINI CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TICHI",
+        "code_postal": "6023",
+        "nom_exact": "TICHI CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BENI-MAOUCHE",
+        "code_postal": "6024",
+        "nom_exact": "BENI MAOUCHE CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZAMOURINE",
+        "code_postal": "6025",
+        "nom_exact": "TIZAMOURINE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BENI-MANSOUR",
+        "code_postal": "6026",
+        "nom_exact": "BENI MANSOUR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "DJEBLAA",
+        "code_postal": "6027",
+        "nom_exact": "DJEBLAA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SILLAL",
+        "code_postal": "6028",
+        "nom_exact": "SILLAL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "KIRIA",
+        "code_postal": "6029",
+        "nom_exact": "KIRIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TOUDJA",
+        "code_postal": "6030",
+        "nom_exact": "TOUDJA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BOUHAMZA",
+        "code_postal": "6031",
+        "nom_exact": "BOUHAMZA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-TINDJIT",
+        "code_postal": "6032",
+        "nom_exact": "KENDIRA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "FERAOUNE",
+        "code_postal": "6033",
+        "nom_exact": "FERAOUNE CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKOURMA",
+        "code_postal": "6034",
+        "nom_exact": "AMALOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-EL-KORN",
+        "code_postal": "6035",
+        "nom_exact": "TAOURIT IGHIL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAKRIETZ",
+        "code_postal": "6036",
+        "nom_exact": "TAKERIETZ"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TINEBDAR",
+        "code_postal": "6037",
+        "nom_exact": "TINEBDAR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SIDI-SAID",
+        "code_postal": "6038",
+        "nom_exact": "SIDI SAID"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BENI-MELIKECHE",
+        "code_postal": "6039",
+        "nom_exact": "BEN MELIKECHE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-SIDI-AHMED",
+        "code_postal": "6040",
+        "nom_exact": "SIDI AHMED,Bejaia"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IL-MATTEN",
+        "code_postal": "6041",
+        "nom_exact": "IL MATTEN"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TILIOUACADI",
+        "code_postal": "6042",
+        "nom_exact": "SOUK OUFELA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "EL-FLAYE",
+        "code_postal": "6043",
+        "nom_exact": "EL FLAYE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TEREGREGT",
+        "code_postal": "6044",
+        "nom_exact": "AIT SEMAIL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "DJEMAA",
+        "code_postal": "6045",
+        "nom_exact": "DJAMAA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BOUKHIAMA",
+        "code_postal": "6046",
+        "nom_exact": "BOUKHIAMA,BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AMTIK-N'TAFAT",
+        "code_postal": "6047",
+        "nom_exact": "AMITIK N'TAFATH BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TASLENT",
+        "code_postal": "6048",
+        "nom_exact": "TASLENT"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BOUHITEM",
+        "code_postal": "6049",
+        "nom_exact": "BOUHITEM"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "GUENDOUZA",
+        "code_postal": "6050",
+        "nom_exact": "GUENDOUZA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "OULED-ALLOUANE",
+        "code_postal": "6051",
+        "nom_exact": "OULED ALOUANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "CHELLATA",
+        "code_postal": "6052",
+        "nom_exact": "CHELLATA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BICHER",
+        "code_postal": "6053",
+        "nom_exact": "BICHER"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BELAYEL",
+        "code_postal": "6054",
+        "nom_exact": "BELAYEL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-ALOUANE",
+        "code_postal": "6055",
+        "nom_exact": "TIZI ALOUANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BENI-OUAMAR",
+        "code_postal": "6056",
+        "nom_exact": "BENI OUAMAR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHRAM",
+        "code_postal": "6057",
+        "nom_exact": "IGHRAM"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IFALENE",
+        "code_postal": "6058",
+        "nom_exact": "IFALENE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAGUEMOUNT",
+        "code_postal": "6059",
+        "nom_exact": "BOUKHELIFA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-N'BERBER",
+        "code_postal": "6060",
+        "nom_exact": "TIZI N'BERBER"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKKAR",
+        "code_postal": "6061",
+        "nom_exact": "AKKAR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "MELLALA",
+        "code_postal": "6062",
+        "nom_exact": "MELLALA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-OUMCED",
+        "code_postal": "6063",
+        "nom_exact": "IGHIL OUMCED"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-OUANTAR",
+        "code_postal": "6064",
+        "nom_exact": "IGHIL OUANTAR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-OUAKLANE",
+        "code_postal": "6065",
+        "nom_exact": "TIZI OUAKLANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TALA-HAMZA",
+        "code_postal": "6066",
+        "nom_exact": "TALA HAMZA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AIT-S'KHEUR",
+        "code_postal": "6067",
+        "nom_exact": "AIT S'KHEUR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AYACHA",
+        "code_postal": "6068",
+        "nom_exact": "AYACHA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-NASSER",
+        "code_postal": "6069",
+        "nom_exact": "IGHIL NASSER"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BERZAKH",
+        "code_postal": "6070",
+        "nom_exact": "BERZAKH"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "ACHELOUF",
+        "code_postal": "6071",
+        "nom_exact": "ACHELOUF"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAKAATZ",
+        "code_postal": "6072",
+        "nom_exact": "TAKAATZ"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "MAHFOUDA",
+        "code_postal": "6073",
+        "nom_exact": "MAHFOUDA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "ADJIOUN",
+        "code_postal": "6074",
+        "nom_exact": "ADJIOUN"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "DRADRA",
+        "code_postal": "6075",
+        "nom_exact": "DRADRA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "EL-DJORF",
+        "code_postal": "6076",
+        "nom_exact": "MELBOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "EL-ALEM",
+        "code_postal": "6077",
+        "nom_exact": "EL ALEM"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AIT-IDRISS",
+        "code_postal": "6078",
+        "nom_exact": "AIT IDRISS"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIBOUAMOUCHINE",
+        "code_postal": "6079",
+        "nom_exact": "TBOUAMOUCHINE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZOUAL",
+        "code_postal": "6080",
+        "nom_exact": "TIZOUEL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AIT-ADJISSA",
+        "code_postal": "6081",
+        "nom_exact": "AIT ADJISSA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-N'SEBT",
+        "code_postal": "6082",
+        "nom_exact": "BENI DJELLIL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-OUTOUAF",
+        "code_postal": "6083",
+        "nom_exact": "IGHIL OUTOUAF"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SEMAOUNE-CHEMINI",
+        "code_postal": "6084",
+        "nom_exact": "SEMAOUNE CHEMINI"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SIDI-AYAD",
+        "code_postal": "6085",
+        "nom_exact": "SIDI AYAD"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TALA-TAZERT",
+        "code_postal": "6086",
+        "nom_exact": "FENAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIBANE",
+        "code_postal": "6087",
+        "nom_exact": "TIBANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IL-MATTEN-HOPITAL",
+        "code_postal": "6088",
+        "nom_exact": "IL MATTEN HOPITAL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IKEDJANE",
+        "code_postal": "6089",
+        "nom_exact": "IKEDJANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAMRICHT",
+        "code_postal": "6090",
+        "nom_exact": "TAMRICHT"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BOUKHALFA",
+        "code_postal": "6091",
+        "nom_exact": "BOUKHALFA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AGHBALA",
+        "code_postal": "6092",
+        "nom_exact": "AGHBALA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AOURIR-ADJISSA",
+        "code_postal": "6093",
+        "nom_exact": "AOURIR ADJISSA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "GARET",
+        "code_postal": "6094",
+        "nom_exact": "GARET"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "KHELLIL",
+        "code_postal": "6095",
+        "nom_exact": "KHELLIL"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TADERT-TAMOKRANT",
+        "code_postal": "6096",
+        "nom_exact": "TADART TAMOKRANT"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SIDI-ALI",
+        "code_postal": "6097",
+        "nom_exact": "SIDI ALI"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IGHIL-IALOUANENE",
+        "code_postal": "6098",
+        "nom_exact": "IGHIL IALOUANENE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKHNAK",
+        "code_postal": "6099",
+        "nom_exact": "AKHNAK"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-BENI-KHETTAB",
+        "code_postal": "6100",
+        "nom_exact": "TIZI BENI KHETTAB"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIGRINE",
+        "code_postal": "6101",
+        "nom_exact": "TIGRINE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "MERDJ-OUAMENE",
+        "code_postal": "6102",
+        "nom_exact": "MERDJ OUAMENE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-OUGUENI",
+        "code_postal": "6103",
+        "nom_exact": "TIZI OUGUENI"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "ASSAM",
+        "code_postal": "6104",
+        "nom_exact": "ASSAM"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BENI-K'SILA",
+        "code_postal": "6106",
+        "nom_exact": "BENI K'SILA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AGUEMOUNE-BENI-KHIAR",
+        "code_postal": "6107",
+        "nom_exact": "AGUEMOUNE BENI KHIAR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IMMOULA",
+        "code_postal": "6108",
+        "nom_exact": "IMMOULA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAMOKRA",
+        "code_postal": "6109",
+        "nom_exact": "TAMOKRA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "LOTA",
+        "code_postal": "6110",
+        "nom_exact": "LOTA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKBOU-1ER-NOVEMBRE",
+        "code_postal": "6111",
+        "nom_exact": "AKBOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "ALLAGHANE",
+        "code_postal": "6112",
+        "nom_exact": "ALLAGHANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SNADLA",
+        "code_postal": "6113",
+        "nom_exact": "SNADLA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TIZI-EL-OUED",
+        "code_postal": "6114",
+        "nom_exact": "SOUK EL TENINE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAOURIRT-IGHIL-CENTRE",
+        "code_postal": "6115",
+        "nom_exact": "TAOURIRT-IGHIL-CENTRE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-PEPINIERE",
+        "code_postal": "6116",
+        "nom_exact": "R.U.PEPINIERE . Bejaia"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "EL-HAMMA",
+        "code_postal": "6117",
+        "nom_exact": "EL HAMMA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "KHERRATA-NOUVELLE",
+        "code_postal": "6118",
+        "nom_exact": "KHERRATA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "ABAINOU",
+        "code_postal": "6119",
+        "nom_exact": "ABAINOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BERCHICHE-RESIDENCE-UNIVERSITAIRE",
+        "code_postal": "6120",
+        "nom_exact": "R.U.BERCHICHE 3. ELKSEUR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "HELOUANE",
+        "code_postal": "6121",
+        "nom_exact": "HELLOUANE"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "IDERAKEN",
+        "code_postal": "6122",
+        "nom_exact": "IDERAKEN"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-GARE-ROUTIERE",
+        "code_postal": "6123",
+        "nom_exact": "GARE ROUTIERE DE BAJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "TAOURIRT-LARBAA",
+        "code_postal": "6124",
+        "nom_exact": "TAOURIRT LARBAA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-AHMED-OUGANA",
+        "code_postal": "6125",
+        "nom_exact": "LEKHMISS,Bejaia"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-HASSIBA-BEN-BOUALI",
+        "code_postal": "6126",
+        "nom_exact": "CITE ROUSSEL EN FACE OPOW"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-ABANE-RAMDANE",
+        "code_postal": "6127",
+        "nom_exact": "Q.1000logs IHADDEDN,Bejaia"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-NACERIA",
+        "code_postal": "6128",
+        "nom_exact": "CITE NACIRIA.Bejaia"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-TALA-OURIANE",
+        "code_postal": "6129",
+        "nom_exact": "Q.TALA OURIANE. Bejaia"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-IHADDADENE",
+        "code_postal": "6130",
+        "nom_exact": "Q.600logts ihadadden"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-SIDI-ALI-LABHAR",
+        "code_postal": "6131",
+        "nom_exact": "SIDI ALI L'ABHAR.BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "EL-KSEUR-AKAL-ABERKAN",
+        "code_postal": "6132",
+        "nom_exact": "CITE AKAL ABERKAN. EL KSEUR"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "DJERMOUNA",
+        "code_postal": "6133",
+        "nom_exact": "DJARMOUNA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-TAASSAST",
+        "code_postal": "6134",
+        "nom_exact": "VILLAGE DE TAASSAST,BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AMIZOUR-RESIDENCE-UNIVERSITAIRE 01",
+        "code_postal": "6135",
+        "nom_exact": "LA CITE UNIVERSITAIRE AMIZOUR,BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AOKAS-20-AOUT-1956",
+        "code_postal": "6136",
+        "nom_exact": "CITE 100/900 LOGEMENTS LOCAUX NÂ° 109 ET 110 OPGI,AOKAS"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKBOU-HOPITAL",
+        "code_postal": "6137",
+        "nom_exact": "AKBOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "SIDI-AICH-TIMZAGHRA",
+        "code_postal": "6138",
+        "nom_exact": "SIDI AICH"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-SIDI-SOUFIANE",
+        "code_postal": "6139",
+        "nom_exact": "CITE SIDI SOUFIANE.BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "MEROUAHA",
+        "code_postal": "6140",
+        "nom_exact": "LA ROUTE NATIONALE NÂ°9,VILLAGE DE MEROUAHA,BEJAIA"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKBOU-GUELDAMENE",
+        "code_postal": "6141",
+        "nom_exact": "ROUTE NATIONALE NÂ° 26, TOURNANT OUCHALAL, AKBOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AKFADOU",
+        "code_postal": "6142",
+        "nom_exact": "VILLAGE TINIRI CHEF LIEU COMMUNE D'AKFADOU"
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "AIT-MEKEDEM",
+        "code_postal": "6143",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-ETABLISSEMENT-POSTAL-ITINERANT-1",
+        "code_postal": "6144",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "BEJAIA",
+        "nom": "BEJAIA-TERRE",
+        "code_postal": "",
+        "nom_exact": "QUATRE CHEMINS BEJAIA"
+    }
+]

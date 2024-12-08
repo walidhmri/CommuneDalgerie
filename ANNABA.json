@@ -1,0 +1,350 @@
+[
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-RP",
+        "code_postal": "23000",
+        "nom_exact": "RUE ZIGHOUD YOUCEF ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-AMIROUCHE",
+        "code_postal": "23001",
+        "nom_exact": "CITE AMIROUCHE  ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-MENADIA",
+        "code_postal": "23002",
+        "nom_exact": "PHILIPPE DE CERNER MENADIA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-PORT",
+        "code_postal": "23003",
+        "nom_exact": "AVENUE DE L'AVANT PORT"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-HADJAR",
+        "code_postal": "23004",
+        "nom_exact": "EMIR A/KADER"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "SIDI-AMAR",
+        "code_postal": "23005",
+        "nom_exact": "CITE 19 JUIN  SIDI AMAR"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "AIN-BERDA",
+        "code_postal": "23006",
+        "nom_exact": "RUE EL MOKHERANI AIN BERDA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA 5 JUILLET",
+        "code_postal": "23007",
+        "nom_exact": "CITE 05 JUILLET  ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-OUED-EL-KOUBA",
+        "code_postal": "23008",
+        "nom_exact": "CITE O/KOUBA  ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "BERRAHAL",
+        "code_postal": "23009",
+        "nom_exact": "RUE  DE LA POSTE"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-BOUNI",
+        "code_postal": "23010",
+        "nom_exact": "CITE  BELLEVUE"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-CITE-RYM",
+        "code_postal": "23011",
+        "nom_exact": "CITE RYM  ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-PLAINE-OUEST-II",
+        "code_postal": "23012",
+        "nom_exact": "CITE 1028 LOGTS BLOC  76 P/OUST"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "BOUKHADRA",
+        "code_postal": "23013",
+        "nom_exact": "CITE  800 LOGTS"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "CHETAIBI",
+        "code_postal": "23014",
+        "nom_exact": "RUE  MEZGHICHE HOCINE S/CENTRAL"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "SERAIDI",
+        "code_postal": "23015",
+        "nom_exact": "AVENUE TABET HOCINE"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "SIDI-SALEM",
+        "code_postal": "23016",
+        "nom_exact": "CITE S/SALEM ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-CITE DES MARTYRS",
+        "code_postal": "23017",
+        "nom_exact": "CITE 1028 LOGTS BLOC  76 P/OUST"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "CHEURFA",
+        "code_postal": "23018",
+        "nom_exact": "LA POSTE CHEURFA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-KARMA",
+        "code_postal": "23019",
+        "nom_exact": "VILLAGE  VRA EL KARMA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "MENAOUAR-AIN-SAYD",
+        "code_postal": "23020",
+        "nom_exact": "CITE MENAOUAR AIN SAYD"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "OUICHAOUA",
+        "code_postal": "23021",
+        "nom_exact": "OUICHAOUA O/EL ANEB"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "TREAT",
+        "code_postal": "23022",
+        "nom_exact": "VSA TREAT"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "AIN-FOUADJA",
+        "code_postal": "23024",
+        "nom_exact": "CITE BOUGUESSAS"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "AZIZI AHMED",
+        "code_postal": "23025",
+        "nom_exact": "CITE  AZIZI AHMED"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "BERKA-ZERGA",
+        "code_postal": "23026",
+        "nom_exact": "CITE BERKA ZERGA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "BOUZIZI",
+        "code_postal": "23027",
+        "nom_exact": "BOUZIZI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "DERRADJI-REDJEM",
+        "code_postal": "23028",
+        "nom_exact": "CITE DERRADJI REDJEM"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "DRAA-ERRICH",
+        "code_postal": "23029",
+        "nom_exact": "CITE DRAA EICH  O/EL ANEB"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-AZLA",
+        "code_postal": "23030",
+        "nom_exact": "CITE AZLA CHETAIBI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-EULMA",
+        "code_postal": "23031",
+        "nom_exact": "CITE EL EULMA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-HOREICHA",
+        "code_postal": "23032",
+        "nom_exact": "CITE  EL HORIECHA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-KALITOUSSA",
+        "code_postal": "23033",
+        "nom_exact": "CITE EL KALITOUSSA BERRAHAL"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-MOUKAOUAMA",
+        "code_postal": "23034",
+        "nom_exact": "CITE  EL MOUKAOUAMA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ES-SAROUEL",
+        "code_postal": "23035",
+        "nom_exact": "CITE ESSAROUEL"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "OUED-EL-HOUT",
+        "code_postal": "23036",
+        "nom_exact": "CITE OUED EL HOUT"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "HDJAR-DISS",
+        "code_postal": "23037",
+        "nom_exact": "CITE HADJAR EDISS"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "KHERAZA  II",
+        "code_postal": "23038",
+        "nom_exact": "CITE KHERRAZA II"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "KHERAZA-CITE 1ER MAI",
+        "code_postal": "23039",
+        "nom_exact": "CITE KHERRAZA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "LABIDI-MOHAMED",
+        "code_postal": "23040",
+        "nom_exact": "CITE  LABIDI MOHAMED"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "MEDJEZ-RASSOUL",
+        "code_postal": "23041",
+        "nom_exact": "CITE MEDJEZ RASSOUL"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "MERZOUG-AMAR",
+        "code_postal": "23042",
+        "nom_exact": "CITE MERZOUG AMAR"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "OUED-EL-NIL",
+        "code_postal": "23043",
+        "nom_exact": "CITE 800 LOGTS BT2 BLOC 2"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "OUED-ZIED",
+        "code_postal": "23044",
+        "nom_exact": "CITE OUED ZIED"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "SELMOUNE-EL-HACHEMI",
+        "code_postal": "23045",
+        "nom_exact": "CITE S/HACHEMI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "TACHA",
+        "code_postal": "23046",
+        "nom_exact": "VSA TACHA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ZAOUIA",
+        "code_postal": "23047",
+        "nom_exact": "CITE ZAOUIA  CHETAIBI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-EDOUGH",
+        "code_postal": "23048",
+        "nom_exact": "CITE OUED FORCHA ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-BOUNI-ALLELIK",
+        "code_postal": "23049",
+        "nom_exact": "CITE DES ORANGERS  EL BOUNI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-SIDI-ACHOUR",
+        "code_postal": "23050",
+        "nom_exact": "CITE SIDI ACHOUR ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-BOUNI-UNIVERSITE",
+        "code_postal": "23051",
+        "nom_exact": "UNIVERSITE EL BOUNI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "SIDI-AMAR-UNIVERSITE",
+        "code_postal": "23052",
+        "nom_exact": "UNIVERSITE SIDI AMAR"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-BOUZERED-HOCINE",
+        "code_postal": "23053",
+        "nom_exact": "CITE  BOUZERED HOCINE ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-CITE-SEYBOUSE",
+        "code_postal": "23054",
+        "nom_exact": "CITE SYBOUSE ANNABA"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "SIDI-SALEM-EL-BAHRI",
+        "code_postal": "23055",
+        "nom_exact": "CITE SIDI SALEM"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "EL-HARROUCHI",
+        "code_postal": "23056",
+        "nom_exact": "EL-HARROUCHI"
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "ANNABA-ETABLISSEMENT-POSTAL-ITINERANT-1",
+        "code_postal": "23057",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ANNABA",
+        "nom": "CHABBIA",
+        "code_postal": "",
+        "nom_exact": "CITE CHABBIA"
+    }
+]

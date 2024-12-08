@@ -1,0 +1,344 @@
+[
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-TARF-RP",
+        "code_postal": "36000",
+        "nom_exact": "RN 44 EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "DREAN",
+        "code_postal": "36001",
+        "nom_exact": "RUE 1ER NOV 1954"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-KALA",
+        "code_postal": "36002",
+        "nom_exact": "RUE DU SAHARA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BEN-M'HIDI",
+        "code_postal": "36003",
+        "nom_exact": "RN 44 EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BESBES",
+        "code_postal": "36004",
+        "nom_exact": "RUE 1ER NOV 1954"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BOUHADJAR",
+        "code_postal": "36005",
+        "nom_exact": "RN 82 ZITOUNA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BOUTELDJA",
+        "code_postal": "36006",
+        "nom_exact": "RN 44 EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "CHOTT",
+        "code_postal": "36007",
+        "nom_exact": "COMMUNE CHOTT"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-TARF-BAHRI-BELKACEM",
+        "code_postal": "36008",
+        "nom_exact": "BAHRI BELKACEM"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "SIDI-BELGACEM",
+        "code_postal": "36009",
+        "nom_exact": "SIDI-BELGACEM"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "AIN-EL-ASSEL",
+        "code_postal": "36010",
+        "nom_exact": "RN 44 EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "AIN-KERMA",
+        "code_postal": "36011",
+        "nom_exact": "COMMUNE AIN-KERMA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "ASFOUR",
+        "code_postal": "36012",
+        "nom_exact": "COMMUNE ASFOUR"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "CHEBAITA-MOKHTAR",
+        "code_postal": "36013",
+        "nom_exact": "CITE BOUKHRIS MED SALAH"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "CHIHANI",
+        "code_postal": "36014",
+        "nom_exact": "RUE CHÃ‚TEAU D'EAU CHIHANI"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "ZERIZER",
+        "code_postal": "36015",
+        "nom_exact": "CNE ZERIZER"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "AIN-KHIAR",
+        "code_postal": "36016",
+        "nom_exact": "VSA AIN KHIAR"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "DARHOUSSA",
+        "code_postal": "36017",
+        "nom_exact": "VSA DARHOUSSA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-AIOUN",
+        "code_postal": "36018",
+        "nom_exact": "COMMUNE EL-AIOUN"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "LAC-DES-OISEAUX",
+        "code_postal": "36019",
+        "nom_exact": "RN 44 EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "OUM-THEBOUL",
+        "code_postal": "36020",
+        "nom_exact": "ROUTE DE TUNIS"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "ROUM-EL-SOUK",
+        "code_postal": "36021",
+        "nom_exact": "CNE ROUM-EL-SOUK"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "SIDI-KACEM",
+        "code_postal": "36022",
+        "nom_exact": "VSA SIDI-KACEM"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "ZITOUNA",
+        "code_postal": "36023",
+        "nom_exact": "RN 82 ZITOUNA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "AIN-ALLEM",
+        "code_postal": "36024",
+        "nom_exact": "CNE AIN-ALLEM"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BEN-AMAR",
+        "code_postal": "36025",
+        "nom_exact": "CNE BEN-AMAR"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BERDJILETTE",
+        "code_postal": "36026",
+        "nom_exact": "BERDJILETTE"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BERRIHANE",
+        "code_postal": "36027",
+        "nom_exact": "CNE BERRIHANE"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BOUAABED",
+        "code_postal": "36028",
+        "nom_exact": "FEZZARA VSA BOUABED"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BOUGOUS",
+        "code_postal": "36029",
+        "nom_exact": "COMMUNE BOUGOUS"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BOUTELLA-ABDALLAH",
+        "code_postal": "36030",
+        "nom_exact": "VSA BOUTELLA-ABDALLAH"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "CHAABA-EL-HAMRA",
+        "code_postal": "36031",
+        "nom_exact": "EUE SIDI ABED"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "CHEFFIA",
+        "code_postal": "36032",
+        "nom_exact": "COMMUNE CHEFFIA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-FHIS",
+        "code_postal": "36033",
+        "nom_exact": "EL-FHIS"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-KOUS",
+        "code_postal": "36034",
+        "nom_exact": "CNE EL-KOUS"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "FEDDAOUI-MOUSSA",
+        "code_postal": "36035",
+        "nom_exact": "CNE FEDDAOUI-MOUSSA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "HAMMAM-BENI-SALAH",
+        "code_postal": "36036",
+        "nom_exact": "CNE H,B,SALAH"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "KANTARA-EL-MALHA",
+        "code_postal": "36037",
+        "nom_exact": "VSA KANTARA-EL-MALHA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "MATROHA",
+        "code_postal": "36038",
+        "nom_exact": "VSA MATROHA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "MERADIA",
+        "code_postal": "36039",
+        "nom_exact": "CNE MERADIA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "MOHAMED-TAYEB",
+        "code_postal": "36041",
+        "nom_exact": "MOHAMED-TAYEB"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "OUED-DJENANE",
+        "code_postal": "36042",
+        "nom_exact": "OUED-DJENANE"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "OUED-EL-HOUT",
+        "code_postal": "36043",
+        "nom_exact": "CNE OUED-EL-HOUT"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "OUED-ZITOUNE",
+        "code_postal": "36044",
+        "nom_exact": "CNE OUED-ZITOUNE"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "RIGHIA",
+        "code_postal": "36046",
+        "nom_exact": "RIGHIA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "SEBAA",
+        "code_postal": "36047",
+        "nom_exact": "VSA SEBAA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "SIDI-EMBAREK",
+        "code_postal": "36048",
+        "nom_exact": "VSA SIDI-EMBAREK"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "ZOHRAMI-ALI",
+        "code_postal": "36049",
+        "nom_exact": "VSA ZOHRAMI"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BEN-M'HIDI-CENTRE",
+        "code_postal": "36050",
+        "nom_exact": "RN 44 EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "BESBES NORD",
+        "code_postal": "36051",
+        "nom_exact": "CITE 36 LOGEMENTS,COMMUNE DE BESBES"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "DREAN-CITE 1 300 LOGTS",
+        "code_postal": "36052",
+        "nom_exact": "CITE 1300 LOGTS"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-TARF-UNIVERSITE",
+        "code_postal": "36053",
+        "nom_exact": "UNIVERSITE EL TARF"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "AIN-TOUILA",
+        "code_postal": "36054",
+        "nom_exact": "VILLAGE D'AIN TOUILA COMMUNE DE BESBES"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "ESSAD",
+        "code_postal": "36055",
+        "nom_exact": "ESSAD Commune de CHEFFIA"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-KALA-EL-MORDJANE",
+        "code_postal": "36056",
+        "nom_exact": "EL-KALA-EL-MORDJANE"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "EL-ANNEB",
+        "code_postal": "36057",
+        "nom_exact": "EL-ANNEB"
+    },
+    {
+        "wilaya": "ELTARF",
+        "nom": "DREAN-05-JUILLET-1962",
+        "code_postal": "36058",
+        "nom_exact": "DREAN-05-JUILLET-1962"
+    }
+]

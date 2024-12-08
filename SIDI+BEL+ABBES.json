@@ -1,0 +1,572 @@
+[
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-RP",
+        "code_postal": "22000",
+        "nom_exact": "RUE HADID AISSA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SFISEF",
+        "code_postal": "22001",
+        "nom_exact": "Bvd BENBOULAID"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-SIDI-YACINE",
+        "code_postal": "22002",
+        "nom_exact": "Ave ABBANE RAMDHANE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-TAYEBI-LARBI",
+        "code_postal": "22003",
+        "nom_exact": "Ave CHEIKH LARBI TEBBESSI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BEN-BADIS",
+        "code_postal": "22004",
+        "nom_exact": "RUE MECHETI KOUIDER"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "RAS-EL-MA",
+        "code_postal": "22005",
+        "nom_exact": "Bvd AHMED FETHI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES 1ER NOV.",
+        "code_postal": "22006",
+        "nom_exact": "RUE ALI BOUMENDJEL"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TELAGH",
+        "code_postal": "22007",
+        "nom_exact": "Bvd ARBI BEN MHIDI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BOUKHANEFIS",
+        "code_postal": "22008",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "DHAYA",
+        "code_postal": "22009",
+        "nom_exact": "RUE DE SIDI CHAIB"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "HASSI-ZEHANA",
+        "code_postal": "22010",
+        "nom_exact": "ROUTE NLE VERS TLEMCEN"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "MARHOUM",
+        "code_postal": "22011",
+        "nom_exact": "RUE MOHAMED BOUDIAF"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "MERINE",
+        "code_postal": "22012",
+        "nom_exact": "Bvd CAPITAINE ABDELHADI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "MOSTEFA-BEN-BRAHIM",
+        "code_postal": "22013",
+        "nom_exact": "RUE DIAFI HABIB"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-ALI-BOUSSIDI",
+        "code_postal": "22014",
+        "nom_exact": "RUE SAHRAOUI KADOUR"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-ADIM-FATIHA",
+        "code_postal": "22015",
+        "nom_exact": "RUE ADIM FATIHA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-EL-WIAM",
+        "code_postal": "22016",
+        "nom_exact": "EL WIAAM SIDI BEL ABBES"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-SAADANE",
+        "code_postal": "22017",
+        "nom_exact": "RUE ASPIRANT SAADANE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-ZABANA",
+        "code_postal": "22018",
+        "nom_exact": "RUE KADI BELHADI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-HAMADOUCHE",
+        "code_postal": "22019",
+        "nom_exact": "RUE AMIR AEK"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-LAHSSENE",
+        "code_postal": "22020",
+        "nom_exact": "ROUTE NLE NÂ°7"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TENIRA",
+        "code_postal": "22021",
+        "nom_exact": "RUE TOUMI LAKHDAR"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "AIN-EL-BERD",
+        "code_postal": "22022",
+        "nom_exact": "RUE CHAIB DJILLALI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BELARBI",
+        "code_postal": "22023",
+        "nom_exact": "RUE DES FRERES SASSI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "LAMTAR",
+        "code_postal": "22024",
+        "nom_exact": "ROUTE NLE VERS TLEMCEN"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "MEZAOUROU",
+        "code_postal": "22025",
+        "nom_exact": "Bvd MOHAMED KHEMISTI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "MOULAY-SLISSEN",
+        "code_postal": "22026",
+        "nom_exact": "RUE BENDAHOU BELAHCEN"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SFISEF-SAHOUA",
+        "code_postal": "22027",
+        "nom_exact": "ROUTE DE BOUHANIFIA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-ALI-BENYOUB",
+        "code_postal": "22028",
+        "nom_exact": "PLACE DE MARTYRS"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BRAHIM",
+        "code_postal": "22029",
+        "nom_exact": "RUE EMIR AEK"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-DJILLALI",
+        "code_postal": "22030",
+        "nom_exact": "Bvd yebka AHMED CITE 456 LOGTS"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-KHALED",
+        "code_postal": "22031",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TABIA",
+        "code_postal": "22032",
+        "nom_exact": "RUE HABOUL HABOUL"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TESSALA",
+        "code_postal": "22033",
+        "nom_exact": "RUE ASPIRANT ABDELKRIM"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "AIN-ADDEN",
+        "code_postal": "22034",
+        "nom_exact": "RUE GHALEM"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "AIN-KADA",
+        "code_postal": "22035",
+        "nom_exact": "RUE HRENICHE LAKHDAR"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "AIN-TINDAMINE",
+        "code_postal": "22036",
+        "nom_exact": "RUE NIMR MOHAMED"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "AIN-TRID",
+        "code_postal": "22037",
+        "nom_exact": "AIN THRID"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BEDRABINE-EL-MOKRANI",
+        "code_postal": "22038",
+        "nom_exact": "RUE AMIR AEK"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BELAILA-YEMLOUL",
+        "code_postal": "22039",
+        "nom_exact": "LOCALITE BELAILA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BENACHIBA-CHELIA",
+        "code_postal": "22040",
+        "nom_exact": "RUE KERIM DJELLOUL"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BIR-EL-HEMMAM",
+        "code_postal": "22041",
+        "nom_exact": "ROUTE TAGHOURAYA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BOUAICHE",
+        "code_postal": "22042",
+        "nom_exact": "BOUAICHE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BOUDJEBAA-EL-BORDJ",
+        "code_postal": "22043",
+        "nom_exact": "RUE DE 20 LOGTS"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BOUMAAD-TILMOUNI",
+        "code_postal": "22044",
+        "nom_exact": "HAI EL JADID"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "CHETOUANE",
+        "code_postal": "22045",
+        "nom_exact": "CHETOUANE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "DELAHIM",
+        "code_postal": "22046",
+        "nom_exact": "DELAHIM"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "EL-HACAIBA",
+        "code_postal": "22047",
+        "nom_exact": "RUE HADJRI DJILLALI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "EMIR-ABDELKADER",
+        "code_postal": "22048",
+        "nom_exact": "CITE AMIR AEK"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "HASSI-DAHO",
+        "code_postal": "22049",
+        "nom_exact": "RUE LARBI BEN MHIDI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "IGHTI",
+        "code_postal": "22050",
+        "nom_exact": "IGHTI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "MAKEDRA",
+        "code_postal": "22051",
+        "nom_exact": "RUE BENTRISSI BELAHOUAL"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "M'CID",
+        "code_postal": "22052",
+        "nom_exact": "RUE MEGHREBI KADDA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "OUED-MEBTOUH",
+        "code_postal": "22053",
+        "nom_exact": "RUE DIDOUCHE MORAD"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "OUED-SEBAA",
+        "code_postal": "22054",
+        "nom_exact": "RUE GHALEM AHMED"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "OUED-SEFIOUN",
+        "code_postal": "22055",
+        "nom_exact": "ROUTE PRINCIPALE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "OUED-TAOURIRA",
+        "code_postal": "22056",
+        "nom_exact": "ROUTE PRINCIPALE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "OULED-ALI",
+        "code_postal": "22057",
+        "nom_exact": "RUE SERDI KADDOUR"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "REDJEM-DEMMOUCHE",
+        "code_postal": "22058",
+        "nom_exact": "ROUTE DE L'APC"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SAF-SAF",
+        "code_postal": "22059",
+        "nom_exact": "SAF SAF"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SEHALA-THAOURA",
+        "code_postal": "22060",
+        "nom_exact": "SEHALA THAOURA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-CHAIB",
+        "code_postal": "22061",
+        "nom_exact": "RUE GHERBI YOUCEF"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-DAHO DES-ZAIRS",
+        "code_postal": "22062",
+        "nom_exact": "CITE DU 08 MAI 1945"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-YACOUB-BENTEMINE",
+        "code_postal": "22063",
+        "nom_exact": "RUE DE LA MOSQUEE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TAOUDMOUT",
+        "code_postal": "22064",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TEFESSOUR",
+        "code_postal": "22065",
+        "nom_exact": "RUE BOUCIF BENABDALLAH"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TEGHALIMET",
+        "code_postal": "22066",
+        "nom_exact": "Bvd MOHAMED KHEMISTI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TELAGH-MOKDAD-MED",
+        "code_postal": "22067",
+        "nom_exact": "ROUTE DE SAIDA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "ZEROUALA",
+        "code_postal": "22068",
+        "nom_exact": "RUE GHARES ELGOUM MEKKI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "RAS-EL-MA-ES-SAADA",
+        "code_postal": "22069",
+        "nom_exact": "RUE DES MARTHYRS"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "AOUINETTES",
+        "code_postal": "22070",
+        "nom_exact": "EL AOUINETTE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-BENI-AMEUR",
+        "code_postal": "22071",
+        "nom_exact": "HAI BENI AMEUR"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-DR HASSANI-AEK",
+        "code_postal": "22072",
+        "nom_exact": "HAI SAKIA EL HAMRA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BERKANE-BEN-YAGOUB",
+        "code_postal": "22073",
+        "nom_exact": "Bvd LARBI BEN MHIDI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TOUAITA",
+        "code_postal": "22074",
+        "nom_exact": "TOUAITA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-GENDARMERIE-NATIONALE",
+        "code_postal": "22075",
+        "nom_exact": "ECOLE DE GENDARMERIE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-BELACEL-LAKHDAR",
+        "code_postal": "22076",
+        "nom_exact": "CITE AADL SIDI DJILLALI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-GARE-ROUTIERE",
+        "code_postal": "22077",
+        "nom_exact": "GARE ROUTIERE SOGRAL"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TENEZERA",
+        "code_postal": "22078",
+        "nom_exact": "TENEZERA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-BOUMELIK",
+        "code_postal": "22079",
+        "nom_exact": "HAI BOUMLIK"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-FIDA",
+        "code_postal": "22080",
+        "nom_exact": "RUE MAAROUF EL ARBI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-ECOLE-DE-POLICE",
+        "code_postal": "22081",
+        "nom_exact": "ECOLE DE POLICE TAYEBI LARBI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BORDJ-DJAAFAR",
+        "code_postal": "22082",
+        "nom_exact": "BORDJ DJAAFER"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "LOUZA-BEN-ACHIBA",
+        "code_postal": "22083",
+        "nom_exact": "LOUZA BEN ACHIBA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-CAMPUS -UNIVERSITAIRE",
+        "code_postal": "22084",
+        "nom_exact": "CAMPUS -UNIVERSITAIRE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SFISEF-HANIFI-ABDELKADER",
+        "code_postal": "22085",
+        "nom_exact": "QUARTIER 05 JUILLET,SFISEF,SIDI BEL ABBES"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-CITE-UNIVERSITAIRE-IBN-ROCHD",
+        "code_postal": "22086",
+        "nom_exact": "RESIDENCE UNIVERSITAIRE IBN ROCHD,SIDI BEL ABBES"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "BELOUALADI",
+        "code_postal": "22087",
+        "nom_exact": "LA LOCALITE DE BELOUELADI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-11-DECEMBRE",
+        "code_postal": "22088",
+        "nom_exact": "CITE 200 LOGEMENTS AZOUZ, SIDI DJILLALI"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "TITANE-YAHIA",
+        "code_postal": "22089",
+        "nom_exact": "SUD DE LA WILAYA DE SIDI BEL ABBES"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "ZELIFA",
+        "code_postal": "22090",
+        "nom_exact": "ZELIFA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "OULED-BENDIDA",
+        "code_postal": "22091",
+        "nom_exact": "OULED-BENDIDA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "RAS-EL-MA-TERRE",
+        "code_postal": "",
+        "nom_exact": "BP 170 RAS EL MA"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-EASSM-TERRE",
+        "code_postal": "",
+        "nom_exact": "BP 62 ECOLE DE SANTE MILITAIRE"
+    },
+    {
+        "wilaya": "SIDI+BEL+ABBES",
+        "nom": "SIDI-BEL-ABBES-TERRE",
+        "code_postal": "",
+        "nom_exact": "BP 166 SIDI YACINE SBA"
+    }
+]

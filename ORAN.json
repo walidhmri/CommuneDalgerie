@@ -1,0 +1,818 @@
+[
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-RP",
+        "code_postal": "31000",
+        "nom_exact": "PLACE MAGHREB -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BIR-EL-DJIR Cdt GUERRAB Med",
+        "code_postal": "31001",
+        "nom_exact": "BIR EL DJIR  - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-HOUHA-MOHAMED",
+        "code_postal": "31002",
+        "nom_exact": "BD MASCARA -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-SAIM-MOHAMED",
+        "code_postal": "31003",
+        "nom_exact": "AVE SAIM MOAHMED -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARZEW",
+        "code_postal": "31004",
+        "nom_exact": "AVE FRANCE FANON -ARZEW-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SENIA",
+        "code_postal": "31005",
+        "nom_exact": "RUE ZAGHLOUL -ES SENIA-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SENIA-ZERBANI-MOHAMED",
+        "code_postal": "31006",
+        "nom_exact": "ROUTE ES SENIA ,EN FACE ENSEP -ES SENIA ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-EL-MAKKARI",
+        "code_postal": "31007",
+        "nom_exact": "AV HAMMOU MOKHTAR -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-EL-MOUDJAHED",
+        "code_postal": "31008",
+        "nom_exact": "RUE LARBI BENMHIDI -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-EMIR-KHALED",
+        "code_postal": "31009",
+        "nom_exact": "AVE EMIR KHALED -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-ES-SABBAH",
+        "code_postal": "31010",
+        "nom_exact": "CITE 789 LOGTS -HAI ESABAH - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-HAI-BADR",
+        "code_postal": "31011",
+        "nom_exact": "RUE BOUSHABA ABDELLAH -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-OUSSAMA",
+        "code_postal": "31012",
+        "nom_exact": "RUE PIGRIFY BOULANGER"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-SEDDIKIA",
+        "code_postal": "31013",
+        "nom_exact": "25 AV D'ALCOOL -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-EL-TURK",
+        "code_postal": "31014",
+        "nom_exact": "PLACE 1ER NOVEMBRE -AIN EL TURK-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BETTIOUA",
+        "code_postal": "31015",
+        "nom_exact": "AVE EMIR AEK -BETTIOUA-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BOU-TLELIS",
+        "code_postal": "31016",
+        "nom_exact": "BD MOHAMED KHEMISTI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "GDYEL",
+        "code_postal": "31017",
+        "nom_exact": "RUE HAMOU BOUTLELIS -GDYEL-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "GDYEL-AHMED-ZABANA",
+        "code_postal": "31018",
+        "nom_exact": "RUE EMIR AEK -GDYEL -"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MERS-EL-KEBIR",
+        "code_postal": "31019",
+        "nom_exact": "RUE HAMOU BOUTLELIS -MERS EL KEBIR-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-IMAM-EL-HOUARI",
+        "code_postal": "31020",
+        "nom_exact": "12 RUE KHEDIM MUSTAPHA -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-SIDI-EL-BACHIR",
+        "code_postal": "31021",
+        "nom_exact": "05 RUE GAFAITI KERZAZI -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AKID-ABBES",
+        "code_postal": "31022",
+        "nom_exact": "24 RUE MILINOT AKID ABBES"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BIR-EL-DJIR",
+        "code_postal": "31023",
+        "nom_exact": "BIR EL DJIR  CENTRE -BIR EL DJIR-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BOUFATIS",
+        "code_postal": "31024",
+        "nom_exact": "RUE PRINCIPALE -BOUFATIS-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BOU-SFER",
+        "code_postal": "31025",
+        "nom_exact": "RUE BENAMAR MILOUD -BOUSFER-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-KERMA",
+        "code_postal": "31026",
+        "nom_exact": "HAI ZEGHLOUL -EL KERMA -"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HASSIANE-ETTOUAL",
+        "code_postal": "31027",
+        "nom_exact": "ROUTE NATIONA -HASSIANE ETTOUAL-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HASSI-BOUNIF",
+        "code_postal": "31028",
+        "nom_exact": "ROUTE NATIONALE -HASSI BOUNIF-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "KHALED-IBN-EL-OUALID",
+        "code_postal": "31029",
+        "nom_exact": "HAI KHALED IBN WALID"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MERS-EL-HADJADJ",
+        "code_postal": "31030",
+        "nom_exact": "RUE DE LA PLACE -MERS EL HADJADJ-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MISSERGHINE",
+        "code_postal": "31031",
+        "nom_exact": "RUE EMIR AEK -MISSERGHINE-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-AHMED-MEDEGHRI",
+        "code_postal": "31032",
+        "nom_exact": "TIRE AU PISTOLET -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-EL-FETH",
+        "code_postal": "31033",
+        "nom_exact": "COTE DES AMANDIERS -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-EL-HAMRI",
+        "code_postal": "31034",
+        "nom_exact": "RUE DE AMANDIERS -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-EL-MARSA",
+        "code_postal": "31035",
+        "nom_exact": "PORT D'ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-HAI-BOUAMAMA",
+        "code_postal": "31036",
+        "nom_exact": "HAI BOUAMAMA ER PONT ALBIN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "OUED-TLELAT",
+        "code_postal": "31037",
+        "nom_exact": "RUE GOURINE AEK -OUED TLILET-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SIDI-CHAMI",
+        "code_postal": "31038",
+        "nom_exact": "RUE BENZER4JEB -SIDI CHAMI-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-BEIDA",
+        "code_postal": "31039",
+        "nom_exact": "02 CITE SAAD AHMED -AIN BEIDA ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-EL-BYA",
+        "code_postal": "31040",
+        "nom_exact": "RUE KHELIFA MOHAMED -AIN BYA-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARZEW-EMIR-AEK",
+        "code_postal": "31041",
+        "nom_exact": "HAI EMIR AEK -ARZEW-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BENDAOUD",
+        "code_postal": "31042",
+        "nom_exact": "HAI BENDAOUD -BIR EL DJIR-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-ANCOR",
+        "code_postal": "31043",
+        "nom_exact": "03 RUE COLONEL OTHMANE -EL ANCOR-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-MAHGOUN",
+        "code_postal": "31044",
+        "nom_exact": "12 RUE RAHMOUNI NACER -EL MOHGOUN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-MINZAH",
+        "code_postal": "31045",
+        "nom_exact": "06 RUE ZIROUT YOUCEF -EL MINZAH-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAI-CHAHID-MAHMOUD",
+        "code_postal": "31046",
+        "nom_exact": "HAI CHAHID MAHMOUD-HASSI BOUNIF-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAI-EMIR-ABDELKADER",
+        "code_postal": "31047",
+        "nom_exact": "HAI EMIR AEK"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HASSI-AMEUR",
+        "code_postal": "31048",
+        "nom_exact": "ROUTE NATIONALE -HASSI AMEUR-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HASSI-BEN-OKBA",
+        "code_postal": "31049",
+        "nom_exact": "HASSI BENOKBA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HASSI-MEFSOUKH",
+        "code_postal": "31050",
+        "nom_exact": "RUE EMIR AEK -HASSI MEFSOUKH-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "KHEMISTI",
+        "code_postal": "31051",
+        "nom_exact": "HAI KHEMISTI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "KRISTEL",
+        "code_postal": "31052",
+        "nom_exact": "KRISTEL"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "NAIB",
+        "code_postal": "31053",
+        "nom_exact": "DOUAR NAIB"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-C.DES- ENSEIGNANTS",
+        "code_postal": "31054",
+        "nom_exact": "HAI KHEMISTI 672 LOGTS -ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-DAR-BEIDA",
+        "code_postal": "31055",
+        "nom_exact": "CITE 880 LOGTS -DAR BEIDA-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-IBN-ROCHD",
+        "code_postal": "31056",
+        "nom_exact": "CITE 20 AOUT BT C8 -USTO-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-IZIDI-MOHAMED",
+        "code_postal": "31057",
+        "nom_exact": "1180 LOGTS ,BT04B MARAVALE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SIDI-BENYEBKA",
+        "code_postal": "31058",
+        "nom_exact": "SIDI BENYEBKA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-KARMA",
+        "code_postal": "31059",
+        "nom_exact": "LOCALITE AIN KERMA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AKID-OTHMANE",
+        "code_postal": "31060",
+        "nom_exact": "HAI AKID OTHMANE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARABA",
+        "code_postal": "31061",
+        "nom_exact": "DOUAR ARABA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AYAIDA",
+        "code_postal": "31062",
+        "nom_exact": "DOUAR AYAIDA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BENFREHA",
+        "code_postal": "31063",
+        "nom_exact": "RUE PRINCIPALE -BENFREHA-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BOU-SFER-PLAGE",
+        "code_postal": "31064",
+        "nom_exact": "BOUSFER PLAGE - BOUSFER - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "CHAIRIA",
+        "code_postal": "31065",
+        "nom_exact": "DOUAR CHAIRIA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "DADAYOUM",
+        "code_postal": "31067",
+        "nom_exact": "DOUAR DADAYOUM"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "DJEFAFLA",
+        "code_postal": "31068",
+        "nom_exact": "DOUAR DJEFAFLA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-BORDJ-EL-ABIADH",
+        "code_postal": "31069",
+        "nom_exact": "LOCALITE EL BOR4J EL ABIADH"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-BRAYA",
+        "code_postal": "31070",
+        "nom_exact": "HAI EL BRAYA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EN-NEDJMA",
+        "code_postal": "31071",
+        "nom_exact": "HAI EN NEDJMA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "FELLAOUSSENE-A.RAMDANE",
+        "code_postal": "31072",
+        "nom_exact": "FELLAOUCENE AVDELMALEK RAMDANE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "GOTNI",
+        "code_postal": "31073",
+        "nom_exact": "DOUAR EL GOTNI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "GRANINE",
+        "code_postal": "31074",
+        "nom_exact": "DOUAR GRANINE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAI-EL-AMEL",
+        "code_postal": "31075",
+        "nom_exact": "HAI EL AMEL - EL KARMA- ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HASSASNA",
+        "code_postal": "31076",
+        "nom_exact": "DOUAR HASSASNA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "KEHAILIA",
+        "code_postal": "31077",
+        "nom_exact": "DOUAR KEHAILIA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MAHDIA",
+        "code_postal": "31078",
+        "nom_exact": "DOUAR MAHDIA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MENATSIA",
+        "code_postal": "31079",
+        "nom_exact": "DOUAR MENATSIA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "RABAH",
+        "code_postal": "31080",
+        "nom_exact": "HAI RABAH"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SIDI-BAKHTI",
+        "code_postal": "31081",
+        "nom_exact": "DOUAR SIDI BAKHTI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SIDI-MAAROUF",
+        "code_postal": "31083",
+        "nom_exact": "HAI SIDI MAAROUF"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "TAFARAOUI",
+        "code_postal": "31084",
+        "nom_exact": "LOCALITE TAFRAOUI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-ACHABA-HANIFI",
+        "code_postal": "31085",
+        "nom_exact": "CITE 1500 LOGTS USTO - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MISSERGHINE-HAI-ZABANA",
+        "code_postal": "31086",
+        "nom_exact": "MISSERGHINE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-WILAYA",
+        "code_postal": "31087",
+        "nom_exact": "AHMED BENABDELMALEK -WILAYA-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SENIA-KARA",
+        "code_postal": "31088",
+        "nom_exact": "LOCALITE ES-SENIA KARA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BOUYAKOUR",
+        "code_postal": "31089",
+        "nom_exact": "LOCALITE BOUYAKOUR"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MERS EL HADJADJ ESALAM",
+        "code_postal": "31090",
+        "nom_exact": "LOCALITE MERS EL HADJADJ"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARRARSA",
+        "code_postal": "31091",
+        "nom_exact": "LOCALITE ARRASA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN IBN SINA",
+        "code_postal": "31092",
+        "nom_exact": "AV SIDI CHAHMI - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAI AKID LOTFI",
+        "code_postal": "31093",
+        "nom_exact": "HAI AKKID LOTFI - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SENIA 200 LOGTS",
+        "code_postal": "31094",
+        "nom_exact": "LOCALITE 200LOGTS - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAI-EL-YASMINE",
+        "code_postal": "31095",
+        "nom_exact": "HAI EL YASMINE -ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAY FELLAOUCENE",
+        "code_postal": "31096",
+        "nom_exact": "CITÃ‰ FELLOUCENE - EL BARKI - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MURDJAJO-ZDA3 (APM)",
+        "code_postal": "31097",
+        "nom_exact": "ZONE DE E DEFANCE AERIENNE(ZDA3) LES MOTS DE MURDAJADJO Â°"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SIDI-GHALEM",
+        "code_postal": "31098",
+        "nom_exact": "SIDI GHALEM"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "OUED-TLELAT-1ER NOVEMBRE",
+        "code_postal": "31099",
+        "nom_exact": "HAI 500LOGTS OUED TLELAT"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-AADL-1 063 LOGEMENTS",
+        "code_postal": "31100",
+        "nom_exact": "CITE AADL 1063 LOGTS -HAI ES SABAH - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-BENZARGA-HOUARI",
+        "code_postal": "31101",
+        "nom_exact": "25 RUE KHIALI BENSALEM DAE EL BEIDA -ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-BENBASSAL-BENAOUDA",
+        "code_postal": "31102",
+        "nom_exact": "POLE UNIVERSITAIRE -BIR EL DJIR"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAMOU-ALI",
+        "code_postal": "31103",
+        "nom_exact": "HAMOU ALI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-BELLE-VUE",
+        "code_postal": "31104",
+        "nom_exact": "HAI KHEMISTI ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EL-MAHGOUN-11 DECEMBRE 1960",
+        "code_postal": "31105",
+        "nom_exact": "850 LOGEMENTS BAT N° 03 EL MAHGOUN ARZEW"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN EHU 1 er novembre",
+        "code_postal": "31106",
+        "nom_exact": "HOPITAL HAI SABAH - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-CHU",
+        "code_postal": "31107",
+        "nom_exact": "HOPITAL CHU PLATEAU  - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SENIA-EL-MATAR",
+        "code_postal": "31108",
+        "nom_exact": "AEROPORT ES SENIA - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "OUED-TELILAT-ZAOUI-AZZEDINE",
+        "code_postal": "31109",
+        "nom_exact": "LA NOUVELLE CITE 3000 LOGEMENTS OUED TLELAT"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "EN-NEDJMA-BENYAKHOU-ALI-FETHI",
+        "code_postal": "31110",
+        "nom_exact": "CITE EL NEDJMA 07 EME TRANCHE ,COMMUNE DE SIDI CHAMI"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BETHIOUA-BENMLOUKA-BRAHIM",
+        "code_postal": "31111",
+        "nom_exact": "CHEF LIEU DE LA COMMUNE BETHIOUA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "GDYEL-ARIBI-MOHAMED",
+        "code_postal": "31112",
+        "nom_exact": "CITE 1050 LOGEMENTS, GDYEL"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "TOUMIAT-DHIBA-EL-HOUARI",
+        "code_postal": "31113",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-EL-BYA-BEN-HALIMA-MOHAMED",
+        "code_postal": "31114",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SABAH-BENKOUACHI-ABDESSALEM",
+        "code_postal": "31115",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SENIA-UNIVERSITE",
+        "code_postal": "31116",
+        "nom_exact": "ES-SENIA-UNIVERSITE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ES-SENIA-AIN-BEIDA-AADL",
+        "code_postal": "31117",
+        "nom_exact": "CITE AADL AIN BEIDA"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-ETABLISSEMENT-POSTAL-ITINERANT 1",
+        "code_postal": "31118",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-BEIDA (200)",
+        "code_postal": "",
+        "nom_exact": "CASERNE MILITAIRE - ES SENIA- ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARZEW (TERRE 2)",
+        "code_postal": "",
+        "nom_exact": "BASE MILITAIRE  ARZEW - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARZEW (TERRE)",
+        "code_postal": "",
+        "nom_exact": "BASE MILITAIRE  ARZEW - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BOU-SFER (AIR)",
+        "code_postal": "",
+        "nom_exact": "BASE MILITAIRE -BOUSFER- ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "MERS-EL-KEBIR(MARINE)",
+        "code_postal": "",
+        "nom_exact": "BASE MARITIME MERS EL KEBIR - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-AHMED-MEDEGHRI (AIR)",
+        "code_postal": "",
+        "nom_exact": "CASERNE MILITAIRE - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-AHMED-MEDEGHRI (TERRE 2)",
+        "code_postal": "",
+        "nom_exact": "CASERNE MILITAIRE - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "AIN-TESSA",
+        "code_postal": "",
+        "nom_exact": "AIN TASSA - BOUTLELIS -ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARZEW-AHMED-ZABANA",
+        "code_postal": "",
+        "nom_exact": "CITE AHMED ZABANA - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ARZEW-KHELIFA-BENMAHMOUD",
+        "code_postal": "",
+        "nom_exact": "COMPLEXE - ARZEW - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "HAI-WIAAM",
+        "code_postal": "",
+        "nom_exact": "HAI WIAAM -MISSERGUINE - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-FELLAOUSSENE",
+        "code_postal": "",
+        "nom_exact": "HANIFI MOHAMED - ORAN FELLAOUCENE"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-LAFONTAINE",
+        "code_postal": "",
+        "nom_exact": "CITE JEAN LA FANTAINE-ORAN-"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-MEKKI-KHELIFA",
+        "code_postal": "",
+        "nom_exact": "CITE LES LAURIERS ROSES -MARAVALE-ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "ORAN-USTO",
+        "code_postal": "",
+        "nom_exact": "UNIVERSITE USTO- ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "KHEDIM MUSTAPHA",
+        "code_postal": "",
+        "nom_exact": "BD  STALINGRAD - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "SENIA LE VOLONTAIRE",
+        "code_postal": "",
+        "nom_exact": "CITE  UNIVERSITE  - ES SENIA - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "RUSTO-ZEDDOUR BRAHIM",
+        "code_postal": "",
+        "nom_exact": "CITE USTO -UNIVERSITE C1 - ORAN"
+    },
+    {
+        "wilaya": "ORAN",
+        "nom": "BENDAOUD 2-BEN-YAMINA-MOHAMED",
+        "code_postal": "",
+        "nom_exact": "BEN DAOUAD - BIR EL DJIR - ORAN"
+    }
+]

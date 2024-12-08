@@ -1,0 +1,272 @@
+[
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-RP",
+        "code_postal": "38000",
+        "nom_exact": "RUE 24 FEVRIER"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BORDJ-BOUNAAMA",
+        "code_postal": "38001",
+        "nom_exact": "RUE HOUARI BOUMADIENE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "LARDJEM",
+        "code_postal": "38002",
+        "nom_exact": "RUE EMIR AEK"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "THENIET-EL-HAD",
+        "code_postal": "38003",
+        "nom_exact": "HAI FRERE MAALAG LAARBI"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BORDJ-EMIR-AEK",
+        "code_postal": "38004",
+        "nom_exact": "RUE CHAHID ACHOUR"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BOUCAID",
+        "code_postal": "38005",
+        "nom_exact": "RUE AKAD MEFTAH"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "KHEMISTI",
+        "code_postal": "38006",
+        "nom_exact": "HAI 05 JUILLET"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "LAAYOUNE",
+        "code_postal": "38007",
+        "nom_exact": "RUE DES FRERES HARHAR"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "LAZHARIA",
+        "code_postal": "38008",
+        "nom_exact": "BD DJILALI BOUNAAMA"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-BENCHERKI",
+        "code_postal": "38009",
+        "nom_exact": "RUE BENCHERKI"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-BENHAMOUDA",
+        "code_postal": "38010",
+        "nom_exact": "RUE DE L'HOPITAL"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-EL-MERDJA",
+        "code_postal": "38011",
+        "nom_exact": "CITE EL MERDJA"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "AMMARI",
+        "code_postal": "38012",
+        "nom_exact": "RUE OUABEL ALI"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "MELAAB",
+        "code_postal": "38013",
+        "nom_exact": "HAI BELKACEM RABAH"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "OULED-BESSEM",
+        "code_postal": "38014",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "AIN-EL-KERMA",
+        "code_postal": "38015",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "AIN-FERRADJA",
+        "code_postal": "38016",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "AIN-GUERGOUR",
+        "code_postal": "38017",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "AMROUNA",
+        "code_postal": "38018",
+        "nom_exact": "HAI AHMED BOUCHAIB"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BENI-CHAIB",
+        "code_postal": "38019",
+        "nom_exact": "HAI DAANOUNE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BENI-LAHCEN",
+        "code_postal": "38020",
+        "nom_exact": "HAI MOSTAFA ZERRAR"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "DOUI-HASNI",
+        "code_postal": "38021",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "LARBAA",
+        "code_postal": "38022",
+        "nom_exact": "HAI 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "MAACEM",
+        "code_postal": "38023",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "MEGUISBA",
+        "code_postal": "38024",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "SIDI-ABED",
+        "code_postal": "38025",
+        "nom_exact": "HAI CHAHID BAKI RABAH"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "SIDI-BOUTOUCHENT",
+        "code_postal": "38026",
+        "nom_exact": "HAI BENSFAYA SAID"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "SIDI-LANTRI",
+        "code_postal": "38027",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "SIDI-SLIMANE",
+        "code_postal": "38028",
+        "nom_exact": "RUE MED BOUDIAF"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TAMELLAHET",
+        "code_postal": "38029",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TAMEZLAIT",
+        "code_postal": "38030",
+        "nom_exact": "RUE PRINCIPALE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "YOUSSOUFIA",
+        "code_postal": "38031",
+        "nom_exact": "HAI 16 LOGTS"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "THENIET-EL-HAD-EL-MEDDAD",
+        "code_postal": "38032",
+        "nom_exact": "RUE DE L'INDIPENDANCE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BENI-MAIDA",
+        "code_postal": "38033",
+        "nom_exact": "RUE DE L'INDIPENDANCE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-EL-HIDHAB",
+        "code_postal": "38034",
+        "nom_exact": "HAI 463 LOGTS"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-NAANAA-AHMED",
+        "code_postal": "38035",
+        "nom_exact": "HAI 26 LOGTS"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-BELAID-BENAZZOUZ",
+        "code_postal": "38036",
+        "nom_exact": "HAI 154 LOGTS"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "KHEMISTI-BOUBTANA-BEN-AMER",
+        "code_postal": "38037",
+        "nom_exact": "RUE  EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-CENTRE-UNIVERSITAIRE-EL-WANCHARISSI",
+        "code_postal": "38038",
+        "nom_exact": "CENTRE UNIVERSITAIRE AHMED BEN YAHIA EL WANCHARISSI,TISSEMSILT"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "KHEMISTI-BENGOUCHA-MOHAMMED",
+        "code_postal": "38039",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "OULED-BESSEM-01-NOVEMBRE",
+        "code_postal": "38040",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "BORDJ-EMIR-ABDELKADER-SAHARI-BELKACEM",
+        "code_postal": "38041",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-GARE-ROUTIERE",
+        "code_postal": "38042",
+        "nom_exact": "TISSEMSILT-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "TISSEMSILT-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "38043",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TISSEMSILT",
+        "nom": "THENIET-EL-HAD-HOPITAL",
+        "code_postal": "",
+        "nom_exact": "HOPITAL THENIET EL HAD"
+    }
+]

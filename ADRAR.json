@@ -1,0 +1,452 @@
+[
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-RP",
+        "code_postal": "1000",
+        "nom_exact": "ADRAR CENTRE RUE DES MARYTIM"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMIMOUN",
+        "code_postal": "1001",
+        "nom_exact": "APC TIMIMOUN"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-SIDI-MED-BELEKBIR",
+        "code_postal": "1002",
+        "nom_exact": "CITE 140 LOGTS ADRAR DJADIDA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "AOULEF",
+        "code_postal": "1003",
+        "nom_exact": "DAIRA AOULEF"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "REGGANE",
+        "code_postal": "1004",
+        "nom_exact": "DAIRA REGGANE CENTRE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR 1ER NOV.54",
+        "code_postal": "1005",
+        "nom_exact": "CITE 400LOGTS ADRAR CENTRE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR CITE ADMINISTRATIVE",
+        "code_postal": "1006",
+        "nom_exact": "CITE ADM ADRAR TILLILANE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ZAOUIET-KOUNTA",
+        "code_postal": "1007",
+        "nom_exact": "DAIRA ZT KOUNTA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ZAOUIET-SIDI-AEK",
+        "code_postal": "1008",
+        "nom_exact": "DAIRA FENOUGIL"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "SALI",
+        "code_postal": "1009",
+        "nom_exact": "APC SALI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BORDJ-BADJI-MOKHTAR",
+        "code_postal": "1010",
+        "nom_exact": "DAIR BBM"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "T'SABIT",
+        "code_postal": "1011",
+        "nom_exact": "DAIRA TSABIT"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIBERGHAMINE",
+        "code_postal": "1012",
+        "nom_exact": "DAIRA AOUGROUT"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ZAOUIET-DEBBAGH",
+        "code_postal": "1013",
+        "nom_exact": "DAIRA ZT DEBBAGH"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "CHAROUINE",
+        "code_postal": "1014",
+        "nom_exact": "DAIRA CHAROUINE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BRINKANE",
+        "code_postal": "1015",
+        "nom_exact": "KSAR BRINKANE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADGHA",
+        "code_postal": "1016",
+        "nom_exact": "ADRAR KSAR ADGHA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BAHOU",
+        "code_postal": "1017",
+        "nom_exact": "KSAR BAHOU"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-HAY-EL-GHARBI",
+        "code_postal": "1018",
+        "nom_exact": "ADRAR HAI EL GHARBI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OUDJLANE",
+        "code_postal": "1019",
+        "nom_exact": "APC TSABIT"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "DJEDID",
+        "code_postal": "1020",
+        "nom_exact": "APC TAMEST"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BOUFADI",
+        "code_postal": "1021",
+        "nom_exact": "KSAR BOUFADI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "SBAA",
+        "code_postal": "1022",
+        "nom_exact": "APC SBAA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BOUDA-EL-MANSOUR",
+        "code_postal": "1023",
+        "nom_exact": "APC BOUDA EL MANSOUR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "LAHMEUR",
+        "code_postal": "1024",
+        "nom_exact": "APC LAHMEUR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OULED-AHMED",
+        "code_postal": "1025",
+        "nom_exact": "APC OAHMED"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BOUDA-BENDRAOU",
+        "code_postal": "1026",
+        "nom_exact": "APC BOUDA BEN DRAOU"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OUADGHA",
+        "code_postal": "1027",
+        "nom_exact": "KSAR OUDGHA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TITTAF",
+        "code_postal": "1028",
+        "nom_exact": "APC TAMEST"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TAMENTIT",
+        "code_postal": "1029",
+        "nom_exact": "APC TAMENTIT"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "MELOUKA",
+        "code_postal": "1030",
+        "nom_exact": "KSAR MLOUKA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIT",
+        "code_postal": "1031",
+        "nom_exact": "KSAR TIMOKTEN"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "AJDIR",
+        "code_postal": "1032",
+        "nom_exact": "KSAR ADJADIR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OULED-MAHMOUD",
+        "code_postal": "1033",
+        "nom_exact": "KSAR O/MAHMOUD"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TALMINE",
+        "code_postal": "1034",
+        "nom_exact": "APC TALMINE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "KSAR-KADDOUR",
+        "code_postal": "1035",
+        "nom_exact": "KSAR KADDOUR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OULED-ABBOU",
+        "code_postal": "1036",
+        "nom_exact": "KSAR O/ABBOU"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "M'GUIDEN",
+        "code_postal": "1037",
+        "nom_exact": "APC MGUIDEN"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "METARFA",
+        "code_postal": "1038",
+        "nom_exact": "KSAR METARFA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OULED-SAID",
+        "code_postal": "1039",
+        "nom_exact": "KSARO/SAID"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BOUALI",
+        "code_postal": "1040",
+        "nom_exact": "KSAR BOUALI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "IN-BELBEL",
+        "code_postal": "1041",
+        "nom_exact": "KSAR INBELBEL"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMIAOUINE",
+        "code_postal": "1042",
+        "nom_exact": "APC TIMIAOUINE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMOKTENE",
+        "code_postal": "1043",
+        "nom_exact": "APC TIMOKTEN"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "AKABLI",
+        "code_postal": "1044",
+        "nom_exact": "KSAR AKABLI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "IN-ZEGLOUF",
+        "code_postal": "1045",
+        "nom_exact": "KSAR INZAGLOUF"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TINOURT",
+        "code_postal": "1046",
+        "nom_exact": "APC SALI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TILLOULINE",
+        "code_postal": "1047",
+        "nom_exact": "KSAR INZAGMIR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMADANINE",
+        "code_postal": "1048",
+        "nom_exact": "KSAR TIMADANINE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIDMAINE",
+        "code_postal": "1049",
+        "nom_exact": "KSAR TIDMAINE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TITTAOUINE-LAKHRASSE",
+        "code_postal": "1050",
+        "nom_exact": "APC INZAGMIR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OULED-AISSA",
+        "code_postal": "1051",
+        "nom_exact": "APC O/AISSA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMIMOUN-ZAOUIET-EL-MA",
+        "code_postal": "1052",
+        "nom_exact": "TIMIMOUN CENTE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BADRIANE",
+        "code_postal": "1053",
+        "nom_exact": "KSAR BADRIANE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "FATIS",
+        "code_postal": "1054",
+        "nom_exact": "KSAR FATIS"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TAOURIST",
+        "code_postal": "1055",
+        "nom_exact": "KSAR TAOURIST"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BERRICHE",
+        "code_postal": "1056",
+        "nom_exact": "KSAR EL BERRICH"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BOUDA-LEGHMARA",
+        "code_postal": "1057",
+        "nom_exact": "KSAR BOUDA LAGMARA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TAGHOUZI",
+        "code_postal": "1058",
+        "nom_exact": "KSAR TAGHOUZI"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "OULED-RACHED",
+        "code_postal": "1059",
+        "nom_exact": "KSAR O/RACHED"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMIMOUN-HAY-BELBEY",
+        "code_postal": "1060",
+        "nom_exact": "HAI BELBEY TIMIMOUN"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TINERKOUK",
+        "code_postal": "1061",
+        "nom_exact": "KSAR TINERKOUK"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-CITE-ZERRARI-MED",
+        "code_postal": "1062",
+        "nom_exact": "HAI 200LOGTS ADRAR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-UNIVERSITE",
+        "code_postal": "1063",
+        "nom_exact": "UNIVERSITY ADRAR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-CITE-UNIVERSITAIRE",
+        "code_postal": "1064",
+        "nom_exact": "CITE UNIVERSITY TILLILANE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-GARE-ROUTIERE",
+        "code_postal": "1065",
+        "nom_exact": "ADRAR GARE ROUTIERRE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIMIMOUN-GARE-ROUTIERE",
+        "code_postal": "1066",
+        "nom_exact": "TIMIMOUN GARE ROUTIERE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "REGGANE-CHEIKH-MOULAY-ABDELLAH-EL-REGGANI",
+        "code_postal": "1067",
+        "nom_exact": "REGGANE EL DJADIDA,ADRAR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "BORDJ-BADJI-MOKHTAR-MENAD-M'HAMED",
+        "code_postal": "1068",
+        "nom_exact": "SIEGE SECTEUR MILITAIRE OPERATIONNEL, B,B,MOKHTAR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TIOURIRINE",
+        "code_postal": "1069",
+        "nom_exact": "TIOURIRINE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ZAOUIET-SIDI-OMEUR",
+        "code_postal": "1070",
+        "nom_exact": "ZAOUIET-SIDI-OMEUR"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "ADRAR-BUREAU-ITINERANT-1",
+        "code_postal": "1071",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "GOURARA",
+        "code_postal": "1072",
+        "nom_exact": "GOURARA"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "TANZROUFTE",
+        "code_postal": "1073",
+        "nom_exact": "TANZROUFTE"
+    },
+    {
+        "wilaya": "ADRAR",
+        "nom": "AOULEF-TIDIKLETE",
+        "code_postal": "1074",
+        "nom_exact": "AOULEF-TIDIKLETE"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-RP",
+        "code_postal": "37000",
+        "nom_exact": "HAI KSABI"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-HASSI-AMAR",
+        "code_postal": "37001",
+        "nom_exact": "HASSI-AMMAR"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-HAI-NASR",
+        "code_postal": "37002",
+        "nom_exact": "HAI-NASR"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "OUM-EL-ASSEL",
+        "code_postal": "37003",
+        "nom_exact": "OUM-EL-ASSEL"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "GARA-DJEBILET",
+        "code_postal": "37004",
+        "nom_exact": "GARA-DJEBILET"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "HASSI-KHEBI",
+        "code_postal": "37005",
+        "nom_exact": "HASSI-KHEBI"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "HASSI-MOUNIR",
+        "code_postal": "37006",
+        "nom_exact": "HASSI-MOUNIR"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-SECTEUR",
+        "code_postal": "37007",
+        "nom_exact": "HAI REMADIN"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-EL-MOUSTAKBEL",
+        "code_postal": "37008",
+        "nom_exact": "EL-MOUSTAKBEL"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-01-NOVEMBRE-1954",
+        "code_postal": "37009",
+        "nom_exact": "48 EME BRIGADE D'INFANTERIE MECANISEE,TINDOUF"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-05-JUILLET-1962",
+        "code_postal": "37010",
+        "nom_exact": "9EME BRIGADE BLINDEE,TINDOUF"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-UNIVERSITE",
+        "code_postal": "37011",
+        "nom_exact": "CENTRE UNIVERSITAIRE,TINDOUF"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-GARE-ROUTIERE",
+        "code_postal": "37012",
+        "nom_exact": "CITE HAI ENNASR, GARE ROUTIERE DE TINDOUF"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "OUM-EL-ASSEL-COLONEL-LOTFI",
+        "code_postal": "37013",
+        "nom_exact": "FORT LOTFI, TINDOUF"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-SGHIR-MOHAMMED",
+        "code_postal": "37014",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-LAFDIL-MOHAMMED",
+        "code_postal": "37015",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-BOUMEDIENE-SIDI-BRAHIM",
+        "code_postal": "37016",
+        "nom_exact": "HAI REMADIN"
+    },
+    {
+        "wilaya": "TINDOUF",
+        "nom": "TINDOUF-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "37017",
+        "nom_exact": ""
+    }
+]

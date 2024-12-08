@@ -1,0 +1,476 @@
+[
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-RP",
+        "code_postal": "9000",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUFARIK",
+        "code_postal": "9001",
+        "nom_exact": "BOUFARIK"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "LARBAA",
+        "code_postal": "9002",
+        "nom_exact": "LARBAA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BENI-MERED",
+        "code_postal": "9003",
+        "nom_exact": "BENI-MERED"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-BAB-DJAZAIR",
+        "code_postal": "9004",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-BEN-MOKADEM",
+        "code_postal": "9005",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-TERRE 1",
+        "code_postal": "9006",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUFARIK-PLACE DES MARTYRS",
+        "code_postal": "9007",
+        "nom_exact": "BOUFARIK"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUGARA",
+        "code_postal": "9008",
+        "nom_exact": "BOUGARA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "CHEBLI",
+        "code_postal": "9009",
+        "nom_exact": "CHEBLI"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "CHIFFA",
+        "code_postal": "9010",
+        "nom_exact": "CHIFFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "EL-AFFROUN",
+        "code_postal": "9011",
+        "nom_exact": "EL-AFFROUN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "MEFTAH",
+        "code_postal": "9012",
+        "nom_exact": "MEFTAH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "MOUZAIA",
+        "code_postal": "9013",
+        "nom_exact": "MOUZAIA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "OUED-EL-ALLEUG",
+        "code_postal": "9014",
+        "nom_exact": "OUED-EL-ALLEUG"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "OULED-YAICH",
+        "code_postal": "9015",
+        "nom_exact": "OULED-YAICH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-BEN-BOULAID",
+        "code_postal": "9016",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-BOUNAAMA-DJILLALI",
+        "code_postal": "9017",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-ZABANA",
+        "code_postal": "9018",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUARFA",
+        "code_postal": "9019",
+        "nom_exact": "BOUARFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUINAN",
+        "code_postal": "9020",
+        "nom_exact": "BOUINAN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "MOUZAIA-BEN-ALI-AHMED",
+        "code_postal": "9021",
+        "nom_exact": "MOUZAIA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SOUMAA",
+        "code_postal": "9022",
+        "nom_exact": "SOUMAA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "AIN-ROMANA",
+        "code_postal": "9023",
+        "nom_exact": "AIN-ROMANA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BENI-TAMOU",
+        "code_postal": "9024",
+        "nom_exact": "BENI-TAMOU"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BEN-KHELLIL",
+        "code_postal": "9025",
+        "nom_exact": "BEN-KHELLIL"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-BEN-ACHOUR",
+        "code_postal": "9026",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "CHREA",
+        "code_postal": "9027",
+        "nom_exact": "CHREA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "DJEBABRA",
+        "code_postal": "9028",
+        "nom_exact": "DJEBABRA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "GUERROUAOU",
+        "code_postal": "9029",
+        "nom_exact": "GUERROUAOU"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "HAMMAM-EL-OUANE",
+        "code_postal": "9030",
+        "nom_exact": "HAMMAM-EL-OUANE"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "KHAZROUNA",
+        "code_postal": "9031",
+        "nom_exact": "BENI-MERED"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "OUED-DJER",
+        "code_postal": "9032",
+        "nom_exact": "OUED-DJER"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "OULED-SELAMA",
+        "code_postal": "9033",
+        "nom_exact": "OULED-SLAMA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SOHANE",
+        "code_postal": "9034",
+        "nom_exact": "SOHANE"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "AHL-EL-OUED-ETHENIA",
+        "code_postal": "9035",
+        "nom_exact": "CHIFFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "AMROUSSA",
+        "code_postal": "9036",
+        "nom_exact": "BOUINAN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BEN-CHAABANE",
+        "code_postal": "9037",
+        "nom_exact": "BEN-KHELLIL"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BEN-HAMDANI",
+        "code_postal": "9038",
+        "nom_exact": "BEN-KHELLIL"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BENI-CHOUGRANE",
+        "code_postal": "9039",
+        "nom_exact": "MOUZAIA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BENI-MISSERA",
+        "code_postal": "9040",
+        "nom_exact": "HAMMAM-EL-OUANE"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BENI-MOUMENE",
+        "code_postal": "9041",
+        "nom_exact": "EL-AFFROUN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BEN-SALAH",
+        "code_postal": "9042",
+        "nom_exact": "OUED-EL-ALLEUG"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-R'MEL",
+        "code_postal": "9043",
+        "nom_exact": "BOUARFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BORDJ-EMIR-AEK",
+        "code_postal": "9044",
+        "nom_exact": "CHIFFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "DOUAR-BAHLI",
+        "code_postal": "9045",
+        "nom_exact": "SOUMAA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "DRIOUECHE",
+        "code_postal": "9046",
+        "nom_exact": "BOUARFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "HALLOUYA",
+        "code_postal": "9047",
+        "nom_exact": "SOUMAA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "MELLAHA",
+        "code_postal": "9048",
+        "nom_exact": "BOUINAN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SIDI-AID",
+        "code_postal": "9049",
+        "nom_exact": "BOUFARIK"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SIDI-EL-KEBIR",
+        "code_postal": "9050",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SIDI-MADANI",
+        "code_postal": "9051",
+        "nom_exact": "CHIFFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SOUAKHRIA",
+        "code_postal": "9052",
+        "nom_exact": "MEFTAH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "TABAINETTE",
+        "code_postal": "9053",
+        "nom_exact": "CHEBLI"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "ZAOUIA",
+        "code_postal": "9054",
+        "nom_exact": "BENI-TAMOU"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BAB-ERRAHBA",
+        "code_postal": "9055",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUFARIK CITE DU STADE",
+        "code_postal": "9056",
+        "nom_exact": "BOUFARIK"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "LARBAA-FAHS",
+        "code_postal": "9057",
+        "nom_exact": "LARBAA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "OULED-YAICH 1ER MAI",
+        "code_postal": "9058",
+        "nom_exact": "OULED-YAICH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "CITE-ABOUDI",
+        "code_postal": "9059",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "LAABAZIZ",
+        "code_postal": "9060",
+        "nom_exact": "BOUGARA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SIDI-HAMED",
+        "code_postal": "9061",
+        "nom_exact": "MEFTAH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "RIHANE",
+        "code_postal": "9062",
+        "nom_exact": "AIN-ROMANA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "OUED-KERROUCHE",
+        "code_postal": "9063",
+        "nom_exact": "CHIFFA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "HASSAINIA",
+        "code_postal": "9064",
+        "nom_exact": "BOUINAN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "CINQ-PALMIERS",
+        "code_postal": "9066",
+        "nom_exact": "OUED-EL-ALLEUG"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "M'HADA",
+        "code_postal": "9067",
+        "nom_exact": "MEFTAH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-UNIVERSITE",
+        "code_postal": "9068",
+        "nom_exact": "OULED-YAICH"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-ENTA",
+        "code_postal": "9069",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-UNIVERSITE 2",
+        "code_postal": "9070",
+        "nom_exact": "EL-AFFROUN"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-GARNISON",
+        "code_postal": "9071",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUFARIK-AIR",
+        "code_postal": "9072",
+        "nom_exact": "BOUFARIK"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-ECOLE-DES-TECHNIQUES-DE-L'INTENDANCE",
+        "code_postal": "9073",
+        "nom_exact": "BLIDA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "SOUMAA-ECOLE-DE-POLICE",
+        "code_postal": "9074",
+        "nom_exact": "SOUMAA"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BOUGARA-NOUVELLE-VILLE",
+        "code_postal": "9075",
+        "nom_exact": "BOUGARA-NOUVELLE-VILLE"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "EL-AFFROUN-2",
+        "code_postal": "9076",
+        "nom_exact": "EL-AFFROUN-2"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-GARE-ROUTIERE",
+        "code_postal": "9077",
+        "nom_exact": "BLIDA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "HAMMAM-MELOUANE-NOUVELLE-CITE",
+        "code_postal": "9078",
+        "nom_exact": "HAMMAM-MELOUANE-NOUVELLE-CITE"
+    },
+    {
+        "wilaya": "BLIDA",
+        "nom": "BLIDA-ETABLISSEMENT-POSTAL-ITINERANT-1",
+        "code_postal": "9079",
+        "nom_exact": ""
+    }
+]

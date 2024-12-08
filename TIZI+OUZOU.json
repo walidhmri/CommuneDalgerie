@@ -1,0 +1,1010 @@
+[
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-OUZOU-RP",
+        "code_postal": "15000",
+        "nom_exact": "BD COLONNEL AMIROUCHE T,O"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AZAZGA-CHERIFI-ALI-IBN-AREZKI",
+        "code_postal": "15001",
+        "nom_exact": "CHERIFI ALI TIZI BOUCHENE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIN-EL-HAMMAM",
+        "code_postal": "15002",
+        "nom_exact": "RUE, 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOGHNI",
+        "code_postal": "15003",
+        "nom_exact": "REU, AMICHE AHCENE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DRAA-BEN-KHEDDA",
+        "code_postal": "15004",
+        "nom_exact": "BD COLONEL AMIROUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DRAA-EL-MIZAN",
+        "code_postal": "15005",
+        "nom_exact": "ROUTE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "LARBAA-NATH-IRATHEN",
+        "code_postal": "15006",
+        "nom_exact": "BD COLONEL AMIROUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-OUZOU-ANNANE-RABAH",
+        "code_postal": "15007",
+        "nom_exact": "NVLLE VILLE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-OUZOU-CHIKH-AMAR-OUMHAND",
+        "code_postal": "15008",
+        "nom_exact": "RUE SUIOBES RABAH EX BD EST"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-IKHLEF",
+        "code_postal": "15009",
+        "nom_exact": "BD COLONEL MOHAND OULHADI"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AZEFFOUN-ILLOULI-SAID-ET-MOHAMED",
+        "code_postal": "15010",
+        "nom_exact": "RUE DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BENI-DOUALA",
+        "code_postal": "15011",
+        "nom_exact": "BENI DOUALA CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "FREHA",
+        "code_postal": "15012",
+        "nom_exact": "FREHA CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IFERHOUNENE",
+        "code_postal": "15013",
+        "nom_exact": "AVENUE DU 20 AOUT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MEKLA",
+        "code_postal": "15014",
+        "nom_exact": "MEKLA CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "OUACIF",
+        "code_postal": "15015",
+        "nom_exact": "OUACIF CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "OUADHIA",
+        "code_postal": "15016",
+        "nom_exact": "BD COLONEL AMIROUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "SOUK-EL-KHEMIS-HASSANI-ALI",
+        "code_postal": "15017",
+        "nom_exact": "PLACEDE MAIRIE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TADMAIT",
+        "code_postal": "15018",
+        "nom_exact": "AVENUE DU 20 AOUT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIGZIRT",
+        "code_postal": "15019",
+        "nom_exact": "RUE AHMED CHAFAI"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-GHENIFF",
+        "code_postal": "15020",
+        "nom_exact": "AVENUE CMT BELLAOUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGHRIB",
+        "code_postal": "15021",
+        "nom_exact": "VILLAGE AGHRIB"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOUNI-GUEGHRANE",
+        "code_postal": "15022",
+        "nom_exact": "AGOUNI GUEGHRANE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOUNI-OUADELLAH",
+        "code_postal": "15023",
+        "nom_exact": "VILLAGE AGOUNI OUADELLAH"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-BOUADOU-KACED-AHMED",
+        "code_postal": "15024",
+        "nom_exact": "PLACE SLIMANI MOHANED"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-IDJA",
+        "code_postal": "15025",
+        "nom_exact": "AIT IDIR"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-YAHIA-MOUSSA",
+        "code_postal": "15026",
+        "nom_exact": "AIT YAHIA MOUSSA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AKERROU",
+        "code_postal": "15027",
+        "nom_exact": "AGOULMIME"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ALMA-BENI-ZMENZER",
+        "code_postal": "15028",
+        "nom_exact": "ALMA BENI ZMENZER CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BENI-YENNI",
+        "code_postal": "15029",
+        "nom_exact": "BENI YENNI"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUDJIMA-OUGACHE-ALI",
+        "code_postal": "15030",
+        "nom_exact": "BOUDJIMA CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUNOUH",
+        "code_postal": "15031",
+        "nom_exact": "BOUNOUH CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DJEBEL-AISSA-MIMOUN",
+        "code_postal": "15032",
+        "nom_exact": "VILLAGE TALA ILLILANE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DJEMAA-SAHARIDJ",
+        "code_postal": "15033",
+        "nom_exact": "DJEMAA SAHARIDJ"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IFIGHA",
+        "code_postal": "15034",
+        "nom_exact": "IFIGHA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IGUERSAFENE",
+        "code_postal": "15035",
+        "nom_exact": "IGUERSAFENE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ILLILTEN",
+        "code_postal": "15036",
+        "nom_exact": "CHEMIN DE WILLAYA NÂ°253"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ILLOULA-OUMALOU",
+        "code_postal": "15037",
+        "nom_exact": "RUE BOUDJEROUNA  SAID"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IRDJEN",
+        "code_postal": "15038",
+        "nom_exact": "TAMAZIRT CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IZARAZENE",
+        "code_postal": "15039",
+        "nom_exact": "IZARAZENE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MAKOUDA",
+        "code_postal": "15040",
+        "nom_exact": "RUE8 MAI 1945"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MECHTRAS",
+        "code_postal": "15041",
+        "nom_exact": "RUE NATIONAL NÂ° 30"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "SIDI-NAAMANE",
+        "code_postal": "15042",
+        "nom_exact": "SIDI NAMANE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "SOUAMA",
+        "code_postal": "15043",
+        "nom_exact": "SOUAMA CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAGUEMOUNT-AZOUZ",
+        "code_postal": "15044",
+        "nom_exact": "VILLAGE TAGT AZZOUZ"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAMDA",
+        "code_postal": "15045",
+        "nom_exact": "TAMDA CENTRE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIGHILT-BOUGHENI",
+        "code_postal": "15046",
+        "nom_exact": "RUE COLONEL ALI MELLAH"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIKOBAIN",
+        "code_postal": "15047",
+        "nom_exact": "ROUTE DU CEM"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIRMITINE",
+        "code_postal": "15048",
+        "nom_exact": "CITE EL BORDJ"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-N'TLETA",
+        "code_postal": "15049",
+        "nom_exact": "TIZI NTLETA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-RACHED",
+        "code_postal": "15050",
+        "nom_exact": "RUE BOUCHFIAA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "YAKOUREN",
+        "code_postal": "15051",
+        "nom_exact": "RUE ABANE RAMDANE NÂ°12"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "YATAFENE",
+        "code_postal": "15052",
+        "nom_exact": "YATEFFANE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOUNI-BOUAFIR",
+        "code_postal": "15053",
+        "nom_exact": "AGOUNI BOUAFIR"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOUNI-BOURAGH",
+        "code_postal": "15054",
+        "nom_exact": "AGOUNI BOURAGH"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIN-ZAOUIA",
+        "code_postal": "15055",
+        "nom_exact": "AIN ZAOUIA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-ABDELKRIM",
+        "code_postal": "15056",
+        "nom_exact": "BUREAU DE POSTE OUADHIA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-ABDELMOUMENE",
+        "code_postal": "15057",
+        "nom_exact": "AIT ABDELMOUMENE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-AGOUACHA",
+        "code_postal": "15058",
+        "nom_exact": "AIT AGUOUACHA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-CHAFFA",
+        "code_postal": "15059",
+        "nom_exact": "AIT CHAFFA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-SAADA",
+        "code_postal": "15060",
+        "nom_exact": "AIT SAADA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-SAID-HNADSSI-AMAR",
+        "code_postal": "15061",
+        "nom_exact": "AIT SAID"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-TOUDERT",
+        "code_postal": "15062",
+        "nom_exact": "AIT TOUDERT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ATTOUCHE",
+        "code_postal": "15063",
+        "nom_exact": "ATTOUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BENI-KOUFFI",
+        "code_postal": "15064",
+        "nom_exact": "POSTE BOGHNI"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BENI-MENDES",
+        "code_postal": "15065",
+        "nom_exact": "RUE ALLILI DAHMANE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUKHALFA",
+        "code_postal": "15066",
+        "nom_exact": "ROUTE PRINCIPALE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "FRIKAT",
+        "code_postal": "15067",
+        "nom_exact": "VILLAGE FRIKAT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IFLISSEN",
+        "code_postal": "15068",
+        "nom_exact": "IFLISSEN"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IGHIL-BOUZROU",
+        "code_postal": "15069",
+        "nom_exact": "HITEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "SOUK-EL-TENINE",
+        "code_postal": "15070",
+        "nom_exact": "SOUK EL T'NINE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAGUEMOUNT-OUKERROUCHE",
+        "code_postal": "15071",
+        "nom_exact": "TAGT OUKERROUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAKA-ATH-YAHIA",
+        "code_postal": "15072",
+        "nom_exact": "TAJKA ATH YAHIA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TASSAFT",
+        "code_postal": "15073",
+        "nom_exact": "TASSAFT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIFRA-TALMAT-AMAR-ALI",
+        "code_postal": "15074",
+        "nom_exact": "TIFRA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIFRIT-NAIT-EL-HADJ",
+        "code_postal": "15075",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ZEKRI",
+        "code_postal": "15076",
+        "nom_exact": "ZEKRI"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ABIZAR",
+        "code_postal": "15077",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ADILA-TAMDIKHT",
+        "code_postal": "15078",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOULMIME",
+        "code_postal": "15079",
+        "nom_exact": "AGOULMIME"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOUNI-OUFEKOUS",
+        "code_postal": "15080",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AGOUNI-OUZARAZ",
+        "code_postal": "15081",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-ATELLI",
+        "code_postal": "15082",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-BOUADA",
+        "code_postal": "15083",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-BOUMAHDI",
+        "code_postal": "15084",
+        "nom_exact": "HOTE DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-ERGANE",
+        "code_postal": "15085",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-FRAH",
+        "code_postal": "15086",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-HESSANE",
+        "code_postal": "15087",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-HICHEM",
+        "code_postal": "15088",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-IDIR",
+        "code_postal": "15089",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-IMGHOUR",
+        "code_postal": "15090",
+        "nom_exact": "HOTE DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-ISSAD",
+        "code_postal": "15091",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-MISLAINE",
+        "code_postal": "15092",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-OUABANE",
+        "code_postal": "15093",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-SMADH",
+        "code_postal": "15094",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-YOUCEF",
+        "code_postal": "15095",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIT-ZELLAL",
+        "code_postal": "15096",
+        "nom_exact": "AIT-ZELLAL"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AKAOUDJ",
+        "code_postal": "15097",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AKBIL",
+        "code_postal": "15098",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AZIB-EL-MADJENE",
+        "code_postal": "15099",
+        "nom_exact": "ATTOUCHE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AZOUZA",
+        "code_postal": "15100",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AZROUBAR-SIDHOUM-MOHAMED",
+        "code_postal": "15101",
+        "nom_exact": "AZROUBAR AIT SAID"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BERKOUKA-AMAR-AKLI",
+        "code_postal": "15102",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUBEHIR",
+        "code_postal": "15103",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUFHAIMA",
+        "code_postal": "15104",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUHADJ",
+        "code_postal": "15105",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUHINOU",
+        "code_postal": "15106",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUKELLAL",
+        "code_postal": "15107",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "BOUMAHNI",
+        "code_postal": "15108",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "CHEBEL",
+        "code_postal": "15109",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "CHEURFA",
+        "code_postal": "15110",
+        "nom_exact": "CHEURFA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "CHEURFA-BAHLOUL",
+        "code_postal": "15111",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DJEBLA",
+        "code_postal": "15112",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "EL-KALAA",
+        "code_postal": "15113",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "HENNIA",
+        "code_postal": "15114",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IBOUDRARENE",
+        "code_postal": "15115",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ICHOUKREN",
+        "code_postal": "15116",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IGHIL-GUEFRI",
+        "code_postal": "15117",
+        "nom_exact": "IGHIL BOUZROU"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IGUER-MEHDI",
+        "code_postal": "15118",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "IHDIKAOUENE",
+        "code_postal": "15119",
+        "nom_exact": "IHDIKAOUENE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ISSENADJEN",
+        "code_postal": "15120",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "KEMMOUDA",
+        "code_postal": "15121",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "KOUKOU",
+        "code_postal": "15122",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MENACERA",
+        "code_postal": "15123",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MEZEGUENE",
+        "code_postal": "15124",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MEZRARA",
+        "code_postal": "15125",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "MOKNEA",
+        "code_postal": "15126",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "OUARDJA",
+        "code_postal": "15127",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "OULED-ITCHIR",
+        "code_postal": "15128",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "OULED-MERIEM",
+        "code_postal": "15129",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "REDJAOUNA",
+        "code_postal": "15130",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "SIDI-ALI-BOUNAB",
+        "code_postal": "15131",
+        "nom_exact": "SIDI ALI BOUNAB,TADMAIT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "STITA",
+        "code_postal": "15132",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAADJA",
+        "code_postal": "15133",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TABOUDA",
+        "code_postal": "15134",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAFOUGHALT",
+        "code_postal": "15135",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAGUEMOUNT-EL-DJEDID",
+        "code_postal": "15136",
+        "nom_exact": "TAGUEMOUNT-EL-DJEDID"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAGUERCIFT",
+        "code_postal": "15137",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAHANOUTS",
+        "code_postal": "15138",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAHOUNA-TAKDIMT",
+        "code_postal": "15139",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAKA",
+        "code_postal": "15140",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAKSEBT-KHARBACHEN-SAID-ET-KHARBACHEN-LOUNES",
+        "code_postal": "15141",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TALA-AMARA-KAHLAL-M'BAREK",
+        "code_postal": "15142",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TALA-ATHMANE",
+        "code_postal": "15143",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TALA-BOUZROU-CHARA-ALI",
+        "code_postal": "15144",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TALA-TEGANA",
+        "code_postal": "15145",
+        "nom_exact": "TALA-TEGANA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAOURIRT-AMOKRANE",
+        "code_postal": "15146",
+        "nom_exact": "TAOURIRT MOKRANE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAOURIRT-MENGUELET",
+        "code_postal": "15147",
+        "nom_exact": "TAOURIRT-MENGUELET"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAZEROUTS",
+        "code_postal": "15148",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAZRART",
+        "code_postal": "15149",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIGOUNATINE",
+        "code_postal": "15150",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIMIZART",
+        "code_postal": "15151",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIMIZART-LOGHBAR-MOKHTARI-RABAH",
+        "code_postal": "15152",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-LILANE-LANI-AHMED",
+        "code_postal": "15153",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-N'TERGA",
+        "code_postal": "15154",
+        "nom_exact": "TIZI-N'TERGA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZIT",
+        "code_postal": "15155",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-T'ZOUGART-SI MOUSSA SI AMAR ET SI ALI",
+        "code_postal": "15156",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZRA-AISSA",
+        "code_postal": "15157",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ZEBOUDJ-KARA",
+        "code_postal": "15158",
+        "nom_exact": "ZEBOUDJ-KARA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "ZERROUDA",
+        "code_postal": "15159",
+        "nom_exact": "HOTEL DE LA POSTE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-OUZOU-KRIM-BELKACEM",
+        "code_postal": "15160",
+        "nom_exact": "TIZI OUZOU  KRIM BELKACM"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AZAZGA-VILLE",
+        "code_postal": "15161",
+        "nom_exact": "AZAZGA VILLE"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TIZI-OUZOU-MOULOUD-MAMMERI",
+        "code_postal": "15162",
+        "nom_exact": "UNIVERSITE MOULOUD MAMERI"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAMDA-UNIVERSITE",
+        "code_postal": "15163",
+        "nom_exact": "UNIVERSITE TAMDA"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "AIN-EL-HAMMAM-AIT-SIDI-SAID",
+        "code_postal": "15164",
+        "nom_exact": "AIT-SIDI-SAID"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "TAMASSIT",
+        "code_postal": "15165",
+        "nom_exact": "LA ROUTE NATIONALE N° 71, RELIANT AZAZGA A AZEFFOUN, TAMASSIT"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DRAA-BEN-KHEDDA-AADL",
+        "code_postal": "15166",
+        "nom_exact": "DRAA-BEN-KHEDDA-AADL"
+    },
+    {
+        "wilaya": "TIZI+OUZOU",
+        "nom": "DRAA-EL-MIZAN-ALI-BENOUR",
+        "code_postal": "15167",
+        "nom_exact": ""
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-RP",
+        "code_postal": "18000",
+        "nom_exact": "RUE DE 1ER NOV"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-MILIA",
+        "code_postal": "18001",
+        "nom_exact": "RUE BOUNNAH"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "TAHER",
+        "code_postal": "18002",
+        "nom_exact": "RUE GHUEDIED AHMED"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "CHEKFA",
+        "code_postal": "18003",
+        "nom_exact": "RUE ZIGHOUD YOUCEF"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-ANCER",
+        "code_postal": "18004",
+        "nom_exact": "CIT2 80 LOGTS"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-AOUANA",
+        "code_postal": "18005",
+        "nom_exact": "BD FROND DE MER"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "TEXENNA",
+        "code_postal": "18006",
+        "nom_exact": "RUE EMIR AEK"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "ZIAMA-MANSOURIAH",
+        "code_postal": "18007",
+        "nom_exact": "RUE DE 1ER NOV"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BELGHIMOUZE",
+        "code_postal": "18008",
+        "nom_exact": "BELGUIMOUZ"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-MILIA-MERIMECHE",
+        "code_postal": "18009",
+        "nom_exact": "RUE ZIGHOUD YOUCEF"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EMIR-ABDELKADER",
+        "code_postal": "18010",
+        "nom_exact": "RUE NACER DERRADJI"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-1ER NOV.",
+        "code_postal": "18011",
+        "nom_exact": "RUE DES FRERES BOUKETTA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-NIBOUCHE",
+        "code_postal": "18012",
+        "nom_exact": "RUE DES FRERES BOUCHAIR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-PLAGE",
+        "code_postal": "18013",
+        "nom_exact": "RUE ZIGHOUD YOUCEF"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-SOUMMAM",
+        "code_postal": "18014",
+        "nom_exact": "ROUTE DE LA SOUMMAM"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "KAOUS",
+        "code_postal": "18015",
+        "nom_exact": "RUE CHIKIROU"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "SETTARA",
+        "code_postal": "18016",
+        "nom_exact": "CIT2 AHMED DJELLIL"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "SIDI-ABDELAZIZ",
+        "code_postal": "18017",
+        "nom_exact": "RUE RAHMANI TAHAR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "SIDI-MAROUF",
+        "code_postal": "18018",
+        "nom_exact": "RUE SAAD BOULAATALI"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "TAHER 19 MAI 1956",
+        "code_postal": "18019",
+        "nom_exact": "RUE AMRA TAHAR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "TAHER-OULED-SOUICI",
+        "code_postal": "18020",
+        "nom_exact": "RUS DES MOUDJAHDINE"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "ACHBOU",
+        "code_postal": "18021",
+        "nom_exact": "OULED YAHIA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BAZOUL",
+        "code_postal": "18022",
+        "nom_exact": "BAZOUL"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BELHADEF",
+        "code_postal": "18023",
+        "nom_exact": "BELHADEF"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BENI-BELAID",
+        "code_postal": "18024",
+        "nom_exact": "OUED ADJOUL"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BENI-YADJIS",
+        "code_postal": "18025",
+        "nom_exact": "BOUDIA BENI YADJIS"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BORDJ-ALI",
+        "code_postal": "18026",
+        "nom_exact": "BORDJ ALI"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "CHAHANA",
+        "code_postal": "18027",
+        "nom_exact": "CHAHANA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "DEKKARA",
+        "code_postal": "18028",
+        "nom_exact": "DEKKARA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-KAADA",
+        "code_postal": "18029",
+        "nom_exact": "RUE AHMED H'BIBATNI"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-KENNAR",
+        "code_postal": "18030",
+        "nom_exact": "CITE AMIOUR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-MAAD",
+        "code_postal": "18031",
+        "nom_exact": "RUE 08 MAI 1945"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "ERRAGUENE",
+        "code_postal": "18032",
+        "nom_exact": "ERRAGUENE"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "HARRATEN",
+        "code_postal": "18033",
+        "nom_exact": "CITE HARRATEN"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-OULED-AISSA",
+        "code_postal": "18034",
+        "nom_exact": "CITE 18 FEVRIER"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "MEHARKA",
+        "code_postal": "18035",
+        "nom_exact": "VSA MEHARKA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "OULED-ASKEUR",
+        "code_postal": "18036",
+        "nom_exact": "OULED ASKEUR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "S'BET",
+        "code_postal": "18037",
+        "nom_exact": "S'BET"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "TASSOUST",
+        "code_postal": "18038",
+        "nom_exact": "CITE DES MOUDJAHDINES"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "AFTIS",
+        "code_postal": "18039",
+        "nom_exact": "LES AFTIS"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "ARBID-ALI",
+        "code_postal": "18040",
+        "nom_exact": "CITE ANDREU"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BORDJ-TAHAR",
+        "code_postal": "18041",
+        "nom_exact": "BORDJ THAR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BOUHANCHE-BENI-AHMED",
+        "code_postal": "18043",
+        "nom_exact": "BOUHENCHE BENI AHMED"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "GHEBALA-M'CID-AICHA",
+        "code_postal": "18045",
+        "nom_exact": "GHEBALA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "LARABAA",
+        "code_postal": "18046",
+        "nom_exact": "OULED RABAH"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "OUDJANA",
+        "code_postal": "18047",
+        "nom_exact": "OUDJANA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "OULED-BOUNAR",
+        "code_postal": "18048",
+        "nom_exact": "OULED BOUNAR"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "SELMA",
+        "code_postal": "18049",
+        "nom_exact": "SELMA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "AZIROU",
+        "code_postal": "18050",
+        "nom_exact": "CITE AZIROU"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "GHEZALA",
+        "code_postal": "18051",
+        "nom_exact": "SIDI REZZOUK"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-EL-KALAA",
+        "code_postal": "18052",
+        "nom_exact": "BASE NAVALE JIJEL EL KALAA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "BENI-METRANE",
+        "code_postal": "18053",
+        "nom_exact": "BENI-METRANE"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "EL-GHERIANA",
+        "code_postal": "18054",
+        "nom_exact": "EL-GHERIANA"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "HARRATEN-05-JUILLET",
+        "code_postal": "18055",
+        "nom_exact": "HARRATEN-05-JUILLET"
+    },
+    {
+        "wilaya": "JIJEL",
+        "nom": "JIJEL-ETABLISSEMENT -POSTAL-ITINERANT 1",
+        "code_postal": "18056",
+        "nom_exact": ""
+    }
+]

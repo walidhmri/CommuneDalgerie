@@ -1,0 +1,464 @@
+[
+    {
+        "wilaya": "MILA",
+        "nom": "MILA-RP",
+        "code_postal": "43000",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "CHELGHOUM-LAID",
+        "code_postal": "43001",
+        "nom_exact": "RUE KHELIFA BOUZID"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "FERDJIOUA",
+        "code_postal": "43002",
+        "nom_exact": "RUE ZOUBIR BEN YAHIA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "CHELGHOUM-LAID 1 NOV.",
+        "code_postal": "43003",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "GRAREM",
+        "code_postal": "43004",
+        "nom_exact": "GRAREM"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OUED-ATHMENIA",
+        "code_postal": "43005",
+        "nom_exact": "RUE MAKHLOUFI SLIMENE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OUED-ENDJA",
+        "code_postal": "43006",
+        "nom_exact": "RUE LAMGAHOUEL YOUCEF"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TADJENANET",
+        "code_postal": "43007",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TELERGHMA",
+        "code_postal": "43008",
+        "nom_exact": "RUE BOUGHADA HAMLAOUI"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "ROUACHED",
+        "code_postal": "43009",
+        "nom_exact": "RUE BOUSSBAA MESSAOUD"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "SIDI-MEROUANE",
+        "code_postal": "43010",
+        "nom_exact": "SIDI-MEROUANE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TADJENANET-CENTRE",
+        "code_postal": "43011",
+        "nom_exact": "RUE EMIR A/KADER"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "ZEGHAIA",
+        "code_postal": "43012",
+        "nom_exact": "RUE BOUDEBANE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "AHMED-RACHDI",
+        "code_postal": "43013",
+        "nom_exact": "AHMED-RACHDI"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "AIN-BEIDA-DJEBEL-HALFA",
+        "code_postal": "43014",
+        "nom_exact": "RUE KACHE KACHE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "AIN-MELOUK",
+        "code_postal": "43015",
+        "nom_exact": "RUE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "AIN-TINE",
+        "code_postal": "43016",
+        "nom_exact": "AIN-TINE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "ARRES",
+        "code_postal": "43017",
+        "nom_exact": "BOUGHARDAYEN"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BEINEN",
+        "code_postal": "43018",
+        "nom_exact": "BARDOU BEINEN"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BENI-GUECHA",
+        "code_postal": "43019",
+        "nom_exact": "BENI-GUECHA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BENYAHIA-ABDERRAHMANE",
+        "code_postal": "43020",
+        "nom_exact": "BENYAHIA-ABDERRAHMANE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BLED-YOUCEF",
+        "code_postal": "43021",
+        "nom_exact": "BLED-YOUCEF"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BOUHATEM",
+        "code_postal": "43022",
+        "nom_exact": "CITE MEZIZ AISSA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BOUKARANA",
+        "code_postal": "43023",
+        "nom_exact": "BOUKARANA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "CHELGHOUM-LAID-ABDELLAH-BACHA",
+        "code_postal": "43024",
+        "nom_exact": "CITE 1109 LOGTS CH-LAID"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "CHIGARA",
+        "code_postal": "43025",
+        "nom_exact": "CHIGARA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "EL-MECHIRA",
+        "code_postal": "43026",
+        "nom_exact": "RUE ALN"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "FERDJIOUA-BOUROUH",
+        "code_postal": "43027",
+        "nom_exact": "CITE BOUROUH"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "FERDJIOUA-SOUMMAM",
+        "code_postal": "43028",
+        "nom_exact": "CITE SOUMMAM"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MILA-8 MAI 45",
+        "code_postal": "43029",
+        "nom_exact": "CITE 300 LOGTS MILA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MILA-VIEILLE-VILLE",
+        "code_postal": "43030",
+        "nom_exact": "MILA-VIEILLE-VILLE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OUED-SEGUEN",
+        "code_postal": "43031",
+        "nom_exact": "OUED-SEGUEN"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OULED-KHELLOUF",
+        "code_postal": "43032",
+        "nom_exact": "OULED-KHELLOUF"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TASSADANE",
+        "code_postal": "43033",
+        "nom_exact": "TASSADANE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TASSALA",
+        "code_postal": "43034",
+        "nom_exact": "TASSALA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TIBERGUENT",
+        "code_postal": "43035",
+        "nom_exact": "TIBERGUENT"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "ZARZA",
+        "code_postal": "43036",
+        "nom_exact": "ZARZA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "AIN-EL-HAMRA",
+        "code_postal": "43037",
+        "nom_exact": "AIN-EL-HAMRA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "ANOUCHE-ALI",
+        "code_postal": "43038",
+        "nom_exact": "ANOUCHE-ALI"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "AZEBA",
+        "code_postal": "43039",
+        "nom_exact": "AZEBA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BEN-BOULAID",
+        "code_postal": "43040",
+        "nom_exact": "BEN-BOULAID"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BIR-BRANIS",
+        "code_postal": "43041",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BOUFOULA",
+        "code_postal": "43042",
+        "nom_exact": "BOUFOULA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BOUMALEK",
+        "code_postal": "43043",
+        "nom_exact": "BOUMALEK"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "CHERRA",
+        "code_postal": "43044",
+        "nom_exact": "CHERRA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "DAR-EL-HAMRA",
+        "code_postal": "43045",
+        "nom_exact": "DAR-EL-HAMRA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "DERRAHI-BOUSSELAH",
+        "code_postal": "43046",
+        "nom_exact": "DERRAHI-BOUSSELAH"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "DJEBEL-AOUGUEB",
+        "code_postal": "43047",
+        "nom_exact": "DJEBEL-AOUGUEB"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "DRAA-BENKHALFA",
+        "code_postal": "43048",
+        "nom_exact": "DRAA-BENKHALFA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "EL-ARSA",
+        "code_postal": "43049",
+        "nom_exact": "EL-ARSA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "EL-AYADI-BARBES",
+        "code_postal": "43050",
+        "nom_exact": "EL-AYADI-BARBES"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "FERDOUA",
+        "code_postal": "43051",
+        "nom_exact": "FERDOUA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "HAMALA",
+        "code_postal": "43052",
+        "nom_exact": "HAMALA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "KEF-BOUDERGA",
+        "code_postal": "43053",
+        "nom_exact": "KEF-BOUDERGA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MECHTATINE",
+        "code_postal": "43055",
+        "nom_exact": "MECHTATINE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OULED-BOUAZOUNE",
+        "code_postal": "43057",
+        "nom_exact": "OULED-BOUAZOUNE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OULED-EL-KAIM",
+        "code_postal": "43058",
+        "nom_exact": "OULED-EL-KAIM"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "SAREG-DERFOUL",
+        "code_postal": "43059",
+        "nom_exact": "SAREG-DERFOUL"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "SIDI-KHELIFA",
+        "code_postal": "43060",
+        "nom_exact": "SIDI-KHELIFA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "SIDI-ZERROUK",
+        "code_postal": "43061",
+        "nom_exact": "SIDI-ZERROUK"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TAHAMACHET",
+        "code_postal": "43062",
+        "nom_exact": "TAHAMACHET"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TAMOULA",
+        "code_postal": "43063",
+        "nom_exact": "TAMOULA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TASSAFT",
+        "code_postal": "43064",
+        "nom_exact": "TASSAFT"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TELERGHMA-Z'MALA",
+        "code_postal": "43065",
+        "nom_exact": "TELERGHMA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MILA-SENNAOUA",
+        "code_postal": "43066",
+        "nom_exact": "SENNAOUA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "FERDJIOUA-EST",
+        "code_postal": "43067",
+        "nom_exact": "CITE 529 LOGTS FERDJIOUA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "CHEGLIBI-MAKHLOUF",
+        "code_postal": "43068",
+        "nom_exact": "CHEGLIBI-MAKHLOUF"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "OULED-SMAIL",
+        "code_postal": "43069",
+        "nom_exact": "OULED-SMAIL"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "RAS-EL-BIR",
+        "code_postal": "43070",
+        "nom_exact": "SIDI-MEROUANE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "BENI-GUECHA-CHOUARA-TORCHE",
+        "code_postal": "43071",
+        "nom_exact": "BENI-GUECHA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MILA UNIVERSITE",
+        "code_postal": "43072",
+        "nom_exact": "ROUTE ZEGHAIA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MILA-LIBERTE",
+        "code_postal": "43073",
+        "nom_exact": "MILA-LIBERTE"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TASSADANE-HADDADA-LANTIA",
+        "code_postal": "43074",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "MILA-ETHNIA",
+        "code_postal": "43075",
+        "nom_exact": "MILA-ETHNIA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "GRAREM-SAFSAFA",
+        "code_postal": "43076",
+        "nom_exact": "GRAREM-SAFSAFA"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "GRAREM-EST",
+        "code_postal": "43077",
+        "nom_exact": "GRAREM-EST"
+    },
+    {
+        "wilaya": "MILA",
+        "nom": "TELERGHMA-TERRE",
+        "code_postal": "",
+        "nom_exact": "TELERGHMA"
+    }
+]

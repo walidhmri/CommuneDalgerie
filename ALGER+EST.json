@@ -1,0 +1,608 @@
+[
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-HARRACH",
+        "code_postal": "16004",
+        "nom_exact": "RUE MOHAND AIT MOHAND EL HARRACH"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HUSSEIN-DEY-RP",
+        "code_postal": "16005",
+        "nom_exact": "01 RUE KEDOUR RAHIM H,DEY"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA",
+        "code_postal": "16006",
+        "nom_exact": "18 RUE MOHAMED FELAH KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ROUIBA-RP",
+        "code_postal": "16017",
+        "nom_exact": "10, RUE COLONEL AMIROUCHE, ROUIBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "AIN-TAYA",
+        "code_postal": "16019",
+        "nom_exact": "RUE AMIR ABDELJADER AIN TAYA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BAB-EZZOUAR",
+        "code_postal": "16024",
+        "nom_exact": "CITE 08 MAI 45 BT N° 20 B,E,Z"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BAB-EZZOUAR-EL-ALIA",
+        "code_postal": "16025",
+        "nom_exact": "CITE EL DJORF BT 52 N° 01 B,E,Z"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BACHEDJARAH",
+        "code_postal": "16026",
+        "nom_exact": "RUE DE L'HOTEL BACH DJERAH"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BARAKI",
+        "code_postal": "16027",
+        "nom_exact": "BOULVARD BELARBI BARAKI"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-KIFFAN",
+        "code_postal": "16031",
+        "nom_exact": "10 RUE, OUAZENE MOHAMED B,E,K"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DAR-EL-BEIDA",
+        "code_postal": "16033",
+        "nom_exact": "101 MOHAMED KHEMISTI D,E,B"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA",
+        "code_postal": "16036",
+        "nom_exact": "RUE BOUZIDI MOHAMED REGHAIA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BAB-EZZOUAR-5 JUILLET",
+        "code_postal": "16042",
+        "nom_exact": "CITE 05 JUILLET BT D N° 102 B,E,Z"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-BAHRI",
+        "code_postal": "16046",
+        "nom_exact": "ROUTE NATIONALE NÂ° 24 B,E,B, DAR EL BEIDA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DJASR-KASENTINA",
+        "code_postal": "16048",
+        "nom_exact": "CITE 520 LOGTS GUE DE CONSTANTINE  BIR MOURAD RAIS"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-HARRACH-H-BADI",
+        "code_postal": "16051",
+        "nom_exact": "13 RUE, SAID GREFFON"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HAI-EL-BADR",
+        "code_postal": "16053",
+        "nom_exact": "RUE HANAFI HADJRES HAI EL BEDR"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HAI-EL-FIDA",
+        "code_postal": "16054",
+        "nom_exact": "CITE PELM HAI EL FIDA , E,H"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA-EL-ANNASSER",
+        "code_postal": "16055",
+        "nom_exact": "CITE LES ANNASSER KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA-GARIDI",
+        "code_postal": "16056",
+        "nom_exact": "CITE GUARIDI BT 18 GARIDI 1 KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "LES EUCALYPTUS",
+        "code_postal": "16057",
+        "nom_exact": "LOTISSEMENT MONIN RUE 01 CALYPTUS"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "MOHAMMADIA",
+        "code_postal": "16058",
+        "nom_exact": "CITE IBTISSEME MOHHAMADIA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "OUED-SMAR",
+        "code_postal": "16059",
+        "nom_exact": "ROUTE DE MEFTEH OUED ESEMAR"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "SIDI-MOUSSA",
+        "code_postal": "16061",
+        "nom_exact": "ROUTE DAR BEIDA SIDI MOUSSA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "AIN-NAADJA-HOUARI-BOUMEDIENNE",
+        "code_postal": "16064",
+        "nom_exact": "CITE 1610 LOGTS AIN NAADJA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "AIN-NADJA",
+        "code_postal": "16065",
+        "nom_exact": "630 LOGTS BT NÂ° 01 AIN NAADJA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ALGER-AHCENE-DJANKI",
+        "code_postal": "16069",
+        "nom_exact": "06 RUE AHCENE DJENKI"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ALGER-UNIVERSITE-H-BOUMEDIENE",
+        "code_postal": "16079",
+        "nom_exact": "UNIVERSITE HOUERI BOUMEDIENNE"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BARAKI-SI-LAKHDAR",
+        "code_postal": "16083",
+        "nom_exact": "CITE 2004 LOGTS BT 14 BARAKI"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DERGANA",
+        "code_postal": "16087",
+        "nom_exact": "CITE DIPLOMATIQUE DERGANA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DIAR-EL-DJEMAA",
+        "code_postal": "16088",
+        "nom_exact": "RUE SOUMMAM D,DJ"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HAI-EL-DJAMIL",
+        "code_postal": "16090",
+        "nom_exact": "RUE 08 SIDI OKBA BEAU LIEU EL HARRACH"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA-CITE SEMROUNI",
+        "code_postal": "16092",
+        "nom_exact": "CIT2 SEMROUNI  BT 24 KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ALGERIE-TELECOM",
+        "code_postal": "16102",
+        "nom_exact": "SIEGE ALGERIE TELECOM,CINQ MAISON ,EL HARRACH"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ALGER-PLAGE",
+        "code_postal": "16103",
+        "nom_exact": "ALLER CENTRALE ALGER PLAGE"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HOPITAL-CENTRAL-ANP",
+        "code_postal": "16105",
+        "nom_exact": "HOPITAL CENTRAL MILITAIRE  AIN NAADJA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA-PLATEAU",
+        "code_postal": "16108",
+        "nom_exact": "CITE DNC BT A 19 N° 01 REGHAIA PLATEAU"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-MARSA",
+        "code_postal": "16115",
+        "nom_exact": "RUE PRINCIPALE EL MARSA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HERAOUA",
+        "code_postal": "16116",
+        "nom_exact": "ROUTE NATIONALE N° 24 HERAOUA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA-DJAAFRI",
+        "code_postal": "16123",
+        "nom_exact": "MOHAMED DJAAFRI REGHAIA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "FRERES-ACHOURI",
+        "code_postal": "16129",
+        "nom_exact": "CITE FRERES ACHOURI DAR EL BEIDA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ALGER-AEROPORT-H-BOUMEDIENE",
+        "code_postal": "16130",
+        "nom_exact": "AEROPORT HOUARI BOUMEDIENE DAR EL BEIDA,ALGER"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ EL KIFFAN FAIZI",
+        "code_postal": "16135",
+        "nom_exact": "CITE FAIZI, BORDJ EL KIFFANE DAR EL BEIDA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HUSSEIN-DEY 8 MARS (BROSSETTE)",
+        "code_postal": "16136",
+        "nom_exact": "ANNEXE APC HUSSEIN DEY"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BARAKI BD MED BELARBI",
+        "code_postal": "16139",
+        "nom_exact": "01 RUE MOHAMED BELARBI BARAKI"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "CHERARBA 917 LOGTS",
+        "code_postal": "16140",
+        "nom_exact": "CITE EL EMIR CHERRARBA EL CALIPTUS"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BARAKI 360 LOGTS",
+        "code_postal": "16141",
+        "nom_exact": "CITE ERAIS BARAKI"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "AIN NAADJA 196 LOGTS",
+        "code_postal": "16142",
+        "nom_exact": "CITE 360 LGTS AIN NAADJA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BENTALHA",
+        "code_postal": "16143",
+        "nom_exact": "BLOC ADMINISTRATIF BENTALHA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "FRERES-Z'MIRLI",
+        "code_postal": "16144",
+        "nom_exact": "RUE NÂ° 36 FRERES ZMERLI 3 CAVES"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EUCALYPTUS 500 LOGTS",
+        "code_postal": "16145",
+        "nom_exact": "CITE 500 LOGTS EUCALYPTUS"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL MANDHER EL DJAMIL KOUBA",
+        "code_postal": "16147",
+        "nom_exact": "CITE EL MENDHER EL DJAMIL KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HAI-MER ET SOLEIL",
+        "code_postal": "16150",
+        "nom_exact": "RUE N° 12 CITE LEVEILLEY , HUSSEIN DEY"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-MAKKARIA",
+        "code_postal": "16152",
+        "nom_exact": "EL-MAKKARIA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA-GARIDI 1B",
+        "code_postal": "16153",
+        "nom_exact": "BT 18 KOUBA GARIDI 1"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BAB-EZZOUAR LA CONCORDE",
+        "code_postal": "16154",
+        "nom_exact": "CITE AADL EL MOUSALAHA B,E,Z 5 JUILLET"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KHARROUBA GARE ROUTIERE",
+        "code_postal": "16161",
+        "nom_exact": "LA GARE ROUTIERE, KHEROUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BOUROUBA",
+        "code_postal": "16162",
+        "nom_exact": "RUE DE LA WILAYA NÂ° 13 BOUROUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE KOUBA GARIDI 1",
+        "code_postal": "16163",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-KOUBA-GARIDI 1"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE BAB EZZOUAR 2",
+        "code_postal": "16164",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-BAB-EZZOUAR 2"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE BAB EZZOUAR 3",
+        "code_postal": "16165",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-BAB-EZZOUAR 3"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE BAB EZZOUAR 4",
+        "code_postal": "16166",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-BAB-EZZOUAR 4"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE BOURAOUI AMAR",
+        "code_postal": "16167",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-BOURAOUI-AMAR"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE BAB EZZOUAR 1",
+        "code_postal": "16168",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-BAB-EZZOUAR 1"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE UNIVERSITAIRE VIEUX KOUBA",
+        "code_postal": "16169",
+        "nom_exact": "RESIDENCE-UNIVERSITAIRE-VIEUX-KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "MINISTERE DES AFFAIRES ETRANGERES",
+        "code_postal": "16170",
+        "nom_exact": "MINISTERE-DES-AFFAIRES-ETRANGERES"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ROUIBA-ENPEI",
+        "code_postal": "16174",
+        "nom_exact": "B P N° 05 ENPEI ROUIBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA-G.I.R",
+        "code_postal": "16183",
+        "nom_exact": "CASERNE  GIR REGHAIA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BAB-EZZOUAR 1 -AADL",
+        "code_postal": "16187",
+        "nom_exact": "CITE AADL BAB-EZZOUAR 1"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DJISR-KACENTINA-AADL",
+        "code_postal": "16188",
+        "nom_exact": "CITE AADL GU2 DE CONSTANTINE"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "SIDI-MOUSSA-EL-RAIS",
+        "code_postal": "16189",
+        "nom_exact": "RAIS SIDI MOUSSA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BOUROUBA-SRFE",
+        "code_postal": "16194",
+        "nom_exact": "SERVICE REGIONAL DES FINANCES ET EQUIPEMENTS, BOUROUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DERGANA 2",
+        "code_postal": "16195",
+        "nom_exact": "DERGANA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DAR-EL-BEIDA-ECOLE-DE-POLICE",
+        "code_postal": "16196",
+        "nom_exact": "ECOLE-DE-POLICE,DAR EL BEIDA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA-GROUPEMENT-DE-RESERVE-ET-D'INTERVENTION (G-R-I)",
+        "code_postal": "16198",
+        "nom_exact": "GROUPEMENT-DE-RESERVE-ET-D'INTERVENTION (G-R-I) ,KOUBA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-KIFFAN-LIDO",
+        "code_postal": "16199",
+        "nom_exact": "LIDO,BORDJ EL KIFFAN"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BACHEDJARAH-GROUPEMENT-DE-PROTECTION-ET-DE-SECURITE-DE-LA-POLICE",
+        "code_postal": "16200",
+        "nom_exact": "GROUPEMENT-DE-PROTECTION-ET-DE-SECURITE-DE-LA-POLICE,BACHEDJARAH"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BACHEDJARAH-AADL",
+        "code_postal": "16204",
+        "nom_exact": "CITE AADL BACHDJARAH,ALGER"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-MARSA-ECOLE-DE-COMMANDEMENT-ET-D'ETAT-MAJOR",
+        "code_postal": "16205",
+        "nom_exact": "ECOLE-DE-COMMANDEMENT-ET-D'ETAT-MAJOR EL MARSA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "RESIDENCE-UNIVERSITAIRE-BAB-EZZOUAR 5",
+        "code_postal": "16207",
+        "nom_exact": "RESIDENCE UNIVERSITAIRE, BAB EZZOUAR, ALGER"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DAR-EL-BEIDA-DIRECTION-DE-LA-POLICE-DES-FRONTIERES",
+        "code_postal": "16210",
+        "nom_exact": "DIRECTION-DE-LA-POLICE-DES-FRONTIERES"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-HAMIZ",
+        "code_postal": "16211",
+        "nom_exact": "EL-HAMIZ"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-BAHRI-AIR",
+        "code_postal": "16214",
+        "nom_exact": "CASERNE MILITAIRE AERIENNE LA PEROUSE"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA-ESDAT",
+        "code_postal": "16215",
+        "nom_exact": "CASERNE ESDAT   REGHAIA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA-ALI-KHOUDJA",
+        "code_postal": "16220",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "REGHAIA-AISSAT-MUSTAPHA",
+        "code_postal": "16221",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-KIFFAN-BENZIANE",
+        "code_postal": "16222",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-KIFFAN-KAIDI-MOHAMED",
+        "code_postal": "16223",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BARAKI-HOUCH-EL-MIHOUB",
+        "code_postal": "16224",
+        "nom_exact": "HOUCH-EL-MIHOUB BARAKI"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "ALGER-EST-BUREAU-ITINERANT 1",
+        "code_postal": "16228",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DJAMAA-EL-DJAZAIR",
+        "code_postal": "16231",
+        "nom_exact": "DJAMAA-EL-DJAZAIR"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "AEROPORT-D'ALGER",
+        "code_postal": "16232",
+        "nom_exact": "AEROPORT-D'ALGER,DAR EL BEIDA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "AIN-NADJA-TERRE",
+        "code_postal": "",
+        "nom_exact": "CASERNE DES FORCES TERRESTRES MILITAIRE AIN NAADJA"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "BORDJ-EL-BAHRI-MARINE",
+        "code_postal": "",
+        "nom_exact": "CASERNE MARINE MILITAIRE LA PEROUSE"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "DAR-EL-BEIDA-AIR",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-HARRACH-MATERIEL",
+        "code_postal": "",
+        "nom_exact": "CASERNE DE  MATERIELS MILITAIRE, BEAU LIEU"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HUSSEIN-DEY-D.A.T",
+        "code_postal": "",
+        "nom_exact": "CASERNE ARME TERRESTRES H,DEY"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "EL-HARRACH-DARAK",
+        "code_postal": "",
+        "nom_exact": "CASERNE DARAK EL, HARRACH"
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HUSSEIN-DEY-C.I.J.O(police)",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "HUSSEIN-DEY-CAROUBIER",
+        "code_postal": "",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "ALGER+EST",
+        "nom": "KOUBA-C.I.R(police)",
+        "code_postal": "",
+        "nom_exact": ""
+    }
+]

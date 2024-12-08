@@ -1,0 +1,308 @@
+[
+    {
+        "wilaya": "NAAMA",
+        "nom": "NAAMA-RP",
+        "code_postal": "45000",
+        "nom_exact": "CENTRE VILLE, NAAMA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA",
+        "code_postal": "45001",
+        "nom_exact": "CENTRE VILLE, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA",
+        "code_postal": "45002",
+        "nom_exact": "CENTRE VILLE, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-BOUMRIFEG",
+        "code_postal": "45003",
+        "nom_exact": "QUARTIER BOUMERIFEG, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "EL-BIODH",
+        "code_postal": "45004",
+        "nom_exact": "CENTRE VILLE, EL BIODH"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MEKMEN-BEN-AMAR",
+        "code_postal": "45005",
+        "nom_exact": "CENTRE VILLE, BENAMMAR"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "NAAMA-MAAROUF-FARADJI",
+        "code_postal": "45006",
+        "nom_exact": "CITE 205 LOGTS, NAAMA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "ABDELMOULA",
+        "code_postal": "45007",
+        "nom_exact": "VILLAGE ABDELMOULA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-BEN-KHELIL",
+        "code_postal": "45008",
+        "nom_exact": "CENTRE VILLE, AIN BENKHELIL"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-MOUILEH",
+        "code_postal": "45009",
+        "nom_exact": "QUARTIER MOUILEH, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-SAADA",
+        "code_postal": "45010",
+        "nom_exact": "QUARTIER SAADA, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-KSAR-SIDI-BOUTKHIL",
+        "code_postal": "45011",
+        "nom_exact": "QUARTIER KSER SIDI BOUTKHIL, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "ASLA",
+        "code_postal": "45012",
+        "nom_exact": "CENTRE VILLA, ASLA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "DJENIEN-BOUREZG-GRIOUI-MOHAMED",
+        "code_postal": "45013",
+        "nom_exact": "CENTRE VILLE, DJENIEN BOUREZG"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "KALAAT-CHEIKH-BOUAMAMA",
+        "code_postal": "45014",
+        "nom_exact": "VILLAGE KALAAT CHEIKH BOUAMAMA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-BACHIRI-MOHAMED",
+        "code_postal": "45015",
+        "nom_exact": "QUARTIER SUD, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-BADAOUI",
+        "code_postal": "45016",
+        "nom_exact": "QUARTIER ESSALEM, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-DAHMANI",
+        "code_postal": "45017",
+        "nom_exact": "QUARTIER BEN KADDOUR BRAHIM, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-FRERES-RAHMANI",
+        "code_postal": "45018",
+        "nom_exact": "QUARTIER BELKHADEM, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MOGHRAR-FOUGANI",
+        "code_postal": "45019",
+        "nom_exact": "CENTRE VILLE, MOGHRAR FOUGANI"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "NAAMA-EL-KSOUR",
+        "code_postal": "45020",
+        "nom_exact": "CITE 540 LOGTS, NAAMA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "SFISSIFA",
+        "code_postal": "45021",
+        "nom_exact": "CENTRE VILLE SFISSIFA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-OUARKA",
+        "code_postal": "45022",
+        "nom_exact": "VILLAGE AIN OUARKA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "BEN-HANDJIR",
+        "code_postal": "45023",
+        "nom_exact": "VILLAGE BELHANDJIR"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "EL-KESDIR",
+        "code_postal": "45024",
+        "nom_exact": "CENTRE VILLE, EL KESDIR"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "HADJRAT-EL-MEGUIL-DJEMIL-ALI",
+        "code_postal": "45025",
+        "nom_exact": "VILLAGE HADJRAT EL M'GUIL"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "HASSI-LABIADH",
+        "code_postal": "45026",
+        "nom_exact": "VILLAGE HASSI LABIADH"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "HORCHAIA",
+        "code_postal": "45027",
+        "nom_exact": "VILLAGE HORCHAIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MEKTER-FORTHASSA",
+        "code_postal": "45028",
+        "nom_exact": "VILLAGE MEKTER FORTASSA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "OULEKAK",
+        "code_postal": "45029",
+        "nom_exact": "VILLAGE OULAKAK"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "TIOUT",
+        "code_postal": "45030",
+        "nom_exact": "CENTRE VILLE, TIOUT"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "TIRKOUNT",
+        "code_postal": "45031",
+        "nom_exact": "VILLAGE TIRKOUNT"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "TOUADJEUR",
+        "code_postal": "45032",
+        "nom_exact": "VILLAGE TOUADJEUR"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-NOUVELLE",
+        "code_postal": "45033",
+        "nom_exact": "QUARTIER 60 LOGEMENTS, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHRIA-AMRANI",
+        "code_postal": "45034",
+        "nom_exact": "QUARTIER BEN BADIS, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-EL-WIAM",
+        "code_postal": "45035",
+        "nom_exact": "QUARTIER EL WIAM, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "SIDI-MOUSSA",
+        "code_postal": "45036",
+        "nom_exact": "VILLAGE SIDI MOUSSA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-NOUVELLE",
+        "code_postal": "45037",
+        "nom_exact": "QUARTIER 542 LOGTS, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "EL-BIODH-1er NOVEMBRE",
+        "code_postal": "45038",
+        "nom_exact": "QUARTIER 70 LOGTS, EL BIODH"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-MILOUDI-LAID",
+        "code_postal": "45039",
+        "nom_exact": "CENTRE VILLE, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-ROUCHAM-MAAMAR",
+        "code_postal": "45040",
+        "nom_exact": "QUARTIER EL HAMMAR, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-TERRE",
+        "code_postal": "45041",
+        "nom_exact": "QUARTIER KSAR SIDI BOUTKHIL, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-AIR",
+        "code_postal": "45042",
+        "nom_exact": "BASES AERIENNE, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-TERRE",
+        "code_postal": "45043",
+        "nom_exact": "GARNISON MILITAIRE, MECHERIA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "NAAMA-UNIVERSITE",
+        "code_postal": "45044",
+        "nom_exact": "RESIDENCE UNIVERSITAIRE, NAAMA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-GARE-ROUTIERE",
+        "code_postal": "45045",
+        "nom_exact": "GARE ROUTIERE, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-BEN-KHELIL-KENENDA-BOUFELDJA",
+        "code_postal": "45046",
+        "nom_exact": "AIN BENKHELIL 170 LOGTS KENOUDA BOUFELDJA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "AIN-SEFRA-SADDOK-ALI",
+        "code_postal": "45047",
+        "nom_exact": "CENTRE VILLE, AIN SEFRA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "NAAMA-GARE-ROUTIERE",
+        "code_postal": "45048",
+        "nom_exact": "gare routiere de NAAMA"
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "NAAMA-KEBIR-LAAREDJ",
+        "code_postal": "45049",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "NAAMA",
+        "nom": "MECHERIA-GARE-ROUTIERE",
+        "code_postal": "45050",
+        "nom_exact": "MECHERIA-GARE-ROUTIERE"
+    }
+]

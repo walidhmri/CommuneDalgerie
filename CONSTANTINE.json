@@ -1,0 +1,446 @@
+[
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-RP-01-NOVEMBRE-1954",
+        "code_postal": "25000",
+        "nom_exact": "PLACE 1ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-HAFIANI-ALAOUA RP",
+        "code_postal": "25001",
+        "nom_exact": "UV N°1 ILOT 01 CITE NOUVELLE VILLE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-COUDIAT",
+        "code_postal": "25002",
+        "nom_exact": "04, RUE SELLAMI SLIMANE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-CITE-DAKSI",
+        "code_postal": "25003",
+        "nom_exact": "CITE DAKSI ABDESSELAM"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-KENEZ-EL-OUARDI",
+        "code_postal": "25004",
+        "nom_exact": "RUE ABBAS MAHMOUD"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-KHROUB-ARIBI-SAID",
+        "code_postal": "25005",
+        "nom_exact": "RUE HADJADJ BACHIR"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "AIN-SMARA-BOUCHABOU-ALI",
+        "code_postal": "25006",
+        "nom_exact": "ROUTE NATIONALE N°5"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-BELOUIZDAD",
+        "code_postal": "25007",
+        "nom_exact": "14 BD BELOUIZDAD"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-CITE 20 AOUT 55",
+        "code_postal": "25008",
+        "nom_exact": "CITE 20 AOUT 1955"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-NAOUI-HACENE",
+        "code_postal": "25009",
+        "nom_exact": "RUE CHEBLI MOHAMED"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-BEN- ABDERRAHMANE-ZOUAOUI",
+        "code_postal": "25010",
+        "nom_exact": "RUE KARBOUA ABDELHAMID"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-KHROUB-AMAR-DJEFFAL",
+        "code_postal": "25011",
+        "nom_exact": "CITE 1013 LOGTS"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-KHROUB-RABAH-DJEDDOU",
+        "code_postal": "25012",
+        "nom_exact": "CITE 1013 LOGTS COMPLEXE PTT"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "HAMMA-BOUZIANE",
+        "code_postal": "25013",
+        "nom_exact": "RUE NATIONALE HOUARI BOUMEDIANE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "ZIGHOUD-YOUCEF",
+        "code_postal": "25014",
+        "nom_exact": "RUE DE L'INDEPENDANCE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "AIN-ABID",
+        "code_postal": "25015",
+        "nom_exact": "RUE CHETTAH ABDERAHMANE N°8"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-ALI-MENDJLI",
+        "code_postal": "25016",
+        "nom_exact": "CITE 329 LOGTS - ALI MENDJELI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-BEN-CHERIF-MOHAMED-SALAH",
+        "code_postal": "25017",
+        "nom_exact": "RUE KADDOUR BOUMEDOUS"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-CITE DES MURIERS",
+        "code_postal": "25018",
+        "nom_exact": "CITE DES MURIERS"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-CITE-BOUSSOUF",
+        "code_postal": "25019",
+        "nom_exact": "BT C N 18 CITE BOUSSOUF"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-EMIR-AEK",
+        "code_postal": "25020",
+        "nom_exact": "RUE LA WILAYA CITE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-FRERES-FERAD",
+        "code_postal": "25021",
+        "nom_exact": "CITE DES FRERES FERRAD"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-MARTYRS",
+        "code_postal": "25022",
+        "nom_exact": "CITE DES MARTYRS"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-KOUIRA-SALAH",
+        "code_postal": "25023",
+        "nom_exact": "CITE ZIADIA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "DIDOUCHE-MOURAD",
+        "code_postal": "25024",
+        "nom_exact": "RUE LARBI BEN M'HIDI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-ADALA-AMMAR",
+        "code_postal": "25025",
+        "nom_exact": "BT 27 CITE CNEP"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-KHROUB-MASSINISA",
+        "code_postal": "25026",
+        "nom_exact": "CITE MASSINISSA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "IBN-ZIAD",
+        "code_postal": "25027",
+        "nom_exact": "RUE 1 ER NOVEMBRE 1954"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "OULED-RAHMOUNE",
+        "code_postal": "25028",
+        "nom_exact": "RUE NATIONALE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BEKIRA",
+        "code_postal": "25029",
+        "nom_exact": "CITE BEKIRA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BEN-BADIS",
+        "code_postal": "25030",
+        "nom_exact": "BOULEVARD 1 ER NOVEMBRE 54"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-GOURZI",
+        "code_postal": "25031",
+        "nom_exact": "03 RUE NATIONALE LE GOURZI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "MESSAOUD-BOUDJERIOU",
+        "code_postal": "25032",
+        "nom_exact": "AVENUE DE L'ARMEE DE LIBERATION NATIONALE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "AIN-BEN-SBAA",
+        "code_postal": "25033",
+        "nom_exact": "AIN BEN SBAA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "AIN-SDARI",
+        "code_postal": "25034",
+        "nom_exact": "CITE AIN SDARI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BENI-HAMIDENE",
+        "code_postal": "25035",
+        "nom_exact": "BENI HEMIDENE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BENI-MESTINA",
+        "code_postal": "25036",
+        "nom_exact": "BENI MESTINA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BENI-YAGOUB",
+        "code_postal": "25037",
+        "nom_exact": "BENI YAGOUB"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BORDJ-MEHIRIS",
+        "code_postal": "25038",
+        "nom_exact": "BORDJ MEHERIS"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "BOUNOUARA",
+        "code_postal": "25039",
+        "nom_exact": "BOUNOUARA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-MALAH",
+        "code_postal": "25040",
+        "nom_exact": "EL MALLAH"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "FARALLAH",
+        "code_postal": "25041",
+        "nom_exact": "FARALLAH"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "GUETTAR-EL-AICH-SAADI-M'BAREK",
+        "code_postal": "25042",
+        "nom_exact": "GUETTAR EL AICH"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "KADRI BRAHIM",
+        "code_postal": "25043",
+        "nom_exact": "KADRI BRAHIM"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "KAIDI-ABDALLAH",
+        "code_postal": "25044",
+        "nom_exact": "KAIDI ABDELLAH"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "KEHALCHA-KEBAR",
+        "code_postal": "25045",
+        "nom_exact": "KEHALCHA KEBBAR"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "KESAR-LEKLAL",
+        "code_postal": "25046",
+        "nom_exact": "KESARA LEKLAL"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "LAMAAMRA 20 AOUT 55",
+        "code_postal": "25047",
+        "nom_exact": "LAMAMRA 20 AOUT 1955"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "LEMBLECHE -DARSOUNI-SAID",
+        "code_postal": "25048",
+        "nom_exact": "LAMBLECHE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "OULED-RAHMOUNE-GARE",
+        "code_postal": "25049",
+        "nom_exact": "OULED RAHMOUNE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "SALAH-BEY",
+        "code_postal": "25050",
+        "nom_exact": "SALAH BEY"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "SALAH-DERRADJI",
+        "code_postal": "25051",
+        "nom_exact": "SALAH DERRDJI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "SIDI-LARBI",
+        "code_postal": "25052",
+        "nom_exact": "SIDI LARBI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "ZEHANA",
+        "code_postal": "25053",
+        "nom_exact": "ZEHANA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "HARICHA-AMMAR-BOURAYOU-RABAH",
+        "code_postal": "25054",
+        "nom_exact": "CITE H'RICHA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-KHROUB-BOUDEBZA-AMMAR",
+        "code_postal": "25055",
+        "nom_exact": "CITE 901 LOGT KHROUB"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "AIN-ABID-EL-BOUSTENE",
+        "code_postal": "25056",
+        "nom_exact": "CITE BOUSTENE AIN ABID"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-EL-ISTIKLAL",
+        "code_postal": "25058",
+        "nom_exact": "RUE 384 LOGT AADL SOREST ALI MENDJELI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CHEURFI-SALAH",
+        "code_postal": "25059",
+        "nom_exact": "CITE OUED LAHDJAR"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-AOUATI-MOSTEFA",
+        "code_postal": "25060",
+        "nom_exact": "AVENUE AOUATI MUSTAFA"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "HAMMA-BOUZIANE-ZEGROUR-LARBI",
+        "code_postal": "25061",
+        "nom_exact": "LOCALITE ZEGROUR LARBI"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-BOUGHAMBOUZ-RABAH",
+        "code_postal": "25062",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "EL-KHROUB-MASSINISA-19 MARS 1962",
+        "code_postal": "25063",
+        "nom_exact": "EL-KHROUB-MASSINISA-19 MARS 1962"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-FADLOUNE-ABDELAZIZ",
+        "code_postal": "25064",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-UNIVERSITE-3",
+        "code_postal": "25065",
+        "nom_exact": "UNIVERSITE 3,CONSTANTINE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-ETABLISSEMENT-POSTAL-ITINERANT-1",
+        "code_postal": "25066",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-AIN-EL-BEY",
+        "code_postal": "",
+        "nom_exact": "AEROPORT AIN EL BEY"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-EL-GAMMAS",
+        "code_postal": "",
+        "nom_exact": "CITE 500 LOGTS EL GAMMAS"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-LABIOD-MOHAMED",
+        "code_postal": "",
+        "nom_exact": "CITE HLM SIDI MABROUK INFERIEUR"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-LOUCIF",
+        "code_postal": "",
+        "nom_exact": "CITE MOHAMED LOUCIF BT A1"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-SAIDANI",
+        "code_postal": "",
+        "nom_exact": "RUE SAADANI BELLE VUE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-TERRE",
+        "code_postal": "",
+        "nom_exact": "5EME REGION MILITAIRE"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "ZIGHOUD-YOUCEF-NORD",
+        "code_postal": "",
+        "nom_exact": "ZIGHOUD YOUCEF"
+    },
+    {
+        "wilaya": "CONSTANTINE",
+        "nom": "CONSTANTINE-UNIVERSITE",
+        "code_postal": "",
+        "nom_exact": "UNIVERSITE NLLE VILLE ALI MENDJELI"
+    }
+]

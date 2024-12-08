@@ -1,0 +1,590 @@
+[
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-RP",
+        "code_postal": "39000",
+        "nom_exact": "RUE PALESTINE CITE OULED  AHMED"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-NEZLA",
+        "code_postal": "39001",
+        "nom_exact": "RUE INDEPENDANTE CITE NEZLA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "GUEMAR",
+        "code_postal": "39002",
+        "nom_exact": "CITE 5 JUILLET"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DEBILA",
+        "code_postal": "39003",
+        "nom_exact": "CITE EL.WIFAK"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DJAMAA",
+        "code_postal": "39004",
+        "nom_exact": "ROUTE NATIONALE N° 3"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-MEGHAIER",
+        "code_postal": "39005",
+        "nom_exact": "CITE SAADA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-TIKSEBT",
+        "code_postal": "39006",
+        "nom_exact": "CITE TIKSEBT"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "BAYADA",
+        "code_postal": "39007",
+        "nom_exact": "CITE EMIR ABDELKADER"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "BAYADA-1ER NOVEMBRE",
+        "code_postal": "39008",
+        "nom_exact": "CITE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-17 OCTOBRE 1961",
+        "code_postal": "39009",
+        "nom_exact": "CITE 17 OCTOBRE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-BELLE-VUE",
+        "code_postal": "39010",
+        "nom_exact": "CITE BELLE  VUE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-CHOUHADA",
+        "code_postal": "39011",
+        "nom_exact": "CITE CHOUHADA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-CITE-NADOR",
+        "code_postal": "39012",
+        "nom_exact": "CITE  NADOR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HASSI-KHALIFA",
+        "code_postal": "39013",
+        "nom_exact": "RUE ROUTE NATIONALE N°16"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "KOUININE",
+        "code_postal": "39014",
+        "nom_exact": "ROUTE NATIONALE N°48"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "MAGRANE",
+        "code_postal": "39015",
+        "nom_exact": "RUE 18 FEVRIER"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "REGUIBA",
+        "code_postal": "39016",
+        "nom_exact": "CITE EL AMAL"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "ROBBAH",
+        "code_postal": "39017",
+        "nom_exact": "CITE 1ER NOVEMBRE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SIDI-AMRANE",
+        "code_postal": "39018",
+        "nom_exact": "RUE DE L'APC"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TALEB-LARBI",
+        "code_postal": "39019",
+        "nom_exact": "TALEB LARBI"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "Z'GOUM",
+        "code_postal": "39020",
+        "nom_exact": "RUE HOUARI BOUMEDIEN"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "AIN-CHOUCHA",
+        "code_postal": "39021",
+        "nom_exact": "CITE AIN CHOUCHA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DJAMAA-OUAGHLANA",
+        "code_postal": "39022",
+        "nom_exact": "CITE OUGHLANA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DJEDEIDA",
+        "code_postal": "39023",
+        "nom_exact": "CITE DJEDEIDA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DOUAR-EL-MA",
+        "code_postal": "39024",
+        "nom_exact": "DOUAR  EL MA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-MEGHAIER-1ER MAI",
+        "code_postal": "39025",
+        "nom_exact": "CITE 18 FEVRIER"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-SIDI-MESTOUR",
+        "code_postal": "39026",
+        "nom_exact": "CITE SIDI MESTOUR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "GHAMRA",
+        "code_postal": "39027",
+        "nom_exact": "CITE GHAMRA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "GUEMAR-CHOUHADA",
+        "code_postal": "39028",
+        "nom_exact": "CITE CHOUHADA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HASSANI-ABDELKRIM",
+        "code_postal": "39029",
+        "nom_exact": "HASSANI  ABDELKRIM"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "MIH-OUENSA",
+        "code_postal": "39030",
+        "nom_exact": "ROUTE NATIONALE NÂ°16"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "NAKHLA",
+        "code_postal": "39031",
+        "nom_exact": "CITE EN-NOUR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "N'CIRA",
+        "code_postal": "39032",
+        "nom_exact": "CITE N'CIRA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OULED-ALLENDA",
+        "code_postal": "39033",
+        "nom_exact": "OULED ALLENDA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OUM-EL-THIOUR",
+        "code_postal": "39034",
+        "nom_exact": "OUM THIOUR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OURMES",
+        "code_postal": "39035",
+        "nom_exact": "OURMES"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "REGUIBA-20 AOUT 1955",
+        "code_postal": "39036",
+        "nom_exact": "CITE 20 AOUT"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SIDI-AOUN",
+        "code_postal": "39037",
+        "nom_exact": "SIDI AOUN"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SIDI-KHELIL",
+        "code_postal": "39038",
+        "nom_exact": "SIDI KHELIL"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "STILL",
+        "code_postal": "39039",
+        "nom_exact": "STILL"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TAGHZOUT",
+        "code_postal": "39040",
+        "nom_exact": "ROUTE NATIONALE N°48"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TAMERNA",
+        "code_postal": "39041",
+        "nom_exact": "CITE TAMERNA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TENEDLA-EL-BERD",
+        "code_postal": "39042",
+        "nom_exact": "TENEDLA   EL BERD"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TIGDIDINE",
+        "code_postal": "39043",
+        "nom_exact": "CITE TIGDIDINE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TRIFAOUI",
+        "code_postal": "39044",
+        "nom_exact": "TRIFAOUI"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "AIN-CHEIKH",
+        "code_postal": "39045",
+        "nom_exact": "CITE AIN CHEIKH"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "AKFADOU",
+        "code_postal": "39046",
+        "nom_exact": "CITE AKFADOU"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "AYAICHA",
+        "code_postal": "39047",
+        "nom_exact": "CITE AYAYCHA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "BENI-GUECHA",
+        "code_postal": "39048",
+        "nom_exact": "BEN GUECHA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "CHEMORA",
+        "code_postal": "39049",
+        "nom_exact": "CITE CHEMORA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DEBILA-CHERGUIA",
+        "code_postal": "39050",
+        "nom_exact": "CITE CHERGUIA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DENDOUGA",
+        "code_postal": "39051",
+        "nom_exact": "CITE DENDOUGA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DJEDEIDA-SIDI-AOUN",
+        "code_postal": "39052",
+        "nom_exact": "VILLAGE DJEDEIDA SIDI AOUN"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DOKKAR",
+        "code_postal": "39053",
+        "nom_exact": "CITE DOKKAR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DRIMINI",
+        "code_postal": "39054",
+        "nom_exact": "CITE DRIMINI"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-AGUILA",
+        "code_postal": "39055",
+        "nom_exact": "CITE EL-AGUILA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-ARFIANE",
+        "code_postal": "39056",
+        "nom_exact": "CITE EL-ARFIANE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-BAADJ",
+        "code_postal": "39057",
+        "nom_exact": "CITE EL-BAADJ"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-KHOBNA",
+        "code_postal": "39058",
+        "nom_exact": "CITE EL-KHOBNA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HAMADINE",
+        "code_postal": "39059",
+        "nom_exact": "CITE HAMADINE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HAMAISSA",
+        "code_postal": "39060",
+        "nom_exact": "CITE HAMAISSA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HAMRAIA",
+        "code_postal": "39061",
+        "nom_exact": "ROUTE NATIONALE NÂ°48"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HOBBA",
+        "code_postal": "39062",
+        "nom_exact": "CITE HOBBA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "LIZERG",
+        "code_postal": "39063",
+        "nom_exact": "CITE LIZERG"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "MAZER-ZAOUIA",
+        "code_postal": "39064",
+        "nom_exact": "CITE MAZER ZAOUIA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "MEGUIBRA",
+        "code_postal": "39065",
+        "nom_exact": "CITE MEGUIBRA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "MERZAKA",
+        "code_postal": "39066",
+        "nom_exact": "CITE MERZAKA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "M'RARA",
+        "code_postal": "39067",
+        "nom_exact": "M'RARA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "NAKHLA-GHERBIA",
+        "code_postal": "39068",
+        "nom_exact": "CITE GHARBIA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "NEZLET-MAHDA",
+        "code_postal": "39069",
+        "nom_exact": "CITE NEZLET MEHDA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OGLAT-AMICHE",
+        "code_postal": "39070",
+        "nom_exact": "OGLA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OUED-TOURK",
+        "code_postal": "39071",
+        "nom_exact": "CITE OUED TOURK"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SAHABANE",
+        "code_postal": "39072",
+        "nom_exact": "CITE SAHABANE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SAHAN-BERRI",
+        "code_postal": "39073",
+        "nom_exact": "CITE SAHAN BERRY"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SOUALAH",
+        "code_postal": "39074",
+        "nom_exact": "CITE SOUALAH"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SOUIHLA",
+        "code_postal": "39075",
+        "nom_exact": "SOUIHLA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "ZAOUALIA",
+        "code_postal": "39076",
+        "nom_exact": "CITE ZAOUALIA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "Z'GOUM-CHEIKH-EL-ADOUANI",
+        "code_postal": "39077",
+        "nom_exact": "CITE CHEIKH EL-ADOUNI"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OUM Z'BED",
+        "code_postal": "39078",
+        "nom_exact": "CITE OUM Z'BED"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL GHERBIA",
+        "code_postal": "39079",
+        "nom_exact": "CITE EL GHARBIA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-EL-QODS",
+        "code_postal": "39080",
+        "nom_exact": "CITE EL QODS"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DOUILAT",
+        "code_postal": "39081",
+        "nom_exact": "DOILLET"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-AOUACHIR",
+        "code_postal": "39082",
+        "nom_exact": "CITE EL AOUACHIR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "TAGHZOUT-EL-ISTIKLAL",
+        "code_postal": "39083",
+        "nom_exact": "CITE EL-ISTIKLAL"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-19 MARS",
+        "code_postal": "39084",
+        "nom_exact": "CITE 19 MARS"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "OUED-ALENDA-18 FEVRIER",
+        "code_postal": "39085",
+        "nom_exact": "CITE 18 FEVRIER"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "SIDI-KHELIL-ESSALAMA",
+        "code_postal": "39086",
+        "nom_exact": "CITE ESSALAMA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "ROBBAH-ALI-DERBAL",
+        "code_postal": "39087",
+        "nom_exact": "CITE  ALI DERBAL"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-CITE-UNIVERSITAIRE",
+        "code_postal": "39088",
+        "nom_exact": "EL-OUED UENIVERCITE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-SAHAN",
+        "code_postal": "39089",
+        "nom_exact": "CITE SAHAN"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "HASSI-KHALIFA-CHOUAIHA",
+        "code_postal": "39090",
+        "nom_exact": "CITE CHOUAIHA"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-OUED-GARE-ROUTIERE",
+        "code_postal": "39091",
+        "nom_exact": "CITE 19 MARS"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "DJAMAA-GARE-ROUTIERE",
+        "code_postal": "39092",
+        "nom_exact": "DJAMAA -GARE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "KOUININE-01 NOVEMBRE",
+        "code_postal": "39093",
+        "nom_exact": "CITE 01 NOVEMBRE"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "BAYADA-CITE-IZDIHAR",
+        "code_postal": "39094",
+        "nom_exact": "CITE IZDIHAR"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "MIH-CHEIKH",
+        "code_postal": "39095",
+        "nom_exact": "HAY MIH CHEIKH"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "EL-GHANAMI",
+        "code_postal": "39096",
+        "nom_exact": "EL-GHANAMI"
+    },
+    {
+        "wilaya": "EL+OUED",
+        "nom": "KHOBNET-TRIFAOUI",
+        "code_postal": "39097",
+        "nom_exact": "KHOBNET-TRIFAOUI"
+    }
+]

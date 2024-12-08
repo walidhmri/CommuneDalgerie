@@ -1,0 +1,434 @@
+[
+    {
+        "wilaya": "TIPAZA",
+        "nom": "TIPAZA-RP",
+        "code_postal": "42000",
+        "nom_exact": "RUE 1 ER NOVEMBRE TIPASA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "HADJOUT",
+        "code_postal": "42001",
+        "nom_exact": "RUE 1ER NOVEMBRE HADJOUT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHERCHELL",
+        "code_postal": "42002",
+        "nom_exact": "RUE MED BENAZIZA CHERCHELL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KOLEA",
+        "code_postal": "42003",
+        "nom_exact": "PLACE 1ER NOVEMBRE KOLEA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOU-ISMAIL",
+        "code_postal": "42004",
+        "nom_exact": "RUE DE HOURIA BOUISMAIL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "AHMER-EL-AIN",
+        "code_postal": "42005",
+        "nom_exact": "RUE ACHOUR MED AHMEUR EL AIN"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "FOUKA-VILLE",
+        "code_postal": "42006",
+        "nom_exact": "RUE RAMI AMOKRANE FOUKA VILLE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "GOURAYA",
+        "code_postal": "42007",
+        "nom_exact": "RUE DU BAIN ROMAIN  GOURAYA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "ATTATBA",
+        "code_postal": "42008",
+        "nom_exact": "RUE PRINCIPALE GOURAYA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOU-HAROUN",
+        "code_postal": "42009",
+        "nom_exact": "RUE DE L'APC BOUHAROUN"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOU-ISMAIL-EL-AMARIA",
+        "code_postal": "42010",
+        "nom_exact": "ROUTE DE KOLEA BOUISMAIL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOURKIKA",
+        "code_postal": "42011",
+        "nom_exact": "RUE MAAMRI MED BOURKIKA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHAIBA",
+        "code_postal": "42012",
+        "nom_exact": "RUE PRINCIPALE CHAIBA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHERCHELL HAI 17 OCTOBRE",
+        "code_postal": "42013",
+        "nom_exact": "HAI 17 OCTOBRE 1961 CHERCHELL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "DAMOUS",
+        "code_postal": "42014",
+        "nom_exact": "RUE 1ER NOVEMBRE DAMOUS"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "DOUAOUDA-VILLE",
+        "code_postal": "42015",
+        "nom_exact": "RUE DAOUDI ALI DOUAOUDA VILLE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KHEMISTI-VILLE",
+        "code_postal": "42016",
+        "nom_exact": "RUE AMIR AEK KHMISTI VILLE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "LARHAT",
+        "code_postal": "42017",
+        "nom_exact": "RUE PRINCIPALE LARHAT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "MENACEUR",
+        "code_postal": "42018",
+        "nom_exact": "RUE CHEIKH RAMDANE MENACEUR"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "MERAD",
+        "code_postal": "42019",
+        "nom_exact": "RUE DE LA POSTE MERAD"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "SIDI-AMAR",
+        "code_postal": "42020",
+        "nom_exact": "RUE PRINCIPALE SIDI AMEUR"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "SIDI-GHILES",
+        "code_postal": "42021",
+        "nom_exact": "RUE IKHIDER MED SIDI GHILES"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "TIPAZA-OUED MERZOUG",
+        "code_postal": "42022",
+        "nom_exact": "CITE ADMINISTRATIVE TIPASA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "AIN-TAGGOURAIT",
+        "code_postal": "42023",
+        "nom_exact": "RUE 1ER NOVEMBRE AIN TAGOURAIT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOUYAMINE",
+        "code_postal": "42024",
+        "nom_exact": "RUE PRINCIPALE BNI MELLEUK"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHENOUA-PLAGE",
+        "code_postal": "42025",
+        "nom_exact": "CHENOUA PLAGE TIPASA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "DOUAOUDA-MARINE",
+        "code_postal": "42026",
+        "nom_exact": "RUE RAHIM RABAH DOUAOUDA MARINE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "FOUKA-MARINE",
+        "code_postal": "42027",
+        "nom_exact": "RUE DU PORT FOUKA MARINE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "GOURAYA-OUED-SEBT",
+        "code_postal": "42028",
+        "nom_exact": "CITE OUED SEBT GOURAYA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "HADJERET-ENNOUS",
+        "code_postal": "42029",
+        "nom_exact": "RUE DE LA MAIRIE HADJRET ENNOUS"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "HELLOULA-SAHILIA",
+        "code_postal": "42030",
+        "nom_exact": "VILLAGE AGRICOLE HALLOULA SHILIA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KAID-YOUCEF",
+        "code_postal": "42031",
+        "nom_exact": "CITE KAID YOUCEF CHERCHELL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KERKOUBA",
+        "code_postal": "42032",
+        "nom_exact": "CITE 72 LOGTS ALI KERKOUBA KOLEA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KHEMISTI-PORT",
+        "code_postal": "42033",
+        "nom_exact": "RUE NESSAH LAHCEN KHMISTI PORT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KOLEA-HAY-BILLEL",
+        "code_postal": "42034",
+        "nom_exact": "HAI MOUAZ MED DIT BILLEL KOLEA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "LOUDALOUZE",
+        "code_postal": "42035",
+        "nom_exact": "RUE N°01 AGHBAL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "MESSELMOUN",
+        "code_postal": "42036",
+        "nom_exact": "RUE PRINCIPALE MESSELMOUN"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "MOHAMED-EL-BACHIR",
+        "code_postal": "42037",
+        "nom_exact": "CITE 500 LOGTS HADJOUT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "NADOR",
+        "code_postal": "42038",
+        "nom_exact": "CENTRE VILLE NADOR"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "NADOR-SIDI-MOUSSA",
+        "code_postal": "42039",
+        "nom_exact": "ROUTE NATIONALE N11 SIDI MOUSSA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "SIDI-RACHED",
+        "code_postal": "42040",
+        "nom_exact": "RUE DU 20 AOUT 55 SIDI RACHED"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "SIDI-SEMIANE",
+        "code_postal": "42041",
+        "nom_exact": "RUE PRINCIPALE SIDI SEMIANE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "TEMLOUL",
+        "code_postal": "42042",
+        "nom_exact": "CITE TEMLOUL MENACEUR"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "5 MARTYRS",
+        "code_postal": "42043",
+        "nom_exact": "CITE CINQ MARTYRS AHMEURB EL AIN"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "AIN-LAHDJAR",
+        "code_postal": "42044",
+        "nom_exact": "CITE AIN LAHDJAR FOUKA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BELDJ",
+        "code_postal": "42045",
+        "nom_exact": "CITE BELDJ TIPASA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BENYACOUB-FADJANA",
+        "code_postal": "42046",
+        "nom_exact": "CITE FADJENA PAR MERAD"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BERBESSA-BEN-AGHRAB",
+        "code_postal": "42047",
+        "nom_exact": "CITE BARBESSA BEN AGHRAB CHAIBA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOUTELDJA",
+        "code_postal": "42048",
+        "nom_exact": "CITE BOUTELDJA MERAD"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BOUYAGHSENE",
+        "code_postal": "42049",
+        "nom_exact": "DOUAR BOUYEGHSSEN HADJOUT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "BRAHIM BEN-OMAR",
+        "code_postal": "42050",
+        "nom_exact": "CITE BRAHIM BEN OMAR AHMEUR EL AIN"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CITE-RAHMANE",
+        "code_postal": "42051",
+        "nom_exact": "CITE RAHMEN ATTATBA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "DOUAOUDA-CITE-DES-OLIVIERS",
+        "code_postal": "42052",
+        "nom_exact": "CITE DES OLIVIERS DOUAOUDA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "DOUAOUDA-EL-ISLAH",
+        "code_postal": "42053",
+        "nom_exact": "CITE EL ISLAH DOUAOUDA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "EL-HAMIDIA",
+        "code_postal": "42054",
+        "nom_exact": "CITE EL HAMIDIA CHERCHELL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "ERRAHBA",
+        "code_postal": "42055",
+        "nom_exact": "RUE DE NADOR HADJOUT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "FEDJANA",
+        "code_postal": "42056",
+        "nom_exact": "CITE FADJENA MENACEUR"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "GHARDOUS",
+        "code_postal": "42057",
+        "nom_exact": "DOUAR GHERDOUS SIDI SEMIANE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "GOURAYA-BOIS SACRE",
+        "code_postal": "42058",
+        "nom_exact": "HAI BOIS SACRE GOURAYA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "HAMDANIA",
+        "code_postal": "42059",
+        "nom_exact": "RUE PRINCIPALE HAMDANIA CHERCHELL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "LARHAT-MINES",
+        "code_postal": "42060",
+        "nom_exact": "DOUAR LES MINES LARHAT"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "EL-HOUARI-AHMED (SAHEL)",
+        "code_postal": "42061",
+        "nom_exact": "VILLAGE EL HOUARI EX SAHEL BOURKIKA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "MOHAMED-ARAB",
+        "code_postal": "42062",
+        "nom_exact": "DOUAR MED ARAB EX SIDI GHJIAT MERDA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KOLEA-SALAH",
+        "code_postal": "42063",
+        "nom_exact": "RUE SALAH KOLEA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "TIFFSASSINE",
+        "code_postal": "42064",
+        "nom_exact": "DOUAR TEFSSASSINE BNI MELLEUK"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "TIPAZA-UNIVERSITE",
+        "code_postal": "42065",
+        "nom_exact": "CENTRE UNIVERSITAIRE TIPASA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KOLEA-UNIVERSITE",
+        "code_postal": "42066",
+        "nom_exact": "POLE UNIVERSITAIRE KOLEA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHERCHELL-(ABANE-RAMDANE)",
+        "code_postal": "42069",
+        "nom_exact": "ECOLE MILITAIRE ABANE RAMDANE CHERCHLL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHERCHELL-(MOUCHETTE)",
+        "code_postal": "42068",
+        "nom_exact": "ECOLE MILITAIRE D'INFANTERIE"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "CHERCHELL-(TERRE)",
+        "code_postal": "42067",
+        "nom_exact": "ACADEMIE MILITAIRE INTER ARMES CHERCHELL"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "KOLEA-(ICHARA)",
+        "code_postal": "42070",
+        "nom_exact": "ECOLE MILITAIRE DES TRANSMISSIONS KOLEA"
+    },
+    {
+        "wilaya": "TIPAZA",
+        "nom": "TIPAZA-ETABLISSEMENT-POSTAL-ITINERANT1",
+        "code_postal": "42071",
+        "nom_exact": ""
+    }
+]

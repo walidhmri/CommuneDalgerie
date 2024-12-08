@@ -1,0 +1,422 @@
+[
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-RP",
+        "code_postal": "12000",
+        "nom_exact": "CITE DJEBEL  EL DJORF"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-EL-ATER",
+        "code_postal": "12001",
+        "nom_exact": "CENTRE VILLE BIR EL ATER"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "CHERIA",
+        "code_postal": "12002",
+        "nom_exact": "CENTRE VILLE CHERIA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OUENZA",
+        "code_postal": "12003",
+        "nom_exact": "CENTRE  VILLE OUENZA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-MINERVE",
+        "code_postal": "12004",
+        "nom_exact": "ROUTE DE CONSTANTINE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-AOUINET",
+        "code_postal": "12005",
+        "nom_exact": "CENTRE VILLE EL AOUINET"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-KOUIF",
+        "code_postal": "12006",
+        "nom_exact": "CENTRE VILLE EL KOUIF"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-LA CONCORDE",
+        "code_postal": "12007",
+        "nom_exact": "CITE LA  CONCORDE TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "AIN-ZERGA",
+        "code_postal": "12008",
+        "nom_exact": "ROUTE NATIONALE NÂ° 82 AIN ZERGA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-EL-ATER 19 JUIN",
+        "code_postal": "12009",
+        "nom_exact": "CITE  EL DJABEL 19 JUIN BEA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-EL-ATER-EL-HOURIA",
+        "code_postal": "12010",
+        "nom_exact": "CITE EL HOURIA BIR EL ATER"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-MOKADEM",
+        "code_postal": "12011",
+        "nom_exact": "CENTRE VILLE B.MOKKADEM"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BOUKHADRA",
+        "code_postal": "12012",
+        "nom_exact": "CITE GUENZE HASSENAOUI BOUKHADRA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "DRAA-LIMAME",
+        "code_postal": "12013",
+        "nom_exact": "CITE  DRAA LIMAME TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-MA-LABIOD",
+        "code_postal": "12014",
+        "nom_exact": "CITE 54 LOG EL MA LABIOD"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-OGLA",
+        "code_postal": "12015",
+        "nom_exact": "CENTRE VILLE EL OGLA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "HAMMAMET",
+        "code_postal": "12016",
+        "nom_exact": "CENTRE VILLE HAMMAMET"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "MORSOTT",
+        "code_postal": "12017",
+        "nom_exact": "CENTRE VILLE MORSOTT"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-EZZOUHOUR",
+        "code_postal": "12018",
+        "nom_exact": "CITE   EZZOUHOUR TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BEKKARIA",
+        "code_postal": "12019",
+        "nom_exact": "CENTRE VILLE BEKKARIA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-EL-ATER-EL-IMRANE",
+        "code_postal": "12020",
+        "nom_exact": "CITE EL IMRANE BIR EL ATER"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "CHERIA 9 OCTOBRE",
+        "code_postal": "12021",
+        "nom_exact": "CITE 09 OCOBRE CHERIA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "DJEBEL-ANOUAL",
+        "code_postal": "12022",
+        "nom_exact": "CITE 1ER NOV TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-MERIDJ",
+        "code_postal": "12023",
+        "nom_exact": "CENTRE VILLE EL MERIDJ"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "NEGRINE",
+        "code_postal": "12024",
+        "nom_exact": "CENTRE VILLE NEGRINE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OUENZA 1ER NOVEMBRE",
+        "code_postal": "12025",
+        "nom_exact": "CITE  CENTRALE OUENZA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OUENZA-AMEL",
+        "code_postal": "12026",
+        "nom_exact": "CITE  EL  AMEL OUENZA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OUM-ALI",
+        "code_postal": "12027",
+        "nom_exact": "CENTRE VILLE OUM ALI"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-ENNAHDHA",
+        "code_postal": "12028",
+        "nom_exact": "CITE 414 LOGEMENT TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-OMNISPORT",
+        "code_postal": "12029",
+        "nom_exact": "ROUTE D'ANNABA TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "AIN-CHENIA-GARE",
+        "code_postal": "12030",
+        "nom_exact": "VILLAGE CHANIA GARE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "AIN-FADHA",
+        "code_postal": "12031",
+        "nom_exact": "VILLAGE AIN FEDHA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "AIN-GHRAB",
+        "code_postal": "12032",
+        "nom_exact": "VILLAGE AIN GHRAB"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "AIN-SIDI-SALAH",
+        "code_postal": "12033",
+        "nom_exact": "VILLAGE AIN SIDI SALAH"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "AIN-ZEGUAIEG",
+        "code_postal": "12034",
+        "nom_exact": "VILLAGE AIN ZEGUIEG"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BEDJENE",
+        "code_postal": "12035",
+        "nom_exact": "VILLAGE BEDJEN"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-D'HEB",
+        "code_postal": "12036",
+        "nom_exact": "VILLAGE BIR D'HEB"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-EL-OUESRA",
+        "code_postal": "12037",
+        "nom_exact": "VILLAGE BIR EL OUESRA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BOUCHEBKA",
+        "code_postal": "12038",
+        "nom_exact": "VILLAGE BOUCHEBKA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BOULHAF",
+        "code_postal": "12039",
+        "nom_exact": "VILLAGE BOULHEF DYR"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "DYR",
+        "code_postal": "12040",
+        "nom_exact": "VILLAGE DYR"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "LAHOUIDJEBET",
+        "code_postal": "12041",
+        "nom_exact": "VILLAGE EL HOUDJEBET"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-MEZRAA",
+        "code_postal": "12042",
+        "nom_exact": "VILLAGE EL MAZRAA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-OGLA-EL-MALHA",
+        "code_postal": "12043",
+        "nom_exact": "VILLAGE EL OGLA EL MALAH"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "FERKANE",
+        "code_postal": "12044",
+        "nom_exact": "VILLAGE FERKANE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "FOUM-EL-MATLEG",
+        "code_postal": "12045",
+        "nom_exact": "VILLAGE FOUM EL MATLEG"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "GOURIGUEUR",
+        "code_postal": "12046",
+        "nom_exact": "VILLAGE GOURIGUEUR"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "GUENTIS",
+        "code_postal": "12047",
+        "nom_exact": "VILLAGE GUENTIS"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "KISSA",
+        "code_postal": "12048",
+        "nom_exact": "VILLAGE KISSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "MESLOULA",
+        "code_postal": "12049",
+        "nom_exact": "VILLAGE MESLOULA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OULED-NACEUR",
+        "code_postal": "12050",
+        "nom_exact": "VILLAGE OULED NACEUR"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "RAS-EL-AYOUN",
+        "code_postal": "12051",
+        "nom_exact": "VILLAGE RAS EL AYOUN"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TAZBENT",
+        "code_postal": "12052",
+        "nom_exact": "VILLAGE TAZBENT"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "THILIDJENE",
+        "code_postal": "12053",
+        "nom_exact": "VILLAGE THLIDJEN"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TORRICHA",
+        "code_postal": "12054",
+        "nom_exact": "VILLAGE TORRICHA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TOUALBIA",
+        "code_postal": "12055",
+        "nom_exact": "VILLAGE TOUALBIA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "CHERIA-NEMEMCHA",
+        "code_postal": "12056",
+        "nom_exact": "ROUTE  THLIDJEN CHERIA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OUENZA-CHAINE-GORA",
+        "code_postal": "12057",
+        "nom_exact": "CITE 6 MAI OUENZA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "EL-AOUINET-20 AOUT 55",
+        "code_postal": "12058",
+        "nom_exact": "CITE 20 AOUT 55 EL AOUINET"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-EL-MATAR",
+        "code_postal": "12059",
+        "nom_exact": "ROUTE  AEROPORT TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-CHADLI-BEN-DJEDID",
+        "code_postal": "12060",
+        "nom_exact": "CITE SKANSKA TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-BRAKNI-ALI-BEN-YOUNES",
+        "code_postal": "12061",
+        "nom_exact": "CITE ADDL TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-CHEIKH-LARBI-TEBESSI",
+        "code_postal": "12062",
+        "nom_exact": "UNIVERSITE LARBI TEBESSI"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-RESIDENCE-UNIVERSITAIRE-19 MAI",
+        "code_postal": "12063",
+        "nom_exact": "RESIDENCE UNIVERSITAIRE EL WIAME"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-UNIVERSITE",
+        "code_postal": "12064",
+        "nom_exact": "UNIVERSITE LARBI TEBESSI,TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "BIR-EL-ATER-GARE-ROUTIERE",
+        "code_postal": "12065",
+        "nom_exact": "GARE ROUTIERE BIR EL ATER,TEBESSA"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "TEBESSA-GARE-ROUTIERE",
+        "code_postal": "12066",
+        "nom_exact": "TEBESSA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "OUENZA-GARE-ROUTIERE",
+        "code_postal": "12067",
+        "nom_exact": "OUENZA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "CHERIA-GARE-ROUTIERE",
+        "code_postal": "12068",
+        "nom_exact": "CHERIA-GARE-ROUTIERE"
+    },
+    {
+        "wilaya": "TEBESSA",
+        "nom": "DOUKKANE",
+        "code_postal": "",
+        "nom_exact": ""
+    }
+]

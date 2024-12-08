@@ -1,0 +1,656 @@
+[
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-RP",
+        "code_postal": "10000",
+        "nom_exact": "RUE GHERBI EL GHEMRAOUI 10000"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-CITE-EL-BADR",
+        "code_postal": "10001",
+        "nom_exact": "CITE 98 LOGTS FARACHATI 10001"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "LAKHDARIA",
+        "code_postal": "10002",
+        "nom_exact": "ROUTE KHELIL OMAR 10200"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "M'CHEDALLAH",
+        "code_postal": "10003",
+        "nom_exact": "M'CHEDALALH 10100"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SOUR-EL-GHOZLANE",
+        "code_postal": "10004",
+        "nom_exact": "AVENUE 1er NOVEMBRE 10300"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-BESSEM-HACHIMI-MADANI",
+        "code_postal": "10005",
+        "nom_exact": "ROUTE MIHOUBI BRAHIM 10400"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "KADIRIA",
+        "code_postal": "10006",
+        "nom_exact": "ROUTE NÂ° 5 KADIRIA 10260"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AGHBALOU",
+        "code_postal": "10007",
+        "nom_exact": "AGHBALOU 10192"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AHL-EL-KSAR",
+        "code_postal": "10008",
+        "nom_exact": "AHL EL KSAR 10181"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-BESSEM-YAHIAOUI-LARBI",
+        "code_postal": "10009",
+        "nom_exact": "CITE ACHIR SAID 10403 AIN BESSEM"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AOMAR",
+        "code_postal": "10010",
+        "nom_exact": "CITE BOURRI KACI  10270"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "ATH-MANSOUR",
+        "code_postal": "10011",
+        "nom_exact": "ATH MANSOUR 10125"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BECHLOUL",
+        "code_postal": "10012",
+        "nom_exact": "BECHLOUL 10145"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BIR-GHBALOU",
+        "code_postal": "10013",
+        "nom_exact": "PLACE ZOUBIRI BOUAZA 10440"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BORDJ-OKHRISS-LAIDANI-LAKHDAR",
+        "code_postal": "10014",
+        "nom_exact": "BORDJ OKHRISS RUE PRINCIPAL 10340"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUAKLANE",
+        "code_postal": "10015",
+        "nom_exact": "BOUAKLANE CENTRE 10015"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUDERBALA",
+        "code_postal": "10016",
+        "nom_exact": "BOUDERBALA 10210"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-CITE-HADID-SAID",
+        "code_postal": "10017",
+        "nom_exact": "CITE 1100 BOUIRA 10005"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-DRAA-EL-BORDJ",
+        "code_postal": "10018",
+        "nom_exact": "CITE DES 280 LOGTS BAT 03 10002"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "CHORFA-BAHLOUL-MED-CHERIF",
+        "code_postal": "10019",
+        "nom_exact": "CHORFA 10190"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "DIRAH",
+        "code_postal": "10020",
+        "nom_exact": "DIRAH 10370"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "EL-ADJIBA",
+        "code_postal": "10021",
+        "nom_exact": "EL ADJIBA 10160"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "EL-ASNAM",
+        "code_postal": "10022",
+        "nom_exact": "EL ESNAM 10150"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "EL-HACHIMIA",
+        "code_postal": "10023",
+        "nom_exact": "RUE PRINCIPAL 10490"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "HAIZER",
+        "code_postal": "10024",
+        "nom_exact": "RUE LALOUI RAMDANE 10166"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "KADIRIA 1ER NOV",
+        "code_postal": "10025",
+        "nom_exact": "KADIRIA 1ER NOV 215 LOGTS 10025"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "LAKHDARIA 5 JUILLET",
+        "code_postal": "10026",
+        "nom_exact": "CITE OUALDACHE 10"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OULED-BOUCHIA",
+        "code_postal": "10027",
+        "nom_exact": "OULED-BOUCHIA 10027"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SOUR-EL-GHOZLANE-AZOUZ",
+        "code_postal": "10028",
+        "nom_exact": "SEG AZZOUZ ROUTE DE BORDJ OKHRIIS 10304"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SOUR-EL-GHOZLANE-MEBARKI-TAYEB",
+        "code_postal": "10029",
+        "nom_exact": "RUE MAZANI MOKHTAR 10029"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AHNIF",
+        "code_postal": "10030",
+        "nom_exact": "AHNIF 10130"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-EL-HADJAR-BENLAMRI-DJELLOUL",
+        "code_postal": "10031",
+        "nom_exact": "AIN EL HADJAR 10480"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-LALOUI",
+        "code_postal": "10032",
+        "nom_exact": "AIN LALOUI 10410"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-TURK-SAIH-AKLI",
+        "code_postal": "10033",
+        "nom_exact": "AIN TURK 10120"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIT-LAAZIZ",
+        "code_postal": "10034",
+        "nom_exact": "AIT LAAZIZ 10110"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BAHALIL",
+        "code_postal": "10035",
+        "nom_exact": "BAHALIL  10191"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "DJEBAHIA-ALIOUAT-SAID",
+        "code_postal": "10036",
+        "nom_exact": "DJEBAHIA 10280"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "GUERROUMA",
+        "code_postal": "10037",
+        "nom_exact": "GUERROUMA 10230"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "KHABBOUZIA-MEDROUS-OMAR",
+        "code_postal": "10038",
+        "nom_exact": "KHABBOUZIA 10441"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "MAALA-CHAIA-MOUSSA",
+        "code_postal": "10039",
+        "nom_exact": "MAALA 10240"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "MESDOUR",
+        "code_postal": "10040",
+        "nom_exact": "MESDOUR 10341"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "RAFFOUR-MOUSSAOUI-YAHIA",
+        "code_postal": "10041",
+        "nom_exact": "RAFFOUR 10102"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "RAOURAOUA-DJEDIAT-SAID",
+        "code_postal": "10042",
+        "nom_exact": "RAOURAOUA 10460"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SAHARIDJ-MAMMERI-AMAR",
+        "code_postal": "10043",
+        "nom_exact": "SAHARIDJ 10140"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SOUK-EL-KHEMIS-SERIDJ-BOUDJEMAA",
+        "code_postal": "10044",
+        "nom_exact": "SOUK EL KHEMIS 10420"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TAGUEDITE-LAKEHAL-MOHAMMED",
+        "code_postal": "10045",
+        "nom_exact": "TAGUEDITE 10350"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "ZEBOUDJA",
+        "code_postal": "10046",
+        "nom_exact": "ZEBOUDJA 10221"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "ZOUABRIA",
+        "code_postal": "10047",
+        "nom_exact": "ZOUABRIA 10241"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-BEIDA",
+        "code_postal": "10048",
+        "nom_exact": "AIN-BEIDA 10231"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-TERZINE-HAMLA-RABAI",
+        "code_postal": "10049",
+        "nom_exact": "AIN TERZINE 10342"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "ATH-BOUALI",
+        "code_postal": "10050",
+        "nom_exact": "ATH-BOUALI 10050"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BEGGAS",
+        "code_postal": "10051",
+        "nom_exact": "BEGGAS 10262"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BENI-HAMAD-ZERKAK-SAID",
+        "code_postal": "10052",
+        "nom_exact": "BENI HAMAD 10141"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BENI-HAMDOUNE",
+        "code_postal": "10053",
+        "nom_exact": "BENI HAMDOUNE 10196"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUKRAM-GADIR",
+        "code_postal": "10054",
+        "nom_exact": "BOUKRAM GADIR 10213"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "CHABET-BRAHEM",
+        "code_postal": "10055",
+        "nom_exact": "CHABET-BRAHEM 10055"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "CRETE ROUGE",
+        "code_postal": "10056",
+        "nom_exact": "CRETE ROUGE 10160"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "DECHMYA",
+        "code_postal": "10057",
+        "nom_exact": "DECHMYA 10310"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "EL-HAKIMIA-GHOMARI-BELKACEM",
+        "code_postal": "10058",
+        "nom_exact": "EL HAKIMIA 10320"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "EL-MADJEN-LOTFI",
+        "code_postal": "10059",
+        "nom_exact": "EL MADJEN LOTFI 10430"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "EL-MOKRANI",
+        "code_postal": "10060",
+        "nom_exact": "EL MOKRANI 10402"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "ERRICH",
+        "code_postal": "10061",
+        "nom_exact": "ERRICH 10111"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "GUELT-ZERGA",
+        "code_postal": "10062",
+        "nom_exact": "GULTA ZERGA CENTRE 10062"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "GUENTOUR",
+        "code_postal": "10063",
+        "nom_exact": "GUENTOUR CENTRE VILLE 10167"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "GUERGOUR",
+        "code_postal": "10064",
+        "nom_exact": "GUERGOUR 10202"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "HADJER-ZERGA",
+        "code_postal": "10065",
+        "nom_exact": "HADJER ZERGA 10380"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "HAMMAM-KSENNA",
+        "code_postal": "10066",
+        "nom_exact": "HAMMAM KSENNA10471"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "HAMZA-BOUGHERZOUNE",
+        "code_postal": "10067",
+        "nom_exact": "HAMZA BOUGHERZOUNE VILLAGE AGRICOLE 10472"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "IGHIL-NAIT-AMEUR",
+        "code_postal": "10068",
+        "nom_exact": "IGHIL NAIT AMEUR 10131"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "KRARIB",
+        "code_postal": "10069",
+        "nom_exact": "KRARIB 10271"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "LAHGUIA-MOKHTARI-SAID",
+        "code_postal": "10070",
+        "nom_exact": "LAHGUIA 10281"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "MAMORA",
+        "code_postal": "10071",
+        "nom_exact": "MAMORA 10390"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "M'CID-Z'BARBORA",
+        "code_postal": "10072",
+        "nom_exact": "M'CID-Z'BARBORA 10201"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "MERKALLA",
+        "code_postal": "10073",
+        "nom_exact": "MERKALLA 10168"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "MIHOUBI",
+        "code_postal": "10074",
+        "nom_exact": "MIHOUBI 10442"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OUED-BERDI",
+        "code_postal": "10075",
+        "nom_exact": "OUED BERDI 10490"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OUED-EL-KHEMIS",
+        "code_postal": "10076",
+        "nom_exact": "OUED-EL-KHEMIS 10182"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OUED-LAALEM",
+        "code_postal": "10077",
+        "nom_exact": "OUED-LAALEM 10352"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OULED-GACEM",
+        "code_postal": "10078",
+        "nom_exact": "OULED-GACEM 10242"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OULED-GUEMRA",
+        "code_postal": "10079",
+        "nom_exact": "OULED-GUEMRA 10491"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OULED-LALEM",
+        "code_postal": "10080",
+        "nom_exact": "OULED-LALEM 10261"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OULED-RACHED",
+        "code_postal": "10081",
+        "nom_exact": "OULED-RACHED 10185"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "OULED-TCHALABI",
+        "code_postal": "10082",
+        "nom_exact": "OULED-TCHALABI 10211"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "RIDANE-HATEB-KADDOUR",
+        "code_postal": "10083",
+        "nom_exact": "RIDANE 10300"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SAID-ABID",
+        "code_postal": "10084",
+        "nom_exact": "SAID-ABID 10002"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SEBT",
+        "code_postal": "10085",
+        "nom_exact": "SEBT 10211"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SELLOUM",
+        "code_postal": "10086",
+        "nom_exact": "SELLOUM 10192"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SEMMACHE",
+        "code_postal": "10087",
+        "nom_exact": "SEMMACHE 10161"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SIDI-YAHIA",
+        "code_postal": "10088",
+        "nom_exact": "SIDI-YAHIA 10401"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TAGHZOUT",
+        "code_postal": "10089",
+        "nom_exact": "TAGHZOUT 10170"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TALIOUINE",
+        "code_postal": "10090",
+        "nom_exact": "TAIOUINE CENTRE 10090"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "THAMER",
+        "code_postal": "10091",
+        "nom_exact": "THAMER VILLAGE AGRICOLE 10003"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TIKBOUCHT",
+        "code_postal": "10092",
+        "nom_exact": "TIKBOUCHT 10169"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TIKSIRIDENE-CHIKH-MOHAMED",
+        "code_postal": "10093",
+        "nom_exact": "TIKSIRIDENE 10194"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TIZI-LARBAA",
+        "code_postal": "10094",
+        "nom_exact": "TIZI LARBAA 10272"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "TOGHZA-OUKRID-MOHAMED",
+        "code_postal": "10095",
+        "nom_exact": "TOGHZA 10195"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "ZEBARA-LADJ-MOHAMED",
+        "code_postal": "10096",
+        "nom_exact": "ZEBARA 10351"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "KRICHICHE",
+        "code_postal": "10098",
+        "nom_exact": "KRICHICHE CITE CNEP 10098"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BEN-HAROUNE-DJEBRI-SAID",
+        "code_postal": "10099",
+        "nom_exact": "BEN HAROUNE EST 10099"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "IGHREM",
+        "code_postal": "10100",
+        "nom_exact": "IGHREM CENTRE 10100"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-IZHABI-BOUALEM",
+        "code_postal": "10101",
+        "nom_exact": "CITE 140 LOGTS 10101 BOUIRA"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-BESSEM-MAHI-AHMED",
+        "code_postal": "10102",
+        "nom_exact": "CITE DAHMANI MAHFOUDH 10102"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "RAS-BOUIRA",
+        "code_postal": "10103",
+        "nom_exact": "RAS BOUIRA BENABDELLAH 10112"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-POLE-UNIVERSITAIRE",
+        "code_postal": "10104",
+        "nom_exact": "POLE UNIVERSITAIRE BOUIRA"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-GARE-ROUTIERE",
+        "code_postal": "10105",
+        "nom_exact": "BOUIRA GARE ROUTIERE 10005"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "SOUR-EL-GHOZLANE-GARE-ROUTIERE",
+        "code_postal": "10106",
+        "nom_exact": "GARE ROUTIERE SEG  10006"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "AIN-BESSEM-ZERDEB-MOHAMED",
+        "code_postal": "10107",
+        "nom_exact": "ROUTE DE SOUK EL KHEMIS"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "BOUIRA-UNIVERSITE",
+        "code_postal": "10108",
+        "nom_exact": "CITE 1100 BOUIRA 10108"
+    },
+    {
+        "wilaya": "BOUIRA",
+        "nom": "RESIDENCE-UNIVERSITAIRE-AINOUCHE-CHAMA",
+        "code_postal": "10109",
+        "nom_exact": "CITE 140 LOGTS 10101 BOUIRA"
+    }
+]

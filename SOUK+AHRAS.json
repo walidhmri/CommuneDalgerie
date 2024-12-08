@@ -1,0 +1,326 @@
+[
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-RP",
+        "code_postal": "41000",
+        "nom_exact": "RUE BADJI MOKHTAR"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "M'DAOUROUCH",
+        "code_postal": "41001",
+        "nom_exact": "RUE 20 AOUT M'D"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SEDRATA",
+        "code_postal": "41002",
+        "nom_exact": "RUE DE LAPAIX"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-IBN-KHALDOUNE",
+        "code_postal": "41003",
+        "nom_exact": "RUE IBN KHALDOUN"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "MERAHNA",
+        "code_postal": "41004",
+        "nom_exact": "CITE BEN YAZA ELBADJI"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "OULED-DRISS",
+        "code_postal": "41005",
+        "nom_exact": "RUE 20 AOUT O-D"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SEDRATA-8 MAI 1945",
+        "code_postal": "41006",
+        "nom_exact": "RUE 8 MAI 1945"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-8 MAI 1945",
+        "code_postal": "41007",
+        "nom_exact": "RUE ATARSSIA LARBI"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-BERRAL SALAH",
+        "code_postal": "41008",
+        "nom_exact": "380 LOGEMENT"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "TAOURA",
+        "code_postal": "41009",
+        "nom_exact": "RUE ABABSIA LEHBIBE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "AIN-SEYNOUR",
+        "code_postal": "41010",
+        "nom_exact": "RUE NATIONNAL N°16"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "BIR-BOUHOUCHE",
+        "code_postal": "41011",
+        "nom_exact": "RUE NATIONNAL N° 80"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "BIR-LOUHICHI",
+        "code_postal": "41012",
+        "nom_exact": "ZONE COMMERCIAL BIR LOUHICHI"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "BORDJ-M'RAOU",
+        "code_postal": "41013",
+        "nom_exact": "CITE CHAHID"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "BOUMARAF-SEBTI",
+        "code_postal": "41014",
+        "nom_exact": "SECTEUR 90"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "DREA",
+        "code_postal": "41015",
+        "nom_exact": "RUE BRAHMIA ABEDE LAHE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "EL-BETIHA",
+        "code_postal": "41016",
+        "nom_exact": "EL-BTIHA CENTER"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "MECHROHA",
+        "code_postal": "41017",
+        "nom_exact": "RUE 1 NOVEMBRE 1954 MECHROHA"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "OUED-KEBERIT",
+        "code_postal": "41018",
+        "nom_exact": "CENTRE OUED KEBERIT"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "OUM-EL-ADHAIM",
+        "code_postal": "41019",
+        "nom_exact": "CITE ZAMZOM BRAHIME"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SEDRATA-ESSANOUBAR",
+        "code_postal": "41020",
+        "nom_exact": "CITE 69 LOGEMENT"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-17 OCTOBRE",
+        "code_postal": "41021",
+        "nom_exact": "CITE 17 OCTOBRE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-AHMED-DRAIA",
+        "code_postal": "41022",
+        "nom_exact": "CITE AHMED DRAIA"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-ALAOUIA",
+        "code_postal": "41023",
+        "nom_exact": "CITE ALAOUIA"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-HAMMA-LOULOU",
+        "code_postal": "41024",
+        "nom_exact": "CITE HAMMA LOULOU"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "ZAAROURIA",
+        "code_postal": "41025",
+        "nom_exact": "SOUK EL FALAH"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "AIN-SOLTANE",
+        "code_postal": "41026",
+        "nom_exact": "RUE HAMDANI AMARE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "AIN-ZANA",
+        "code_postal": "41027",
+        "nom_exact": "CITE ANNASER"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "BATTOUM",
+        "code_postal": "41028",
+        "nom_exact": "CITE BATTOUM"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "BOUKEBCH",
+        "code_postal": "41029",
+        "nom_exact": "CITE BOUKEBCH"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "EL-BORDJ",
+        "code_postal": "41030",
+        "nom_exact": "CITE EL- BORDJ"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "KHEMISSA",
+        "code_postal": "41031",
+        "nom_exact": "CITE SERGENT BOKEHILI"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "OUILLEN",
+        "code_postal": "41032",
+        "nom_exact": "CITE OUILLEN"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "RAGOUBA",
+        "code_postal": "41033",
+        "nom_exact": "ANCIEN RAGOUBA"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "RAS-EL-KEF",
+        "code_postal": "41034",
+        "nom_exact": "CITE DE L'INDEPENDANCE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SAFEL-EL-OUIDEN",
+        "code_postal": "41035",
+        "nom_exact": "CITE DE L'INDEPENDANCE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-IBN-ROCHD",
+        "code_postal": "41036",
+        "nom_exact": "CITE IBN ROCHD"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "TERRAGUELT",
+        "code_postal": "41037",
+        "nom_exact": "CITE CHAHID"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "TIFFECH",
+        "code_postal": "41038",
+        "nom_exact": "CENTRE TIFFECH"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "ZOUABI",
+        "code_postal": "41039",
+        "nom_exact": "RUE HOUARI BOMEDIENE"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "TAGHAST",
+        "code_postal": "41040",
+        "nom_exact": "RUE D'ALGER"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "M'DAOUROUCH-ACHOURI ALI",
+        "code_postal": "41041",
+        "nom_exact": "CITE ACHOURI ALI"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "OULED-ABBES",
+        "code_postal": "41042",
+        "nom_exact": "CITE OULED -ABBES"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-UNIVERSITE",
+        "code_postal": "41043",
+        "nom_exact": "UNIVERSITE MESSADIA MOHAMED CHERIF"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "TAOURA-INSTITUT-VETERINAIRE",
+        "code_postal": "41044",
+        "nom_exact": "INSTITUT VETERINAIRE TAOURA"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "MECHROHA-SIDI-BRAHIM",
+        "code_postal": "41045",
+        "nom_exact": "CITE SIDI BRAHIM COMMUNE DE MECHROHA"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-GARE-ROUTIERE",
+        "code_postal": "41046",
+        "nom_exact": "GARE-ROUTIERE,COMMUNE DE SOUK-AHRAS"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "M'DAOUROUCH-GARE-ROUTIERE",
+        "code_postal": "41047",
+        "nom_exact": "GARE-ROUTIERE,COMMUNE DE MDAOUROUCH"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "DJEHIFA",
+        "code_postal": "41048",
+        "nom_exact": "localité de Djehifa,commune de Zaarouria"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SOUK-AHRAS-MEHDI-MOHAMED-SALAH",
+        "code_postal": "41049",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "SEDRATA-HADADI-HOUMANA",
+        "code_postal": "41050",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "M'DAOUROUCH-REMADNIA-ALI",
+        "code_postal": "41051",
+        "nom_exact": ""
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "EL-FOUID-BENHACHICHE-RABAH",
+        "code_postal": "41052",
+        "nom_exact": "EL-FOUID"
+    },
+    {
+        "wilaya": "SOUK+AHRAS",
+        "nom": "M'DAOUROUCH-DAREK-WATANI",
+        "code_postal": "41053",
+        "nom_exact": "CASERNE GENDARMERIE M'DAOUROUCH"
+    }
+]
